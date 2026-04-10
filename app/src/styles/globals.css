@@ -30,6 +30,11 @@
   --color-not-started: hsl(215, 15%, 55%);
   --color-not-started-light: hsl(215, 15%, 93%);
 
+  /* Nepal Flag Red Accent */
+  --color-nepal-red: hsl(351, 80%, 46%);
+  --color-nepal-red-hover: hsl(351, 80%, 36%);
+  --color-nepal-red-light: hsla(351, 80%, 46%, 0.1);
+
   /* Surfaces */
   --color-bg: hsl(210, 20%, 98%);
   --color-surface: hsl(0, 0%, 100%);
@@ -149,7 +154,7 @@ a:hover {
 }
 
 a:focus-visible {
-  outline: 2px solid var(--color-accent);
+  outline: 2px solid var(--color-nepal-red);
   outline-offset: 2px;
   border-radius: var(--radius-sm);
 }
@@ -168,7 +173,7 @@ button {
 }
 
 button:focus-visible {
-  outline: 2px solid var(--color-accent);
+  outline: 2px solid var(--color-nepal-red);
   outline-offset: 2px;
   border-radius: var(--radius-sm);
 }
