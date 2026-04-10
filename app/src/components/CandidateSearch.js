@@ -7,7 +7,6 @@ const records = electionData.results || [];
 
 export default function CandidateSearch() {
   const [searchName, setSearchName] = useState('');
-  const [selectedProvince, setSelectedProvince] = useState('');
   const [selectedDistrict, setSelectedDistrict] = useState('');
   const [selectedConstituency, setSelectedConstituency] = useState('');
   const [appliedFilters, setAppliedFilters] = useState(null);
@@ -25,36 +24,25 @@ export default function CandidateSearch() {
   };
 
   // Compute specific dropdown options
-  const provinces = useMemo(() => {
-    return [...new Set(records.map(r => r.province))].filter(Boolean).sort();
-  }, []);
-
   const districts = useMemo(() => {
-    if (!selectedProvince) return [];
-    return [...new Set(records.filter(r => r.province === selectedProvince).map(r => r.district))].filter(Boolean).sort();
-  }, [selectedProvince]);
+    return [...new Set(records.map(r => r.district))].filter(Boolean).sort();
+  }, []);
 
   const constituencies = useMemo(() => {
     if (!selectedDistrict) return [];
-    return [...new Set(records.filter(r => r.province === selectedProvince && r.district === selectedDistrict).map(r => r.constituency))].filter(Boolean).sort();
-  }, [selectedProvince, selectedDistrict]);
+    return [...new Set(records.filter(r => r.district === selectedDistrict).map(r => r.constituency))].filter(Boolean).sort();
+  }, [selectedDistrict]);
 
   // Handlers for cascading selects
-  const handleProvinceChange = (e) => {
-    setSelectedProvince(e.target.value);
-    setSelectedDistrict('');
-    setSelectedConstituency('');
-  };
-
   const handleDistrictChange = (e) => {
     setSelectedDistrict(e.target.value);
     setSelectedConstituency('');
   };
 
+
   const handleSearch = () => {
     setAppliedFilters({
       name: searchName.trim().toLowerCase(),
-      province: selectedProvince,
       district: selectedDistrict,
       constituency: selectedConstituency
     });
@@ -65,18 +53,17 @@ export default function CandidateSearch() {
     if (!appliedFilters) return null;
     
     // If user hit search but all filters are empty, return null (no results to show)
-    if (!appliedFilters.name && !appliedFilters.province && !appliedFilters.district && !appliedFilters.constituency) {
+    if (!appliedFilters.name && !appliedFilters.district && !appliedFilters.constituency) {
       return null;
     }
 
     return records.filter(r => {
       // AND logic: if a filter exists and doesn't match, drop the record
-      if (appliedFilters.province && r.province !== appliedFilters.province) return false;
       if (appliedFilters.district && r.district !== appliedFilters.district) return false;
       if (appliedFilters.constituency && r.constituency !== appliedFilters.constituency) return false;
       
       if (appliedFilters.name) {
-        const winnerName = r.result?.winner?.name?.toLowerCase() || '';
+        const winnerName = r.candidate?.name?.toLowerCase() || '';
         const searchTokens = appliedFilters.name.split(/\s+/).filter(Boolean);
         if (!searchTokens.every(token => winnerName.includes(token))) return false;
       }
@@ -93,7 +80,7 @@ export default function CandidateSearch() {
     const tokens = searchName.trim().toLowerCase().split(/\s+/).filter(Boolean);
     const matches = {};
     records.forEach(r => {
-      const name = r.result?.winner?.name || '';
+      const name = r.candidate?.name || '';
       if (tokens.every(token => name.toLowerCase().includes(token))) {
         matches[name] = true; // Use object to ensure unique names
       }
@@ -101,7 +88,7 @@ export default function CandidateSearch() {
     return Object.keys(matches).slice(0, 7); // Show max 7 suggestions
   }, [searchName]);
 
-  const isSearchDisabled = !searchName.trim() && !selectedProvince && !selectedDistrict && !selectedConstituency;
+  const isSearchDisabled = !searchName.trim() && !selectedDistrict && !selectedConstituency;
 
   return (
     <div>
@@ -155,23 +142,9 @@ export default function CandidateSearch() {
 
           {/* Selects */}
           <select
-            id="search-province"
-            value={selectedProvince}
-            onChange={handleProvinceChange}
-            className="candidate-search-select"
-            aria-label="Province"
-          >
-            <option value="">Province</option>
-            {provinces.map(p => (
-              <option key={p} value={p}>{p}</option>
-            ))}
-          </select>
-
-          <select
             id="search-district"
             value={selectedDistrict}
             onChange={handleDistrictChange}
-            disabled={!selectedProvince}
             className="candidate-search-select"
             aria-label="District"
           >
@@ -215,32 +188,27 @@ export default function CandidateSearch() {
         ) : (
           <div className="promise-grid">
             {filteredResults.map((r, i) => (
-              <div key={i} className="candidate-card">
-                <h3 className="candidate-card__title">{r.result?.winner?.name || 'Unknown Candidate'}</h3>
+              <div key={r.id || i} className="candidate-card">
+                <h3 className="candidate-card__title">{r.candidate?.name || 'Unknown Candidate'}</h3>
                 
                 <div className="candidate-card__party">
-                   {r.result?.winner?.party || 'Unknown Party'}
+                   {r.candidate?.party || 'Unknown Party'}
                 </div>
                 
                 <div className="candidate-card__stats">
                   <div className="candidate-card__stat-group">
                     <span className="candidate-card__stat-label">Location</span>
                     <span className="candidate-card__stat-val" style={{ fontSize: 'var(--text-xs)', fontWeight: 'var(--weight-normal)', color: 'var(--color-text-secondary)'}}>
-                       {r.province} &bull; {cleanDistrict(r.district)} {cleanConstituency(r.constituency)}
+                       {cleanDistrict(r.district)} {cleanConstituency(r.constituency)}
                     </span>
                   </div>
                   <div className="candidate-card__stat-group" style={{ marginLeft: 'auto', textAlign: 'right' }}>
                     <span className="candidate-card__stat-label">Votes</span>
                     <span className="candidate-card__stat-val">
-                      {r.result?.winner?.votes_received?.toLocaleString() || '0'}
+                      {r.candidate?.votes_received?.toLocaleString() || '0'}
                     </span>
                   </div>
-                  <div className="candidate-card__stat-group" style={{ textAlign: 'right' }}>
-                    <span className="candidate-card__stat-label">Margin</span>
-                    <span className="candidate-card__stat-val" style={{ color: 'var(--color-accent)' }}>
-                      +{r.result?.vote_margin?.toLocaleString() || '0'}
-                    </span>
-                  </div>
+                  {/* Vote margin removed as it's absent from the new data schema */}
                 </div>
               </div>
             ))}
