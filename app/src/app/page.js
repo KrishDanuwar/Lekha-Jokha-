@@ -7,7 +7,7 @@ import { getPromiseStatuses, getElectionInfo } from '@/lib/queries';
 import StatsOverview from '@/components/StatsOverview';
 import PromiseCard from '@/components/PromiseCard';
 import CandidateSearch from '@/components/CandidateSearch';
-import heroBg from '../hero section.jpeg';
+import heroBg from '../hero-section.jpeg';
 
 export default function HomePage() {
   const { locale, t } = useI18n();
@@ -60,7 +60,7 @@ export default function HomePage() {
       <section 
         className="hero"
         style={{
-          backgroundImage: `linear-gradient(rgba(0, 0, 0, 0.65), rgba(0, 0, 0, 0.65)), url(${heroBg.src})`,
+          backgroundImage: `linear-gradient(rgba(0, 0, 0, 0.65), rgba(0, 0, 0, 0.65)), url("${heroBg.src}")`,
           backgroundSize: 'cover',
           backgroundPosition: 'center',
           borderRadius: 'var(--radius-lg)'
