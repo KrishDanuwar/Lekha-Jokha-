@@ -1,0 +1,4557 @@
+{
+  "election_year_bs": 2082,
+  "total_constituencies": 182,
+  "scraped_at": "2026-04-10T18:14:40.058266Z",
+  "results": [
+    {
+      "province": "Koshi",
+      "district": "Jhapa/Constituency 5?Lng=Nep",
+      "constituency": "Jhapa/Constituency 5?Lng=Nep-5?lng=nep",
+      "election_year_bs": 2082,
+      "election_type": "federal",
+      "result": {
+        "winner": {
+          "name": "\u0915\u0947\u092a\u0940 \u0936\u0930\u094d\u092e\u093e \u0913\u0932\u0940",
+          "party": "\u0928\u0947\u0915\u092a\u093e (\u090f\u092e\u093e\u0932\u0947)",
+          "votes_received": 1873449614
+        },
+        "runner_up": {
+          "name": "\u0938\u092e\u093f\u0930 \u0924\u093e\u092e\u093e\u0919\u094d\u0917",
+          "party": "\u0936\u094d\u0930\u092e \u0938\u0902\u0938\u094d\u0915\u0943\u0924\u093f \u092a\u093e\u0930\u094d\u091f\u0940",
+          "votes_received": 923359115
+        },
+        "vote_margin": 950090499
+      },
+      "source": {
+        "publisher": "ekantipur",
+        "url": "https://election.ekantipur.com/pradesh-1/district-jhapa/constituency-5?lng=nep",
+        "source_type": "news_article"
+      }
+    },
+    {
+      "province": "Koshi",
+      "district": "Jhapa/Constituency 5?Lng=Nep",
+      "constituency": "Jhapa/Constituency 5?Lng=Nep-5?lng=eng",
+      "election_year_bs": 2082,
+      "election_type": "federal",
+      "result": {
+        "winner": {
+          "name": "KP Sharma Oli",
+          "party": "CPN-UML",
+          "votes_received": 1873449614
+        },
+        "runner_up": {
+          "name": "Samir Tamang",
+          "party": "Shram Sanskriti Party",
+          "votes_received": 923359115
+        },
+        "vote_margin": 950090499
+      },
+      "source": {
+        "publisher": "ekantipur",
+        "url": "https://election.ekantipur.com/pradesh-1/district-jhapa/constituency-5?lng=eng",
+        "source_type": "news_article"
+      }
+    },
+    {
+      "province": "Koshi",
+      "district": "Rukumeast/Constituency 1?Lng=Nep",
+      "constituency": "Rukumeast/Constituency 1?Lng=Nep-1?lng=nep",
+      "election_year_bs": 2082,
+      "election_type": "federal",
+      "result": {
+        "winner": {
+          "name": "\u0932\u093f\u0932\u093e\u092e\u0923\u0940 \u0917\u094c\u0924\u092e",
+          "party": "\u0928\u0947\u0915\u092a\u093e (\u090f\u092e\u093e\u0932\u0947)",
+          "votes_received": 34626778
+        },
+        "runner_up": {
+          "name": "\u0915\u0941\u0938\u0941\u092e \u0926\u0947\u0935\u0940 \u0925\u093e\u092a\u093e",
+          "party": "\u0928\u0947\u092a\u093e\u0932\u0940 \u0915\u093e\u0901\u0917\u094d\u0930\u0947\u0938",
+          "votes_received": 30817159
+        },
+        "vote_margin": 3809619
+      },
+      "source": {
+        "publisher": "ekantipur",
+        "url": "https://election.ekantipur.com/pradesh-5/district-rukumeast/constituency-1?lng=nep",
+        "source_type": "news_article"
+      }
+    },
+    {
+      "province": "Koshi",
+      "district": "Rukumeast/Constituency 1?Lng=Nep",
+      "constituency": "Rukumeast/Constituency 1?Lng=Nep-1?lng=eng",
+      "election_year_bs": 2082,
+      "election_type": "federal",
+      "result": {
+        "winner": {
+          "name": "Lilamani Gautam",
+          "party": "CPN-UML",
+          "votes_received": 34626778
+        },
+        "runner_up": {
+          "name": "Kusum Devi Thapa",
+          "party": "Nepali Congress",
+          "votes_received": 30817159
+        },
+        "vote_margin": 3809619
+      },
+      "source": {
+        "publisher": "ekantipur",
+        "url": "https://election.ekantipur.com/pradesh-5/district-rukumeast/constituency-1?lng=eng",
+        "source_type": "news_article"
+      }
+    },
+    {
+      "province": "Koshi",
+      "district": "Bhaktapur/Constituency 2?Lng=Nep",
+      "constituency": "Bhaktapur/Constituency 2?Lng=Nep-2?lng=nep",
+      "election_year_bs": 2082,
+      "election_type": "federal",
+      "result": {
+        "winner": {
+          "name": "\u092e\u0939\u0947\u0936 \u092c\u0938\u094d\u0928\u0947\u0924",
+          "party": "\u0928\u0947\u0915\u092a\u093e (\u090f\u092e\u093e\u0932\u0947)",
+          "votes_received": 1099631338
+        },
+        "runner_up": {
+          "name": "\u0915\u0935\u093f\u0930 \u0930\u093e\u0923\u093e",
+          "party": "\u0928\u0947\u092a\u093e\u0932\u0940 \u0915\u093e\u0901\u0917\u094d\u0930\u0947\u0938",
+          "votes_received": 840133933
+        },
+        "vote_margin": 259497405
+      },
+      "source": {
+        "publisher": "ekantipur",
+        "url": "https://election.ekantipur.com/pradesh-3/district-bhaktapur/constituency-2?lng=nep",
+        "source_type": "news_article"
+      }
+    },
+    {
+      "province": "Koshi",
+      "district": "Bhaktapur/Constituency 2?Lng=Nep",
+      "constituency": "Bhaktapur/Constituency 2?Lng=Nep-2?lng=eng",
+      "election_year_bs": 2082,
+      "election_type": "federal",
+      "result": {
+        "winner": {
+          "name": "Mahesh Basnet",
+          "party": "CPN-UML",
+          "votes_received": 1099631338
+        },
+        "runner_up": {
+          "name": "Kavir Rana",
+          "party": "Nepali Congress",
+          "votes_received": 840133933
+        },
+        "vote_margin": 259497405
+      },
+      "source": {
+        "publisher": "ekantipur",
+        "url": "https://election.ekantipur.com/pradesh-3/district-bhaktapur/constituency-2?lng=eng",
+        "source_type": "news_article"
+      }
+    },
+    {
+      "province": "Koshi",
+      "district": "Chitwan/Constituency 2?Lng=Nep",
+      "constituency": "Chitwan/Constituency 2?Lng=Nep-2?lng=nep",
+      "election_year_bs": 2082,
+      "election_type": "federal",
+      "result": {
+        "winner": {
+          "name": "\u092e\u093f\u0928\u093e \u0915\u0941\u092e\u093e\u0930\u0940 \u0916\u0930\u0947\u0932",
+          "party": "\u0928\u0947\u092a\u093e\u0932\u0940 \u0915\u093e\u0901\u0917\u094d\u0930\u0947\u0938",
+          "votes_received": 1456439838
+        },
+        "runner_up": {
+          "name": "\u0905\u0938\u094d\u092e\u093f\u0928 \u0918\u093f\u092e\u093f\u0930\u0947",
+          "party": "\u0928\u0947\u0915\u092a\u093e (\u090f\u092e\u093e\u0932\u0947)",
+          "votes_received": 699247410
+        },
+        "vote_margin": 757192428
+      },
+      "source": {
+        "publisher": "ekantipur",
+        "url": "https://election.ekantipur.com/pradesh-3/district-chitwan/constituency-2?lng=nep",
+        "source_type": "news_article"
+      }
+    },
+    {
+      "province": "Koshi",
+      "district": "Chitwan/Constituency 2?Lng=Nep",
+      "constituency": "Chitwan/Constituency 2?Lng=Nep-2?lng=eng",
+      "election_year_bs": 2082,
+      "election_type": "federal",
+      "result": {
+        "winner": {
+          "name": "Meena Kumari Kharel",
+          "party": "Nepali Congress",
+          "votes_received": 1456439838
+        },
+        "runner_up": {
+          "name": "Ashim Ghimire",
+          "party": "CPN-UML",
+          "votes_received": 699247410
+        },
+        "vote_margin": 757192428
+      },
+      "source": {
+        "publisher": "ekantipur",
+        "url": "https://election.ekantipur.com/pradesh-3/district-chitwan/constituency-2?lng=eng",
+        "source_type": "news_article"
+      }
+    },
+    {
+      "province": "Koshi",
+      "district": "Rautahat/Constituency 1?Lng=Nep",
+      "constituency": "Rautahat/Constituency 1?Lng=Nep-5?lng=nep",
+      "election_year_bs": 2082,
+      "election_type": "federal",
+      "result": {
+        "winner": {
+          "name": "\u0915\u0947\u092a\u0940 \u0936\u0930\u094d\u092e\u093e \u0913\u0932\u0940",
+          "party": "\u0928\u0947\u0915\u092a\u093e (\u090f\u092e\u093e\u0932\u0947)",
+          "votes_received": 1873449614
+        },
+        "runner_up": {
+          "name": "\u0938\u092e\u093f\u0930 \u0924\u093e\u092e\u093e\u0919\u094d\u0917",
+          "party": "\u0936\u094d\u0930\u092e \u0938\u0902\u0938\u094d\u0915\u0943\u0924\u093f \u092a\u093e\u0930\u094d\u091f\u0940",
+          "votes_received": 923359115
+        },
+        "vote_margin": 950090499
+      },
+      "source": {
+        "publisher": "ekantipur",
+        "url": "https://election.ekantipur.com/pradesh-1/district-jhapa/constituency-5?lng=nep",
+        "source_type": "news_article"
+      }
+    },
+    {
+      "province": "Koshi",
+      "district": "Rautahat/Constituency 1?Lng=Nep",
+      "constituency": "Rautahat/Constituency 1?Lng=Nep-1?lng=nep",
+      "election_year_bs": 2082,
+      "election_type": "federal",
+      "result": {
+        "winner": {
+          "name": "\u0932\u093f\u0932\u093e\u092e\u0923\u0940 \u0917\u094c\u0924\u092e",
+          "party": "\u0928\u0947\u0915\u092a\u093e (\u090f\u092e\u093e\u0932\u0947)",
+          "votes_received": 34626778
+        },
+        "runner_up": {
+          "name": "\u0915\u0941\u0938\u0941\u092e \u0926\u0947\u0935\u0940 \u0925\u093e\u092a\u093e",
+          "party": "\u0928\u0947\u092a\u093e\u0932\u0940 \u0915\u093e\u0901\u0917\u094d\u0930\u0947\u0938",
+          "votes_received": 30817159
+        },
+        "vote_margin": 3809619
+      },
+      "source": {
+        "publisher": "ekantipur",
+        "url": "https://election.ekantipur.com/pradesh-5/district-rukumeast/constituency-1?lng=nep",
+        "source_type": "news_article"
+      }
+    },
+    {
+      "province": "Koshi",
+      "district": "Rautahat/Constituency 1?Lng=Nep",
+      "constituency": "Rautahat/Constituency 1?Lng=Nep-2?lng=nep",
+      "election_year_bs": 2082,
+      "election_type": "federal",
+      "result": {
+        "winner": {
+          "name": "\u092e\u0939\u0947\u0936 \u092c\u0938\u094d\u0928\u0947\u0924",
+          "party": "\u0928\u0947\u0915\u092a\u093e (\u090f\u092e\u093e\u0932\u0947)",
+          "votes_received": 1099631338
+        },
+        "runner_up": {
+          "name": "\u0915\u0935\u093f\u0930 \u0930\u093e\u0923\u093e",
+          "party": "\u0928\u0947\u092a\u093e\u0932\u0940 \u0915\u093e\u0901\u0917\u094d\u0930\u0947\u0938",
+          "votes_received": 840133933
+        },
+        "vote_margin": 259497405
+      },
+      "source": {
+        "publisher": "ekantipur",
+        "url": "https://election.ekantipur.com/pradesh-3/district-bhaktapur/constituency-2?lng=nep",
+        "source_type": "news_article"
+      }
+    },
+    {
+      "province": "Koshi",
+      "district": "Rautahat/Constituency 1?Lng=Nep",
+      "constituency": "Rautahat/Constituency 1?Lng=Nep-3?lng=nep",
+      "election_year_bs": 2082,
+      "election_type": "federal",
+      "result": {
+        "winner": {
+          "name": "\u0930\u092e\u0947\u0936 \u0905\u0930\u094d\u092f\u093e\u0932",
+          "party": "\u0928\u0947\u092a\u093e\u0932\u0940 \u0915\u093e\u0901\u0917\u094d\u0930\u0947\u0938",
+          "votes_received": 600012756
+        },
+        "runner_up": {
+          "name": "\u0930\u093e\u092e\u0947\u0936\u094d\u0935\u0930 \u092b\u0941\u092f\u093e\u0932",
+          "party": "\u0928\u0947\u0915\u092a\u093e (\u090f\u092e\u093e\u0932\u0947)",
+          "votes_received": 381614940
+        },
+        "vote_margin": 218397816
+      },
+      "source": {
+        "publisher": "ekantipur",
+        "url": "https://election.ekantipur.com/pradesh-3/district-kathmandu/constituency-3?lng=nep",
+        "source_type": "news_article"
+      }
+    },
+    {
+      "province": "Koshi",
+      "district": "Kathmandu/Constituency 3?Lng=Nep",
+      "constituency": "Kathmandu/Constituency 3?Lng=Nep-3?lng=nep",
+      "election_year_bs": 2082,
+      "election_type": "federal",
+      "result": {
+        "winner": {
+          "name": "\u0930\u092e\u0947\u0936 \u0905\u0930\u094d\u092f\u093e\u0932",
+          "party": "\u0928\u0947\u092a\u093e\u0932\u0940 \u0915\u093e\u0901\u0917\u094d\u0930\u0947\u0938",
+          "votes_received": 600012756
+        },
+        "runner_up": {
+          "name": "\u0930\u093e\u092e\u0947\u0936\u094d\u0935\u0930 \u092b\u0941\u092f\u093e\u0932",
+          "party": "\u0928\u0947\u0915\u092a\u093e (\u090f\u092e\u093e\u0932\u0947)",
+          "votes_received": 381614940
+        },
+        "vote_margin": 218397816
+      },
+      "source": {
+        "publisher": "ekantipur",
+        "url": "https://election.ekantipur.com/pradesh-3/district-kathmandu/constituency-3?lng=nep",
+        "source_type": "news_article"
+      }
+    },
+    {
+      "province": "Koshi",
+      "district": "Kathmandu/Constituency 3?Lng=Nep",
+      "constituency": "Kathmandu/Constituency 3?Lng=Nep-3?lng=eng",
+      "election_year_bs": 2082,
+      "election_type": "federal",
+      "result": {
+        "winner": {
+          "name": "Ramesh Aryal",
+          "party": "Nepali Congress",
+          "votes_received": 600012756
+        },
+        "runner_up": {
+          "name": "Rameshwar Phuyal",
+          "party": "CPN-UML",
+          "votes_received": 381614940
+        },
+        "vote_margin": 218397816
+      },
+      "source": {
+        "publisher": "ekantipur",
+        "url": "https://election.ekantipur.com/pradesh-3/district-kathmandu/constituency-3?lng=eng",
+        "source_type": "news_article"
+      }
+    },
+    {
+      "province": "Koshi",
+      "district": "Myagdi/Constituency 1?Lng=Nep",
+      "constituency": "Myagdi/Constituency 1?Lng=Nep-1?lng=nep",
+      "election_year_bs": 2082,
+      "election_type": "federal",
+      "result": {
+        "winner": {
+          "name": "\u0939\u0930\u093f\u0915\u0943\u0937\u094d\u0923 \u0936\u094d\u0930\u0947\u0937\u094d\u0920",
+          "party": "\u0928\u0947\u0915\u092a\u093e (\u090f\u092e\u093e\u0932\u0947)",
+          "votes_received": 791914931
+        },
+        "runner_up": {
+          "name": "\u0915\u0930\u094d\u0923 \u092c\u0939\u093e\u0926\u0941\u0930 \u092d\u0923\u094d\u0921\u093e\u0930\u0940",
+          "party": "\u0928\u0947\u092a\u093e\u0932\u0940 \u0915\u093e\u0901\u0917\u094d\u0930\u0947\u0938",
+          "votes_received": 668316167
+        },
+        "vote_margin": 123598764
+      },
+      "source": {
+        "publisher": "ekantipur",
+        "url": "https://election.ekantipur.com/pradesh-4/district-myagdi/constituency-1?lng=nep",
+        "source_type": "news_article"
+      }
+    },
+    {
+      "province": "Koshi",
+      "district": "Myagdi/Constituency 1?Lng=Nep",
+      "constituency": "Myagdi/Constituency 1?Lng=Nep-1?lng=eng",
+      "election_year_bs": 2082,
+      "election_type": "federal",
+      "result": {
+        "winner": {
+          "name": "Harikrishna Shrestha",
+          "party": "CPN-UML",
+          "votes_received": 791914931
+        },
+        "runner_up": {
+          "name": "Karna Bahadur Bhandari",
+          "party": "Nepali Congress",
+          "votes_received": 668316167
+        },
+        "vote_margin": 123598764
+      },
+      "source": {
+        "publisher": "ekantipur",
+        "url": "https://election.ekantipur.com/pradesh-4/district-myagdi/constituency-1?lng=eng",
+        "source_type": "news_article"
+      }
+    },
+    {
+      "province": "Koshi",
+      "district": "Lalitpur/Constituency 3?Lng=Nep",
+      "constituency": "Lalitpur/Constituency 3?Lng=Nep-3?lng=nep",
+      "election_year_bs": 2082,
+      "election_type": "federal",
+      "result": {
+        "winner": {
+          "name": "\u091c\u093f\u0924\u0947\u0928\u094d\u0926\u094d\u0930 \u0915\u0941\u092e\u093e\u0930 \u0936\u094d\u0930\u0947\u0937\u094d\u0920",
+          "party": "\u0928\u0947\u092a\u093e\u0932\u0940 \u0915\u093e\u0901\u0917\u094d\u0930\u0947\u0938",
+          "votes_received": 904534051
+        },
+        "runner_up": {
+          "name": "\u0930\u093e\u091c \u0915\u093e\u091c\u0940 \u092e\u0939\u0930\u094d\u091c\u0928",
+          "party": "\u0928\u0947\u092a\u093e\u0932\u0940 \u0915\u092e\u094d\u092f\u0941\u0928\u093f\u0937\u094d\u091f \u092a\u093e\u0930\u094d\u091f\u0940",
+          "votes_received": 602237074
+        },
+        "vote_margin": 302296977
+      },
+      "source": {
+        "publisher": "ekantipur",
+        "url": "https://election.ekantipur.com/pradesh-3/district-lalitpur/constituency-3?lng=nep",
+        "source_type": "news_article"
+      }
+    },
+    {
+      "province": "Koshi",
+      "district": "Lalitpur/Constituency 3?Lng=Nep",
+      "constituency": "Lalitpur/Constituency 3?Lng=Nep-3?lng=eng",
+      "election_year_bs": 2082,
+      "election_type": "federal",
+      "result": {
+        "winner": {
+          "name": "Jitendra Kumar Shrestha",
+          "party": "Nepali Congress",
+          "votes_received": 904534051
+        },
+        "runner_up": {
+          "name": "Raj Kaji Maharjan",
+          "party": "Nepali Communist Party",
+          "votes_received": 602237074
+        },
+        "vote_margin": 302296977
+      },
+      "source": {
+        "publisher": "ekantipur",
+        "url": "https://election.ekantipur.com/pradesh-3/district-lalitpur/constituency-3?lng=eng",
+        "source_type": "news_article"
+      }
+    },
+    {
+      "province": "Koshi",
+      "district": "Siraha/Constituency 1?Lng=Nep",
+      "constituency": "Siraha/Constituency 1?Lng=Nep-1?lng=nep",
+      "election_year_bs": 2082,
+      "election_type": "federal",
+      "result": {
+        "winner": {
+          "name": "\u0930\u093e\u092e\u0938\u0941\u0928\u094d\u0926\u0930 \u091a\u094c\u0927\u0930\u0940",
+          "party": "\u0928\u0947\u092a\u093e\u0932\u0940 \u0915\u093e\u0901\u0917\u094d\u0930\u0947\u0938",
+          "votes_received": 978431538
+        },
+        "runner_up": {
+          "name": "\u0930\u093e\u092e\u0936\u0902\u0915\u0930 \u092f\u093e\u0926\u0935",
+          "party": "\u0928\u0947\u0915\u092a\u093e (\u090f\u092e\u093e\u0932\u0947)",
+          "votes_received": 788633436
+        },
+        "vote_margin": 189798102
+      },
+      "source": {
+        "publisher": "ekantipur",
+        "url": "https://election.ekantipur.com/pradesh-2/district-siraha/constituency-1?lng=nep",
+        "source_type": "news_article"
+      }
+    },
+    {
+      "province": "Koshi",
+      "district": "Siraha/Constituency 1?Lng=Nep",
+      "constituency": "Siraha/Constituency 1?Lng=Nep-1?lng=eng",
+      "election_year_bs": 2082,
+      "election_type": "federal",
+      "result": {
+        "winner": {
+          "name": "Ram Sundar Chaudhary",
+          "party": "Nepali Congress",
+          "votes_received": 978431538
+        },
+        "runner_up": {
+          "name": "Ram Shankar Yadav",
+          "party": "CPN-UML",
+          "votes_received": 788633436
+        },
+        "vote_margin": 189798102
+      },
+      "source": {
+        "publisher": "ekantipur",
+        "url": "https://election.ekantipur.com/pradesh-2/district-siraha/constituency-1?lng=eng",
+        "source_type": "news_article"
+      }
+    },
+    {
+      "province": "Koshi",
+      "district": "Gulmi/Constituency 1?Lng=Nep",
+      "constituency": "Gulmi/Constituency 1?Lng=Nep-1?lng=nep",
+      "election_year_bs": 2082,
+      "election_type": "federal",
+      "result": {
+        "winner": {
+          "name": "\u092a\u094d\u0930\u0926\u0940\u092a\u0915\u0941\u092e\u093e\u0930 \u091c\u094d\u091e\u0935\u093e\u0932\u0940",
+          "party": "\u0928\u0947\u0915\u092a\u093e (\u090f\u092e\u093e\u0932\u0947)",
+          "votes_received": 1518114461
+        },
+        "runner_up": {
+          "name": "\u091a\u0928\u094d\u0926\u094d\u0930\u0915\u093e\u0928\u094d\u0924 \u092d\u0923\u094d\u0921\u093e\u0930\u0940",
+          "party": "\u0928\u0947\u092a\u093e\u0932\u0940 \u0915\u093e\u0901\u0917\u094d\u0930\u0947\u0938",
+          "votes_received": 1350516137
+        },
+        "vote_margin": 167598324
+      },
+      "source": {
+        "publisher": "ekantipur",
+        "url": "https://election.ekantipur.com/pradesh-5/district-gulmi/constituency-1?lng=nep",
+        "source_type": "news_article"
+      }
+    },
+    {
+      "province": "Koshi",
+      "district": "Gulmi/Constituency 1?Lng=Nep",
+      "constituency": "Gulmi/Constituency 1?Lng=Nep-1?lng=eng",
+      "election_year_bs": 2082,
+      "election_type": "federal",
+      "result": {
+        "winner": {
+          "name": "Pradip Kumar Gyawali",
+          "party": "CPN-UML",
+          "votes_received": 1518114461
+        },
+        "runner_up": {
+          "name": "Chandrakant Bhandari",
+          "party": "Nepali Congress",
+          "votes_received": 1350516137
+        },
+        "vote_margin": 167598324
+      },
+      "source": {
+        "publisher": "ekantipur",
+        "url": "https://election.ekantipur.com/pradesh-5/district-gulmi/constituency-1?lng=eng",
+        "source_type": "news_article"
+      }
+    },
+    {
+      "province": "Koshi",
+      "district": "Gorkha/Constituency 1?Lng=Nep",
+      "constituency": "Gorkha/Constituency 1?Lng=Nep-1?lng=nep",
+      "election_year_bs": 2082,
+      "election_type": "federal",
+      "result": {
+        "winner": {
+          "name": "\u092a\u094d\u0930\u0947\u092e \u0915\u0941\u092e\u093e\u0930 \u0916\u0924\u094d\u0930\u0940",
+          "party": "\u0928\u0947\u092a\u093e\u0932\u0940 \u0915\u093e\u0901\u0917\u094d\u0930\u0947\u0938",
+          "votes_received": 1539814498
+        },
+        "runner_up": {
+          "name": "\u0939\u0930\u093f \u0930\u093e\u091c \u0905\u0927\u093f\u0915\u093e\u0930\u0940",
+          "party": "\u0928\u0947\u092a\u093e\u0932\u0940 \u0915\u092e\u094d\u092f\u0941\u0928\u093f\u0937\u094d\u091f \u092a\u093e\u0930\u094d\u091f\u0940",
+          "votes_received": 1112418772
+        },
+        "vote_margin": 427395726
+      },
+      "source": {
+        "publisher": "ekantipur",
+        "url": "https://election.ekantipur.com/pradesh-4/district-gorkha/constituency-1?lng=nep",
+        "source_type": "news_article"
+      }
+    },
+    {
+      "province": "Koshi",
+      "district": "Gorkha/Constituency 1?Lng=Nep",
+      "constituency": "Gorkha/Constituency 1?Lng=Nep-1?lng=eng",
+      "election_year_bs": 2082,
+      "election_type": "federal",
+      "result": {
+        "winner": {
+          "name": "Prem Kumar Khatri",
+          "party": "Nepali Congress",
+          "votes_received": 1539814498
+        },
+        "runner_up": {
+          "name": "Hari Raj Adhikari",
+          "party": "Nepali Communist Party",
+          "votes_received": 1112418772
+        },
+        "vote_margin": 427395726
+      },
+      "source": {
+        "publisher": "ekantipur",
+        "url": "https://election.ekantipur.com/pradesh-4/district-gorkha/constituency-1?lng=eng",
+        "source_type": "news_article"
+      }
+    },
+    {
+      "province": "Koshi",
+      "district": "Tanahun/Constituency 1?Lng=Nep",
+      "constituency": "Tanahun/Constituency 1?Lng=Nep-1?lng=nep",
+      "election_year_bs": 2082,
+      "election_type": "federal",
+      "result": {
+        "winner": {
+          "name": "\u0917\u094b\u0935\u093f\u0928\u094d\u0926 \u092d\u091f\u094d\u091f\u0930\u093e\u0908",
+          "party": "\u0928\u0947\u092a\u093e\u0932\u0940 \u0915\u093e\u0901\u0917\u094d\u0930\u0947\u0938",
+          "votes_received": 1623121809
+        },
+        "runner_up": {
+          "name": "\u092d\u0917\u0935\u0924\u0940 \u0928\u094d\u092f\u094c\u092a\u093e\u0928\u0947",
+          "party": "\u0928\u0947\u0915\u092a\u093e (\u090f\u092e\u093e\u0932\u0947)",
+          "votes_received": 565332387
+        },
+        "vote_margin": 1057789422
+      },
+      "source": {
+        "publisher": "ekantipur",
+        "url": "https://election.ekantipur.com/pradesh-4/district-tanahun/constituency-1?lng=nep",
+        "source_type": "news_article"
+      }
+    },
+    {
+      "province": "Koshi",
+      "district": "Tanahun/Constituency 1?Lng=Nep",
+      "constituency": "Tanahun/Constituency 1?Lng=Nep-1?lng=eng",
+      "election_year_bs": 2082,
+      "election_type": "federal",
+      "result": {
+        "winner": {
+          "name": "Govind Bhattarai",
+          "party": "Nepali Congress",
+          "votes_received": 1623121809
+        },
+        "runner_up": {
+          "name": "Bhagwati Neupane",
+          "party": "CPN-UML",
+          "votes_received": 565332387
+        },
+        "vote_margin": 1057789422
+      },
+      "source": {
+        "publisher": "ekantipur",
+        "url": "https://election.ekantipur.com/pradesh-4/district-tanahun/constituency-1?lng=eng",
+        "source_type": "news_article"
+      }
+    },
+    {
+      "province": "Madhesh",
+      "district": "Jhapa/Constituency 5?Lng=Nep",
+      "constituency": "Jhapa/Constituency 5?Lng=Nep-5?lng=nep",
+      "election_year_bs": 2082,
+      "election_type": "federal",
+      "result": {
+        "winner": {
+          "name": "\u0915\u0947\u092a\u0940 \u0936\u0930\u094d\u092e\u093e \u0913\u0932\u0940",
+          "party": "\u0928\u0947\u0915\u092a\u093e (\u090f\u092e\u093e\u0932\u0947)",
+          "votes_received": 1873449614
+        },
+        "runner_up": {
+          "name": "\u0938\u092e\u093f\u0930 \u0924\u093e\u092e\u093e\u0919\u094d\u0917",
+          "party": "\u0936\u094d\u0930\u092e \u0938\u0902\u0938\u094d\u0915\u0943\u0924\u093f \u092a\u093e\u0930\u094d\u091f\u0940",
+          "votes_received": 923359115
+        },
+        "vote_margin": 950090499
+      },
+      "source": {
+        "publisher": "ekantipur",
+        "url": "https://election.ekantipur.com/pradesh-1/district-jhapa/constituency-5?lng=nep",
+        "source_type": "news_article"
+      }
+    },
+    {
+      "province": "Madhesh",
+      "district": "Jhapa/Constituency 5?Lng=Nep",
+      "constituency": "Jhapa/Constituency 5?Lng=Nep-5?lng=eng",
+      "election_year_bs": 2082,
+      "election_type": "federal",
+      "result": {
+        "winner": {
+          "name": "KP Sharma Oli",
+          "party": "CPN-UML",
+          "votes_received": 1873449614
+        },
+        "runner_up": {
+          "name": "Samir Tamang",
+          "party": "Shram Sanskriti Party",
+          "votes_received": 923359115
+        },
+        "vote_margin": 950090499
+      },
+      "source": {
+        "publisher": "ekantipur",
+        "url": "https://election.ekantipur.com/pradesh-1/district-jhapa/constituency-5?lng=eng",
+        "source_type": "news_article"
+      }
+    },
+    {
+      "province": "Madhesh",
+      "district": "Rukumeast/Constituency 1?Lng=Nep",
+      "constituency": "Rukumeast/Constituency 1?Lng=Nep-1?lng=nep",
+      "election_year_bs": 2082,
+      "election_type": "federal",
+      "result": {
+        "winner": {
+          "name": "\u0932\u093f\u0932\u093e\u092e\u0923\u0940 \u0917\u094c\u0924\u092e",
+          "party": "\u0928\u0947\u0915\u092a\u093e (\u090f\u092e\u093e\u0932\u0947)",
+          "votes_received": 34626778
+        },
+        "runner_up": {
+          "name": "\u0915\u0941\u0938\u0941\u092e \u0926\u0947\u0935\u0940 \u0925\u093e\u092a\u093e",
+          "party": "\u0928\u0947\u092a\u093e\u0932\u0940 \u0915\u093e\u0901\u0917\u094d\u0930\u0947\u0938",
+          "votes_received": 30817159
+        },
+        "vote_margin": 3809619
+      },
+      "source": {
+        "publisher": "ekantipur",
+        "url": "https://election.ekantipur.com/pradesh-5/district-rukumeast/constituency-1?lng=nep",
+        "source_type": "news_article"
+      }
+    },
+    {
+      "province": "Madhesh",
+      "district": "Rukumeast/Constituency 1?Lng=Nep",
+      "constituency": "Rukumeast/Constituency 1?Lng=Nep-1?lng=eng",
+      "election_year_bs": 2082,
+      "election_type": "federal",
+      "result": {
+        "winner": {
+          "name": "Lilamani Gautam",
+          "party": "CPN-UML",
+          "votes_received": 34626778
+        },
+        "runner_up": {
+          "name": "Kusum Devi Thapa",
+          "party": "Nepali Congress",
+          "votes_received": 30817159
+        },
+        "vote_margin": 3809619
+      },
+      "source": {
+        "publisher": "ekantipur",
+        "url": "https://election.ekantipur.com/pradesh-5/district-rukumeast/constituency-1?lng=eng",
+        "source_type": "news_article"
+      }
+    },
+    {
+      "province": "Madhesh",
+      "district": "Bhaktapur/Constituency 2?Lng=Nep",
+      "constituency": "Bhaktapur/Constituency 2?Lng=Nep-2?lng=nep",
+      "election_year_bs": 2082,
+      "election_type": "federal",
+      "result": {
+        "winner": {
+          "name": "\u092e\u0939\u0947\u0936 \u092c\u0938\u094d\u0928\u0947\u0924",
+          "party": "\u0928\u0947\u0915\u092a\u093e (\u090f\u092e\u093e\u0932\u0947)",
+          "votes_received": 1099631338
+        },
+        "runner_up": {
+          "name": "\u0915\u0935\u093f\u0930 \u0930\u093e\u0923\u093e",
+          "party": "\u0928\u0947\u092a\u093e\u0932\u0940 \u0915\u093e\u0901\u0917\u094d\u0930\u0947\u0938",
+          "votes_received": 840133933
+        },
+        "vote_margin": 259497405
+      },
+      "source": {
+        "publisher": "ekantipur",
+        "url": "https://election.ekantipur.com/pradesh-3/district-bhaktapur/constituency-2?lng=nep",
+        "source_type": "news_article"
+      }
+    },
+    {
+      "province": "Madhesh",
+      "district": "Bhaktapur/Constituency 2?Lng=Nep",
+      "constituency": "Bhaktapur/Constituency 2?Lng=Nep-2?lng=eng",
+      "election_year_bs": 2082,
+      "election_type": "federal",
+      "result": {
+        "winner": {
+          "name": "Mahesh Basnet",
+          "party": "CPN-UML",
+          "votes_received": 1099631338
+        },
+        "runner_up": {
+          "name": "Kavir Rana",
+          "party": "Nepali Congress",
+          "votes_received": 840133933
+        },
+        "vote_margin": 259497405
+      },
+      "source": {
+        "publisher": "ekantipur",
+        "url": "https://election.ekantipur.com/pradesh-3/district-bhaktapur/constituency-2?lng=eng",
+        "source_type": "news_article"
+      }
+    },
+    {
+      "province": "Madhesh",
+      "district": "Chitwan/Constituency 2?Lng=Nep",
+      "constituency": "Chitwan/Constituency 2?Lng=Nep-2?lng=nep",
+      "election_year_bs": 2082,
+      "election_type": "federal",
+      "result": {
+        "winner": {
+          "name": "\u092e\u093f\u0928\u093e \u0915\u0941\u092e\u093e\u0930\u0940 \u0916\u0930\u0947\u0932",
+          "party": "\u0928\u0947\u092a\u093e\u0932\u0940 \u0915\u093e\u0901\u0917\u094d\u0930\u0947\u0938",
+          "votes_received": 1456439838
+        },
+        "runner_up": {
+          "name": "\u0905\u0938\u094d\u092e\u093f\u0928 \u0918\u093f\u092e\u093f\u0930\u0947",
+          "party": "\u0928\u0947\u0915\u092a\u093e (\u090f\u092e\u093e\u0932\u0947)",
+          "votes_received": 699247410
+        },
+        "vote_margin": 757192428
+      },
+      "source": {
+        "publisher": "ekantipur",
+        "url": "https://election.ekantipur.com/pradesh-3/district-chitwan/constituency-2?lng=nep",
+        "source_type": "news_article"
+      }
+    },
+    {
+      "province": "Madhesh",
+      "district": "Chitwan/Constituency 2?Lng=Nep",
+      "constituency": "Chitwan/Constituency 2?Lng=Nep-2?lng=eng",
+      "election_year_bs": 2082,
+      "election_type": "federal",
+      "result": {
+        "winner": {
+          "name": "Meena Kumari Kharel",
+          "party": "Nepali Congress",
+          "votes_received": 1456439838
+        },
+        "runner_up": {
+          "name": "Ashim Ghimire",
+          "party": "CPN-UML",
+          "votes_received": 699247410
+        },
+        "vote_margin": 757192428
+      },
+      "source": {
+        "publisher": "ekantipur",
+        "url": "https://election.ekantipur.com/pradesh-3/district-chitwan/constituency-2?lng=eng",
+        "source_type": "news_article"
+      }
+    },
+    {
+      "province": "Madhesh",
+      "district": "Rautahat/Constituency 1?Lng=Nep",
+      "constituency": "Rautahat/Constituency 1?Lng=Nep-5?lng=nep",
+      "election_year_bs": 2082,
+      "election_type": "federal",
+      "result": {
+        "winner": {
+          "name": "\u0915\u0947\u092a\u0940 \u0936\u0930\u094d\u092e\u093e \u0913\u0932\u0940",
+          "party": "\u0928\u0947\u0915\u092a\u093e (\u090f\u092e\u093e\u0932\u0947)",
+          "votes_received": 1873449614
+        },
+        "runner_up": {
+          "name": "\u0938\u092e\u093f\u0930 \u0924\u093e\u092e\u093e\u0919\u094d\u0917",
+          "party": "\u0936\u094d\u0930\u092e \u0938\u0902\u0938\u094d\u0915\u0943\u0924\u093f \u092a\u093e\u0930\u094d\u091f\u0940",
+          "votes_received": 923359115
+        },
+        "vote_margin": 950090499
+      },
+      "source": {
+        "publisher": "ekantipur",
+        "url": "https://election.ekantipur.com/pradesh-1/district-jhapa/constituency-5?lng=nep",
+        "source_type": "news_article"
+      }
+    },
+    {
+      "province": "Madhesh",
+      "district": "Rautahat/Constituency 1?Lng=Nep",
+      "constituency": "Rautahat/Constituency 1?Lng=Nep-1?lng=nep",
+      "election_year_bs": 2082,
+      "election_type": "federal",
+      "result": {
+        "winner": {
+          "name": "\u0932\u093f\u0932\u093e\u092e\u0923\u0940 \u0917\u094c\u0924\u092e",
+          "party": "\u0928\u0947\u0915\u092a\u093e (\u090f\u092e\u093e\u0932\u0947)",
+          "votes_received": 34626778
+        },
+        "runner_up": {
+          "name": "\u0915\u0941\u0938\u0941\u092e \u0926\u0947\u0935\u0940 \u0925\u093e\u092a\u093e",
+          "party": "\u0928\u0947\u092a\u093e\u0932\u0940 \u0915\u093e\u0901\u0917\u094d\u0930\u0947\u0938",
+          "votes_received": 30817159
+        },
+        "vote_margin": 3809619
+      },
+      "source": {
+        "publisher": "ekantipur",
+        "url": "https://election.ekantipur.com/pradesh-5/district-rukumeast/constituency-1?lng=nep",
+        "source_type": "news_article"
+      }
+    },
+    {
+      "province": "Madhesh",
+      "district": "Rautahat/Constituency 1?Lng=Nep",
+      "constituency": "Rautahat/Constituency 1?Lng=Nep-2?lng=nep",
+      "election_year_bs": 2082,
+      "election_type": "federal",
+      "result": {
+        "winner": {
+          "name": "\u092e\u0939\u0947\u0936 \u092c\u0938\u094d\u0928\u0947\u0924",
+          "party": "\u0928\u0947\u0915\u092a\u093e (\u090f\u092e\u093e\u0932\u0947)",
+          "votes_received": 1099631338
+        },
+        "runner_up": {
+          "name": "\u0915\u0935\u093f\u0930 \u0930\u093e\u0923\u093e",
+          "party": "\u0928\u0947\u092a\u093e\u0932\u0940 \u0915\u093e\u0901\u0917\u094d\u0930\u0947\u0938",
+          "votes_received": 840133933
+        },
+        "vote_margin": 259497405
+      },
+      "source": {
+        "publisher": "ekantipur",
+        "url": "https://election.ekantipur.com/pradesh-3/district-bhaktapur/constituency-2?lng=nep",
+        "source_type": "news_article"
+      }
+    },
+    {
+      "province": "Madhesh",
+      "district": "Rautahat/Constituency 1?Lng=Nep",
+      "constituency": "Rautahat/Constituency 1?Lng=Nep-3?lng=nep",
+      "election_year_bs": 2082,
+      "election_type": "federal",
+      "result": {
+        "winner": {
+          "name": "\u0930\u092e\u0947\u0936 \u0905\u0930\u094d\u092f\u093e\u0932",
+          "party": "\u0928\u0947\u092a\u093e\u0932\u0940 \u0915\u093e\u0901\u0917\u094d\u0930\u0947\u0938",
+          "votes_received": 600012756
+        },
+        "runner_up": {
+          "name": "\u0930\u093e\u092e\u0947\u0936\u094d\u0935\u0930 \u092b\u0941\u092f\u093e\u0932",
+          "party": "\u0928\u0947\u0915\u092a\u093e (\u090f\u092e\u093e\u0932\u0947)",
+          "votes_received": 381614940
+        },
+        "vote_margin": 218397816
+      },
+      "source": {
+        "publisher": "ekantipur",
+        "url": "https://election.ekantipur.com/pradesh-3/district-kathmandu/constituency-3?lng=nep",
+        "source_type": "news_article"
+      }
+    },
+    {
+      "province": "Madhesh",
+      "district": "Kathmandu/Constituency 3?Lng=Nep",
+      "constituency": "Kathmandu/Constituency 3?Lng=Nep-3?lng=nep",
+      "election_year_bs": 2082,
+      "election_type": "federal",
+      "result": {
+        "winner": {
+          "name": "\u0930\u092e\u0947\u0936 \u0905\u0930\u094d\u092f\u093e\u0932",
+          "party": "\u0928\u0947\u092a\u093e\u0932\u0940 \u0915\u093e\u0901\u0917\u094d\u0930\u0947\u0938",
+          "votes_received": 600012756
+        },
+        "runner_up": {
+          "name": "\u0930\u093e\u092e\u0947\u0936\u094d\u0935\u0930 \u092b\u0941\u092f\u093e\u0932",
+          "party": "\u0928\u0947\u0915\u092a\u093e (\u090f\u092e\u093e\u0932\u0947)",
+          "votes_received": 381614940
+        },
+        "vote_margin": 218397816
+      },
+      "source": {
+        "publisher": "ekantipur",
+        "url": "https://election.ekantipur.com/pradesh-3/district-kathmandu/constituency-3?lng=nep",
+        "source_type": "news_article"
+      }
+    },
+    {
+      "province": "Madhesh",
+      "district": "Kathmandu/Constituency 3?Lng=Nep",
+      "constituency": "Kathmandu/Constituency 3?Lng=Nep-3?lng=eng",
+      "election_year_bs": 2082,
+      "election_type": "federal",
+      "result": {
+        "winner": {
+          "name": "Ramesh Aryal",
+          "party": "Nepali Congress",
+          "votes_received": 600012756
+        },
+        "runner_up": {
+          "name": "Rameshwar Phuyal",
+          "party": "CPN-UML",
+          "votes_received": 381614940
+        },
+        "vote_margin": 218397816
+      },
+      "source": {
+        "publisher": "ekantipur",
+        "url": "https://election.ekantipur.com/pradesh-3/district-kathmandu/constituency-3?lng=eng",
+        "source_type": "news_article"
+      }
+    },
+    {
+      "province": "Madhesh",
+      "district": "Myagdi/Constituency 1?Lng=Nep",
+      "constituency": "Myagdi/Constituency 1?Lng=Nep-1?lng=nep",
+      "election_year_bs": 2082,
+      "election_type": "federal",
+      "result": {
+        "winner": {
+          "name": "\u0939\u0930\u093f\u0915\u0943\u0937\u094d\u0923 \u0936\u094d\u0930\u0947\u0937\u094d\u0920",
+          "party": "\u0928\u0947\u0915\u092a\u093e (\u090f\u092e\u093e\u0932\u0947)",
+          "votes_received": 791914931
+        },
+        "runner_up": {
+          "name": "\u0915\u0930\u094d\u0923 \u092c\u0939\u093e\u0926\u0941\u0930 \u092d\u0923\u094d\u0921\u093e\u0930\u0940",
+          "party": "\u0928\u0947\u092a\u093e\u0932\u0940 \u0915\u093e\u0901\u0917\u094d\u0930\u0947\u0938",
+          "votes_received": 668316167
+        },
+        "vote_margin": 123598764
+      },
+      "source": {
+        "publisher": "ekantipur",
+        "url": "https://election.ekantipur.com/pradesh-4/district-myagdi/constituency-1?lng=nep",
+        "source_type": "news_article"
+      }
+    },
+    {
+      "province": "Madhesh",
+      "district": "Myagdi/Constituency 1?Lng=Nep",
+      "constituency": "Myagdi/Constituency 1?Lng=Nep-1?lng=eng",
+      "election_year_bs": 2082,
+      "election_type": "federal",
+      "result": {
+        "winner": {
+          "name": "Harikrishna Shrestha",
+          "party": "CPN-UML",
+          "votes_received": 791914931
+        },
+        "runner_up": {
+          "name": "Karna Bahadur Bhandari",
+          "party": "Nepali Congress",
+          "votes_received": 668316167
+        },
+        "vote_margin": 123598764
+      },
+      "source": {
+        "publisher": "ekantipur",
+        "url": "https://election.ekantipur.com/pradesh-4/district-myagdi/constituency-1?lng=eng",
+        "source_type": "news_article"
+      }
+    },
+    {
+      "province": "Madhesh",
+      "district": "Lalitpur/Constituency 3?Lng=Nep",
+      "constituency": "Lalitpur/Constituency 3?Lng=Nep-3?lng=nep",
+      "election_year_bs": 2082,
+      "election_type": "federal",
+      "result": {
+        "winner": {
+          "name": "\u091c\u093f\u0924\u0947\u0928\u094d\u0926\u094d\u0930 \u0915\u0941\u092e\u093e\u0930 \u0936\u094d\u0930\u0947\u0937\u094d\u0920",
+          "party": "\u0928\u0947\u092a\u093e\u0932\u0940 \u0915\u093e\u0901\u0917\u094d\u0930\u0947\u0938",
+          "votes_received": 904534051
+        },
+        "runner_up": {
+          "name": "\u0930\u093e\u091c \u0915\u093e\u091c\u0940 \u092e\u0939\u0930\u094d\u091c\u0928",
+          "party": "\u0928\u0947\u092a\u093e\u0932\u0940 \u0915\u092e\u094d\u092f\u0941\u0928\u093f\u0937\u094d\u091f \u092a\u093e\u0930\u094d\u091f\u0940",
+          "votes_received": 602237074
+        },
+        "vote_margin": 302296977
+      },
+      "source": {
+        "publisher": "ekantipur",
+        "url": "https://election.ekantipur.com/pradesh-3/district-lalitpur/constituency-3?lng=nep",
+        "source_type": "news_article"
+      }
+    },
+    {
+      "province": "Madhesh",
+      "district": "Lalitpur/Constituency 3?Lng=Nep",
+      "constituency": "Lalitpur/Constituency 3?Lng=Nep-3?lng=eng",
+      "election_year_bs": 2082,
+      "election_type": "federal",
+      "result": {
+        "winner": {
+          "name": "Jitendra Kumar Shrestha",
+          "party": "Nepali Congress",
+          "votes_received": 904534051
+        },
+        "runner_up": {
+          "name": "Raj Kaji Maharjan",
+          "party": "Nepali Communist Party",
+          "votes_received": 602237074
+        },
+        "vote_margin": 302296977
+      },
+      "source": {
+        "publisher": "ekantipur",
+        "url": "https://election.ekantipur.com/pradesh-3/district-lalitpur/constituency-3?lng=eng",
+        "source_type": "news_article"
+      }
+    },
+    {
+      "province": "Madhesh",
+      "district": "Siraha/Constituency 1?Lng=Nep",
+      "constituency": "Siraha/Constituency 1?Lng=Nep-1?lng=nep",
+      "election_year_bs": 2082,
+      "election_type": "federal",
+      "result": {
+        "winner": {
+          "name": "\u0930\u093e\u092e\u0938\u0941\u0928\u094d\u0926\u0930 \u091a\u094c\u0927\u0930\u0940",
+          "party": "\u0928\u0947\u092a\u093e\u0932\u0940 \u0915\u093e\u0901\u0917\u094d\u0930\u0947\u0938",
+          "votes_received": 978431538
+        },
+        "runner_up": {
+          "name": "\u0930\u093e\u092e\u0936\u0902\u0915\u0930 \u092f\u093e\u0926\u0935",
+          "party": "\u0928\u0947\u0915\u092a\u093e (\u090f\u092e\u093e\u0932\u0947)",
+          "votes_received": 788633436
+        },
+        "vote_margin": 189798102
+      },
+      "source": {
+        "publisher": "ekantipur",
+        "url": "https://election.ekantipur.com/pradesh-2/district-siraha/constituency-1?lng=nep",
+        "source_type": "news_article"
+      }
+    },
+    {
+      "province": "Madhesh",
+      "district": "Siraha/Constituency 1?Lng=Nep",
+      "constituency": "Siraha/Constituency 1?Lng=Nep-1?lng=eng",
+      "election_year_bs": 2082,
+      "election_type": "federal",
+      "result": {
+        "winner": {
+          "name": "Ram Sundar Chaudhary",
+          "party": "Nepali Congress",
+          "votes_received": 978431538
+        },
+        "runner_up": {
+          "name": "Ram Shankar Yadav",
+          "party": "CPN-UML",
+          "votes_received": 788633436
+        },
+        "vote_margin": 189798102
+      },
+      "source": {
+        "publisher": "ekantipur",
+        "url": "https://election.ekantipur.com/pradesh-2/district-siraha/constituency-1?lng=eng",
+        "source_type": "news_article"
+      }
+    },
+    {
+      "province": "Madhesh",
+      "district": "Gulmi/Constituency 1?Lng=Nep",
+      "constituency": "Gulmi/Constituency 1?Lng=Nep-1?lng=nep",
+      "election_year_bs": 2082,
+      "election_type": "federal",
+      "result": {
+        "winner": {
+          "name": "\u092a\u094d\u0930\u0926\u0940\u092a\u0915\u0941\u092e\u093e\u0930 \u091c\u094d\u091e\u0935\u093e\u0932\u0940",
+          "party": "\u0928\u0947\u0915\u092a\u093e (\u090f\u092e\u093e\u0932\u0947)",
+          "votes_received": 1518114461
+        },
+        "runner_up": {
+          "name": "\u091a\u0928\u094d\u0926\u094d\u0930\u0915\u093e\u0928\u094d\u0924 \u092d\u0923\u094d\u0921\u093e\u0930\u0940",
+          "party": "\u0928\u0947\u092a\u093e\u0932\u0940 \u0915\u093e\u0901\u0917\u094d\u0930\u0947\u0938",
+          "votes_received": 1350516137
+        },
+        "vote_margin": 167598324
+      },
+      "source": {
+        "publisher": "ekantipur",
+        "url": "https://election.ekantipur.com/pradesh-5/district-gulmi/constituency-1?lng=nep",
+        "source_type": "news_article"
+      }
+    },
+    {
+      "province": "Madhesh",
+      "district": "Gulmi/Constituency 1?Lng=Nep",
+      "constituency": "Gulmi/Constituency 1?Lng=Nep-1?lng=eng",
+      "election_year_bs": 2082,
+      "election_type": "federal",
+      "result": {
+        "winner": {
+          "name": "Pradip Kumar Gyawali",
+          "party": "CPN-UML",
+          "votes_received": 1518114461
+        },
+        "runner_up": {
+          "name": "Chandrakant Bhandari",
+          "party": "Nepali Congress",
+          "votes_received": 1350516137
+        },
+        "vote_margin": 167598324
+      },
+      "source": {
+        "publisher": "ekantipur",
+        "url": "https://election.ekantipur.com/pradesh-5/district-gulmi/constituency-1?lng=eng",
+        "source_type": "news_article"
+      }
+    },
+    {
+      "province": "Madhesh",
+      "district": "Gorkha/Constituency 1?Lng=Nep",
+      "constituency": "Gorkha/Constituency 1?Lng=Nep-1?lng=nep",
+      "election_year_bs": 2082,
+      "election_type": "federal",
+      "result": {
+        "winner": {
+          "name": "\u092a\u094d\u0930\u0947\u092e \u0915\u0941\u092e\u093e\u0930 \u0916\u0924\u094d\u0930\u0940",
+          "party": "\u0928\u0947\u092a\u093e\u0932\u0940 \u0915\u093e\u0901\u0917\u094d\u0930\u0947\u0938",
+          "votes_received": 1539814498
+        },
+        "runner_up": {
+          "name": "\u0939\u0930\u093f \u0930\u093e\u091c \u0905\u0927\u093f\u0915\u093e\u0930\u0940",
+          "party": "\u0928\u0947\u092a\u093e\u0932\u0940 \u0915\u092e\u094d\u092f\u0941\u0928\u093f\u0937\u094d\u091f \u092a\u093e\u0930\u094d\u091f\u0940",
+          "votes_received": 1112418772
+        },
+        "vote_margin": 427395726
+      },
+      "source": {
+        "publisher": "ekantipur",
+        "url": "https://election.ekantipur.com/pradesh-4/district-gorkha/constituency-1?lng=nep",
+        "source_type": "news_article"
+      }
+    },
+    {
+      "province": "Madhesh",
+      "district": "Gorkha/Constituency 1?Lng=Nep",
+      "constituency": "Gorkha/Constituency 1?Lng=Nep-1?lng=eng",
+      "election_year_bs": 2082,
+      "election_type": "federal",
+      "result": {
+        "winner": {
+          "name": "Prem Kumar Khatri",
+          "party": "Nepali Congress",
+          "votes_received": 1539814498
+        },
+        "runner_up": {
+          "name": "Hari Raj Adhikari",
+          "party": "Nepali Communist Party",
+          "votes_received": 1112418772
+        },
+        "vote_margin": 427395726
+      },
+      "source": {
+        "publisher": "ekantipur",
+        "url": "https://election.ekantipur.com/pradesh-4/district-gorkha/constituency-1?lng=eng",
+        "source_type": "news_article"
+      }
+    },
+    {
+      "province": "Madhesh",
+      "district": "Tanahun/Constituency 1?Lng=Nep",
+      "constituency": "Tanahun/Constituency 1?Lng=Nep-1?lng=nep",
+      "election_year_bs": 2082,
+      "election_type": "federal",
+      "result": {
+        "winner": {
+          "name": "\u0917\u094b\u0935\u093f\u0928\u094d\u0926 \u092d\u091f\u094d\u091f\u0930\u093e\u0908",
+          "party": "\u0928\u0947\u092a\u093e\u0932\u0940 \u0915\u093e\u0901\u0917\u094d\u0930\u0947\u0938",
+          "votes_received": 1623121809
+        },
+        "runner_up": {
+          "name": "\u092d\u0917\u0935\u0924\u0940 \u0928\u094d\u092f\u094c\u092a\u093e\u0928\u0947",
+          "party": "\u0928\u0947\u0915\u092a\u093e (\u090f\u092e\u093e\u0932\u0947)",
+          "votes_received": 565332387
+        },
+        "vote_margin": 1057789422
+      },
+      "source": {
+        "publisher": "ekantipur",
+        "url": "https://election.ekantipur.com/pradesh-4/district-tanahun/constituency-1?lng=nep",
+        "source_type": "news_article"
+      }
+    },
+    {
+      "province": "Madhesh",
+      "district": "Tanahun/Constituency 1?Lng=Nep",
+      "constituency": "Tanahun/Constituency 1?Lng=Nep-1?lng=eng",
+      "election_year_bs": 2082,
+      "election_type": "federal",
+      "result": {
+        "winner": {
+          "name": "Govind Bhattarai",
+          "party": "Nepali Congress",
+          "votes_received": 1623121809
+        },
+        "runner_up": {
+          "name": "Bhagwati Neupane",
+          "party": "CPN-UML",
+          "votes_received": 565332387
+        },
+        "vote_margin": 1057789422
+      },
+      "source": {
+        "publisher": "ekantipur",
+        "url": "https://election.ekantipur.com/pradesh-4/district-tanahun/constituency-1?lng=eng",
+        "source_type": "news_article"
+      }
+    },
+    {
+      "province": "Bagmati",
+      "district": "Jhapa/Constituency 5?Lng=Nep",
+      "constituency": "Jhapa/Constituency 5?Lng=Nep-5?lng=nep",
+      "election_year_bs": 2082,
+      "election_type": "federal",
+      "result": {
+        "winner": {
+          "name": "\u0915\u0947\u092a\u0940 \u0936\u0930\u094d\u092e\u093e \u0913\u0932\u0940",
+          "party": "\u0928\u0947\u0915\u092a\u093e (\u090f\u092e\u093e\u0932\u0947)",
+          "votes_received": 1873449614
+        },
+        "runner_up": {
+          "name": "\u0938\u092e\u093f\u0930 \u0924\u093e\u092e\u093e\u0919\u094d\u0917",
+          "party": "\u0936\u094d\u0930\u092e \u0938\u0902\u0938\u094d\u0915\u0943\u0924\u093f \u092a\u093e\u0930\u094d\u091f\u0940",
+          "votes_received": 923359115
+        },
+        "vote_margin": 950090499
+      },
+      "source": {
+        "publisher": "ekantipur",
+        "url": "https://election.ekantipur.com/pradesh-1/district-jhapa/constituency-5?lng=nep",
+        "source_type": "news_article"
+      }
+    },
+    {
+      "province": "Bagmati",
+      "district": "Jhapa/Constituency 5?Lng=Nep",
+      "constituency": "Jhapa/Constituency 5?Lng=Nep-5?lng=eng",
+      "election_year_bs": 2082,
+      "election_type": "federal",
+      "result": {
+        "winner": {
+          "name": "KP Sharma Oli",
+          "party": "CPN-UML",
+          "votes_received": 1873449614
+        },
+        "runner_up": {
+          "name": "Samir Tamang",
+          "party": "Shram Sanskriti Party",
+          "votes_received": 923359115
+        },
+        "vote_margin": 950090499
+      },
+      "source": {
+        "publisher": "ekantipur",
+        "url": "https://election.ekantipur.com/pradesh-1/district-jhapa/constituency-5?lng=eng",
+        "source_type": "news_article"
+      }
+    },
+    {
+      "province": "Bagmati",
+      "district": "Rukumeast/Constituency 1?Lng=Nep",
+      "constituency": "Rukumeast/Constituency 1?Lng=Nep-1?lng=nep",
+      "election_year_bs": 2082,
+      "election_type": "federal",
+      "result": {
+        "winner": {
+          "name": "\u0932\u093f\u0932\u093e\u092e\u0923\u0940 \u0917\u094c\u0924\u092e",
+          "party": "\u0928\u0947\u0915\u092a\u093e (\u090f\u092e\u093e\u0932\u0947)",
+          "votes_received": 34626778
+        },
+        "runner_up": {
+          "name": "\u0915\u0941\u0938\u0941\u092e \u0926\u0947\u0935\u0940 \u0925\u093e\u092a\u093e",
+          "party": "\u0928\u0947\u092a\u093e\u0932\u0940 \u0915\u093e\u0901\u0917\u094d\u0930\u0947\u0938",
+          "votes_received": 30817159
+        },
+        "vote_margin": 3809619
+      },
+      "source": {
+        "publisher": "ekantipur",
+        "url": "https://election.ekantipur.com/pradesh-5/district-rukumeast/constituency-1?lng=nep",
+        "source_type": "news_article"
+      }
+    },
+    {
+      "province": "Bagmati",
+      "district": "Rukumeast/Constituency 1?Lng=Nep",
+      "constituency": "Rukumeast/Constituency 1?Lng=Nep-1?lng=eng",
+      "election_year_bs": 2082,
+      "election_type": "federal",
+      "result": {
+        "winner": {
+          "name": "Lilamani Gautam",
+          "party": "CPN-UML",
+          "votes_received": 34626778
+        },
+        "runner_up": {
+          "name": "Kusum Devi Thapa",
+          "party": "Nepali Congress",
+          "votes_received": 30817159
+        },
+        "vote_margin": 3809619
+      },
+      "source": {
+        "publisher": "ekantipur",
+        "url": "https://election.ekantipur.com/pradesh-5/district-rukumeast/constituency-1?lng=eng",
+        "source_type": "news_article"
+      }
+    },
+    {
+      "province": "Bagmati",
+      "district": "Bhaktapur/Constituency 2?Lng=Nep",
+      "constituency": "Bhaktapur/Constituency 2?Lng=Nep-2?lng=nep",
+      "election_year_bs": 2082,
+      "election_type": "federal",
+      "result": {
+        "winner": {
+          "name": "\u092e\u0939\u0947\u0936 \u092c\u0938\u094d\u0928\u0947\u0924",
+          "party": "\u0928\u0947\u0915\u092a\u093e (\u090f\u092e\u093e\u0932\u0947)",
+          "votes_received": 1099631338
+        },
+        "runner_up": {
+          "name": "\u0915\u0935\u093f\u0930 \u0930\u093e\u0923\u093e",
+          "party": "\u0928\u0947\u092a\u093e\u0932\u0940 \u0915\u093e\u0901\u0917\u094d\u0930\u0947\u0938",
+          "votes_received": 840133933
+        },
+        "vote_margin": 259497405
+      },
+      "source": {
+        "publisher": "ekantipur",
+        "url": "https://election.ekantipur.com/pradesh-3/district-bhaktapur/constituency-2?lng=nep",
+        "source_type": "news_article"
+      }
+    },
+    {
+      "province": "Bagmati",
+      "district": "Bhaktapur/Constituency 2?Lng=Nep",
+      "constituency": "Bhaktapur/Constituency 2?Lng=Nep-2?lng=eng",
+      "election_year_bs": 2082,
+      "election_type": "federal",
+      "result": {
+        "winner": {
+          "name": "Mahesh Basnet",
+          "party": "CPN-UML",
+          "votes_received": 1099631338
+        },
+        "runner_up": {
+          "name": "Kavir Rana",
+          "party": "Nepali Congress",
+          "votes_received": 840133933
+        },
+        "vote_margin": 259497405
+      },
+      "source": {
+        "publisher": "ekantipur",
+        "url": "https://election.ekantipur.com/pradesh-3/district-bhaktapur/constituency-2?lng=eng",
+        "source_type": "news_article"
+      }
+    },
+    {
+      "province": "Bagmati",
+      "district": "Chitwan/Constituency 2?Lng=Nep",
+      "constituency": "Chitwan/Constituency 2?Lng=Nep-2?lng=nep",
+      "election_year_bs": 2082,
+      "election_type": "federal",
+      "result": {
+        "winner": {
+          "name": "\u092e\u093f\u0928\u093e \u0915\u0941\u092e\u093e\u0930\u0940 \u0916\u0930\u0947\u0932",
+          "party": "\u0928\u0947\u092a\u093e\u0932\u0940 \u0915\u093e\u0901\u0917\u094d\u0930\u0947\u0938",
+          "votes_received": 1456439838
+        },
+        "runner_up": {
+          "name": "\u0905\u0938\u094d\u092e\u093f\u0928 \u0918\u093f\u092e\u093f\u0930\u0947",
+          "party": "\u0928\u0947\u0915\u092a\u093e (\u090f\u092e\u093e\u0932\u0947)",
+          "votes_received": 699247410
+        },
+        "vote_margin": 757192428
+      },
+      "source": {
+        "publisher": "ekantipur",
+        "url": "https://election.ekantipur.com/pradesh-3/district-chitwan/constituency-2?lng=nep",
+        "source_type": "news_article"
+      }
+    },
+    {
+      "province": "Bagmati",
+      "district": "Chitwan/Constituency 2?Lng=Nep",
+      "constituency": "Chitwan/Constituency 2?Lng=Nep-2?lng=eng",
+      "election_year_bs": 2082,
+      "election_type": "federal",
+      "result": {
+        "winner": {
+          "name": "Meena Kumari Kharel",
+          "party": "Nepali Congress",
+          "votes_received": 1456439838
+        },
+        "runner_up": {
+          "name": "Ashim Ghimire",
+          "party": "CPN-UML",
+          "votes_received": 699247410
+        },
+        "vote_margin": 757192428
+      },
+      "source": {
+        "publisher": "ekantipur",
+        "url": "https://election.ekantipur.com/pradesh-3/district-chitwan/constituency-2?lng=eng",
+        "source_type": "news_article"
+      }
+    },
+    {
+      "province": "Bagmati",
+      "district": "Rautahat/Constituency 1?Lng=Nep",
+      "constituency": "Rautahat/Constituency 1?Lng=Nep-5?lng=nep",
+      "election_year_bs": 2082,
+      "election_type": "federal",
+      "result": {
+        "winner": {
+          "name": "\u0915\u0947\u092a\u0940 \u0936\u0930\u094d\u092e\u093e \u0913\u0932\u0940",
+          "party": "\u0928\u0947\u0915\u092a\u093e (\u090f\u092e\u093e\u0932\u0947)",
+          "votes_received": 1873449614
+        },
+        "runner_up": {
+          "name": "\u0938\u092e\u093f\u0930 \u0924\u093e\u092e\u093e\u0919\u094d\u0917",
+          "party": "\u0936\u094d\u0930\u092e \u0938\u0902\u0938\u094d\u0915\u0943\u0924\u093f \u092a\u093e\u0930\u094d\u091f\u0940",
+          "votes_received": 923359115
+        },
+        "vote_margin": 950090499
+      },
+      "source": {
+        "publisher": "ekantipur",
+        "url": "https://election.ekantipur.com/pradesh-1/district-jhapa/constituency-5?lng=nep",
+        "source_type": "news_article"
+      }
+    },
+    {
+      "province": "Bagmati",
+      "district": "Rautahat/Constituency 1?Lng=Nep",
+      "constituency": "Rautahat/Constituency 1?Lng=Nep-1?lng=nep",
+      "election_year_bs": 2082,
+      "election_type": "federal",
+      "result": {
+        "winner": {
+          "name": "\u0932\u093f\u0932\u093e\u092e\u0923\u0940 \u0917\u094c\u0924\u092e",
+          "party": "\u0928\u0947\u0915\u092a\u093e (\u090f\u092e\u093e\u0932\u0947)",
+          "votes_received": 34626778
+        },
+        "runner_up": {
+          "name": "\u0915\u0941\u0938\u0941\u092e \u0926\u0947\u0935\u0940 \u0925\u093e\u092a\u093e",
+          "party": "\u0928\u0947\u092a\u093e\u0932\u0940 \u0915\u093e\u0901\u0917\u094d\u0930\u0947\u0938",
+          "votes_received": 30817159
+        },
+        "vote_margin": 3809619
+      },
+      "source": {
+        "publisher": "ekantipur",
+        "url": "https://election.ekantipur.com/pradesh-5/district-rukumeast/constituency-1?lng=nep",
+        "source_type": "news_article"
+      }
+    },
+    {
+      "province": "Bagmati",
+      "district": "Rautahat/Constituency 1?Lng=Nep",
+      "constituency": "Rautahat/Constituency 1?Lng=Nep-2?lng=nep",
+      "election_year_bs": 2082,
+      "election_type": "federal",
+      "result": {
+        "winner": {
+          "name": "\u092e\u0939\u0947\u0936 \u092c\u0938\u094d\u0928\u0947\u0924",
+          "party": "\u0928\u0947\u0915\u092a\u093e (\u090f\u092e\u093e\u0932\u0947)",
+          "votes_received": 1099631338
+        },
+        "runner_up": {
+          "name": "\u0915\u0935\u093f\u0930 \u0930\u093e\u0923\u093e",
+          "party": "\u0928\u0947\u092a\u093e\u0932\u0940 \u0915\u093e\u0901\u0917\u094d\u0930\u0947\u0938",
+          "votes_received": 840133933
+        },
+        "vote_margin": 259497405
+      },
+      "source": {
+        "publisher": "ekantipur",
+        "url": "https://election.ekantipur.com/pradesh-3/district-bhaktapur/constituency-2?lng=nep",
+        "source_type": "news_article"
+      }
+    },
+    {
+      "province": "Bagmati",
+      "district": "Rautahat/Constituency 1?Lng=Nep",
+      "constituency": "Rautahat/Constituency 1?Lng=Nep-3?lng=nep",
+      "election_year_bs": 2082,
+      "election_type": "federal",
+      "result": {
+        "winner": {
+          "name": "\u0930\u092e\u0947\u0936 \u0905\u0930\u094d\u092f\u093e\u0932",
+          "party": "\u0928\u0947\u092a\u093e\u0932\u0940 \u0915\u093e\u0901\u0917\u094d\u0930\u0947\u0938",
+          "votes_received": 600012756
+        },
+        "runner_up": {
+          "name": "\u0930\u093e\u092e\u0947\u0936\u094d\u0935\u0930 \u092b\u0941\u092f\u093e\u0932",
+          "party": "\u0928\u0947\u0915\u092a\u093e (\u090f\u092e\u093e\u0932\u0947)",
+          "votes_received": 381614940
+        },
+        "vote_margin": 218397816
+      },
+      "source": {
+        "publisher": "ekantipur",
+        "url": "https://election.ekantipur.com/pradesh-3/district-kathmandu/constituency-3?lng=nep",
+        "source_type": "news_article"
+      }
+    },
+    {
+      "province": "Bagmati",
+      "district": "Kathmandu/Constituency 3?Lng=Nep",
+      "constituency": "Kathmandu/Constituency 3?Lng=Nep-3?lng=nep",
+      "election_year_bs": 2082,
+      "election_type": "federal",
+      "result": {
+        "winner": {
+          "name": "\u0930\u092e\u0947\u0936 \u0905\u0930\u094d\u092f\u093e\u0932",
+          "party": "\u0928\u0947\u092a\u093e\u0932\u0940 \u0915\u093e\u0901\u0917\u094d\u0930\u0947\u0938",
+          "votes_received": 600012756
+        },
+        "runner_up": {
+          "name": "\u0930\u093e\u092e\u0947\u0936\u094d\u0935\u0930 \u092b\u0941\u092f\u093e\u0932",
+          "party": "\u0928\u0947\u0915\u092a\u093e (\u090f\u092e\u093e\u0932\u0947)",
+          "votes_received": 381614940
+        },
+        "vote_margin": 218397816
+      },
+      "source": {
+        "publisher": "ekantipur",
+        "url": "https://election.ekantipur.com/pradesh-3/district-kathmandu/constituency-3?lng=nep",
+        "source_type": "news_article"
+      }
+    },
+    {
+      "province": "Bagmati",
+      "district": "Kathmandu/Constituency 3?Lng=Nep",
+      "constituency": "Kathmandu/Constituency 3?Lng=Nep-3?lng=eng",
+      "election_year_bs": 2082,
+      "election_type": "federal",
+      "result": {
+        "winner": {
+          "name": "Ramesh Aryal",
+          "party": "Nepali Congress",
+          "votes_received": 600012756
+        },
+        "runner_up": {
+          "name": "Rameshwar Phuyal",
+          "party": "CPN-UML",
+          "votes_received": 381614940
+        },
+        "vote_margin": 218397816
+      },
+      "source": {
+        "publisher": "ekantipur",
+        "url": "https://election.ekantipur.com/pradesh-3/district-kathmandu/constituency-3?lng=eng",
+        "source_type": "news_article"
+      }
+    },
+    {
+      "province": "Bagmati",
+      "district": "Myagdi/Constituency 1?Lng=Nep",
+      "constituency": "Myagdi/Constituency 1?Lng=Nep-1?lng=nep",
+      "election_year_bs": 2082,
+      "election_type": "federal",
+      "result": {
+        "winner": {
+          "name": "\u0939\u0930\u093f\u0915\u0943\u0937\u094d\u0923 \u0936\u094d\u0930\u0947\u0937\u094d\u0920",
+          "party": "\u0928\u0947\u0915\u092a\u093e (\u090f\u092e\u093e\u0932\u0947)",
+          "votes_received": 791914931
+        },
+        "runner_up": {
+          "name": "\u0915\u0930\u094d\u0923 \u092c\u0939\u093e\u0926\u0941\u0930 \u092d\u0923\u094d\u0921\u093e\u0930\u0940",
+          "party": "\u0928\u0947\u092a\u093e\u0932\u0940 \u0915\u093e\u0901\u0917\u094d\u0930\u0947\u0938",
+          "votes_received": 668316167
+        },
+        "vote_margin": 123598764
+      },
+      "source": {
+        "publisher": "ekantipur",
+        "url": "https://election.ekantipur.com/pradesh-4/district-myagdi/constituency-1?lng=nep",
+        "source_type": "news_article"
+      }
+    },
+    {
+      "province": "Bagmati",
+      "district": "Myagdi/Constituency 1?Lng=Nep",
+      "constituency": "Myagdi/Constituency 1?Lng=Nep-1?lng=eng",
+      "election_year_bs": 2082,
+      "election_type": "federal",
+      "result": {
+        "winner": {
+          "name": "Harikrishna Shrestha",
+          "party": "CPN-UML",
+          "votes_received": 791914931
+        },
+        "runner_up": {
+          "name": "Karna Bahadur Bhandari",
+          "party": "Nepali Congress",
+          "votes_received": 668316167
+        },
+        "vote_margin": 123598764
+      },
+      "source": {
+        "publisher": "ekantipur",
+        "url": "https://election.ekantipur.com/pradesh-4/district-myagdi/constituency-1?lng=eng",
+        "source_type": "news_article"
+      }
+    },
+    {
+      "province": "Bagmati",
+      "district": "Lalitpur/Constituency 3?Lng=Nep",
+      "constituency": "Lalitpur/Constituency 3?Lng=Nep-3?lng=nep",
+      "election_year_bs": 2082,
+      "election_type": "federal",
+      "result": {
+        "winner": {
+          "name": "\u091c\u093f\u0924\u0947\u0928\u094d\u0926\u094d\u0930 \u0915\u0941\u092e\u093e\u0930 \u0936\u094d\u0930\u0947\u0937\u094d\u0920",
+          "party": "\u0928\u0947\u092a\u093e\u0932\u0940 \u0915\u093e\u0901\u0917\u094d\u0930\u0947\u0938",
+          "votes_received": 904534051
+        },
+        "runner_up": {
+          "name": "\u0930\u093e\u091c \u0915\u093e\u091c\u0940 \u092e\u0939\u0930\u094d\u091c\u0928",
+          "party": "\u0928\u0947\u092a\u093e\u0932\u0940 \u0915\u092e\u094d\u092f\u0941\u0928\u093f\u0937\u094d\u091f \u092a\u093e\u0930\u094d\u091f\u0940",
+          "votes_received": 602237074
+        },
+        "vote_margin": 302296977
+      },
+      "source": {
+        "publisher": "ekantipur",
+        "url": "https://election.ekantipur.com/pradesh-3/district-lalitpur/constituency-3?lng=nep",
+        "source_type": "news_article"
+      }
+    },
+    {
+      "province": "Bagmati",
+      "district": "Lalitpur/Constituency 3?Lng=Nep",
+      "constituency": "Lalitpur/Constituency 3?Lng=Nep-3?lng=eng",
+      "election_year_bs": 2082,
+      "election_type": "federal",
+      "result": {
+        "winner": {
+          "name": "Jitendra Kumar Shrestha",
+          "party": "Nepali Congress",
+          "votes_received": 904534051
+        },
+        "runner_up": {
+          "name": "Raj Kaji Maharjan",
+          "party": "Nepali Communist Party",
+          "votes_received": 602237074
+        },
+        "vote_margin": 302296977
+      },
+      "source": {
+        "publisher": "ekantipur",
+        "url": "https://election.ekantipur.com/pradesh-3/district-lalitpur/constituency-3?lng=eng",
+        "source_type": "news_article"
+      }
+    },
+    {
+      "province": "Bagmati",
+      "district": "Siraha/Constituency 1?Lng=Nep",
+      "constituency": "Siraha/Constituency 1?Lng=Nep-1?lng=nep",
+      "election_year_bs": 2082,
+      "election_type": "federal",
+      "result": {
+        "winner": {
+          "name": "\u0930\u093e\u092e\u0938\u0941\u0928\u094d\u0926\u0930 \u091a\u094c\u0927\u0930\u0940",
+          "party": "\u0928\u0947\u092a\u093e\u0932\u0940 \u0915\u093e\u0901\u0917\u094d\u0930\u0947\u0938",
+          "votes_received": 978431538
+        },
+        "runner_up": {
+          "name": "\u0930\u093e\u092e\u0936\u0902\u0915\u0930 \u092f\u093e\u0926\u0935",
+          "party": "\u0928\u0947\u0915\u092a\u093e (\u090f\u092e\u093e\u0932\u0947)",
+          "votes_received": 788633436
+        },
+        "vote_margin": 189798102
+      },
+      "source": {
+        "publisher": "ekantipur",
+        "url": "https://election.ekantipur.com/pradesh-2/district-siraha/constituency-1?lng=nep",
+        "source_type": "news_article"
+      }
+    },
+    {
+      "province": "Bagmati",
+      "district": "Siraha/Constituency 1?Lng=Nep",
+      "constituency": "Siraha/Constituency 1?Lng=Nep-1?lng=eng",
+      "election_year_bs": 2082,
+      "election_type": "federal",
+      "result": {
+        "winner": {
+          "name": "Ram Sundar Chaudhary",
+          "party": "Nepali Congress",
+          "votes_received": 978431538
+        },
+        "runner_up": {
+          "name": "Ram Shankar Yadav",
+          "party": "CPN-UML",
+          "votes_received": 788633436
+        },
+        "vote_margin": 189798102
+      },
+      "source": {
+        "publisher": "ekantipur",
+        "url": "https://election.ekantipur.com/pradesh-2/district-siraha/constituency-1?lng=eng",
+        "source_type": "news_article"
+      }
+    },
+    {
+      "province": "Bagmati",
+      "district": "Gulmi/Constituency 1?Lng=Nep",
+      "constituency": "Gulmi/Constituency 1?Lng=Nep-1?lng=nep",
+      "election_year_bs": 2082,
+      "election_type": "federal",
+      "result": {
+        "winner": {
+          "name": "\u092a\u094d\u0930\u0926\u0940\u092a\u0915\u0941\u092e\u093e\u0930 \u091c\u094d\u091e\u0935\u093e\u0932\u0940",
+          "party": "\u0928\u0947\u0915\u092a\u093e (\u090f\u092e\u093e\u0932\u0947)",
+          "votes_received": 1518114461
+        },
+        "runner_up": {
+          "name": "\u091a\u0928\u094d\u0926\u094d\u0930\u0915\u093e\u0928\u094d\u0924 \u092d\u0923\u094d\u0921\u093e\u0930\u0940",
+          "party": "\u0928\u0947\u092a\u093e\u0932\u0940 \u0915\u093e\u0901\u0917\u094d\u0930\u0947\u0938",
+          "votes_received": 1350516137
+        },
+        "vote_margin": 167598324
+      },
+      "source": {
+        "publisher": "ekantipur",
+        "url": "https://election.ekantipur.com/pradesh-5/district-gulmi/constituency-1?lng=nep",
+        "source_type": "news_article"
+      }
+    },
+    {
+      "province": "Bagmati",
+      "district": "Gulmi/Constituency 1?Lng=Nep",
+      "constituency": "Gulmi/Constituency 1?Lng=Nep-1?lng=eng",
+      "election_year_bs": 2082,
+      "election_type": "federal",
+      "result": {
+        "winner": {
+          "name": "Pradip Kumar Gyawali",
+          "party": "CPN-UML",
+          "votes_received": 1518114461
+        },
+        "runner_up": {
+          "name": "Chandrakant Bhandari",
+          "party": "Nepali Congress",
+          "votes_received": 1350516137
+        },
+        "vote_margin": 167598324
+      },
+      "source": {
+        "publisher": "ekantipur",
+        "url": "https://election.ekantipur.com/pradesh-5/district-gulmi/constituency-1?lng=eng",
+        "source_type": "news_article"
+      }
+    },
+    {
+      "province": "Bagmati",
+      "district": "Gorkha/Constituency 1?Lng=Nep",
+      "constituency": "Gorkha/Constituency 1?Lng=Nep-1?lng=nep",
+      "election_year_bs": 2082,
+      "election_type": "federal",
+      "result": {
+        "winner": {
+          "name": "\u092a\u094d\u0930\u0947\u092e \u0915\u0941\u092e\u093e\u0930 \u0916\u0924\u094d\u0930\u0940",
+          "party": "\u0928\u0947\u092a\u093e\u0932\u0940 \u0915\u093e\u0901\u0917\u094d\u0930\u0947\u0938",
+          "votes_received": 1539814498
+        },
+        "runner_up": {
+          "name": "\u0939\u0930\u093f \u0930\u093e\u091c \u0905\u0927\u093f\u0915\u093e\u0930\u0940",
+          "party": "\u0928\u0947\u092a\u093e\u0932\u0940 \u0915\u092e\u094d\u092f\u0941\u0928\u093f\u0937\u094d\u091f \u092a\u093e\u0930\u094d\u091f\u0940",
+          "votes_received": 1112418772
+        },
+        "vote_margin": 427395726
+      },
+      "source": {
+        "publisher": "ekantipur",
+        "url": "https://election.ekantipur.com/pradesh-4/district-gorkha/constituency-1?lng=nep",
+        "source_type": "news_article"
+      }
+    },
+    {
+      "province": "Bagmati",
+      "district": "Gorkha/Constituency 1?Lng=Nep",
+      "constituency": "Gorkha/Constituency 1?Lng=Nep-1?lng=eng",
+      "election_year_bs": 2082,
+      "election_type": "federal",
+      "result": {
+        "winner": {
+          "name": "Prem Kumar Khatri",
+          "party": "Nepali Congress",
+          "votes_received": 1539814498
+        },
+        "runner_up": {
+          "name": "Hari Raj Adhikari",
+          "party": "Nepali Communist Party",
+          "votes_received": 1112418772
+        },
+        "vote_margin": 427395726
+      },
+      "source": {
+        "publisher": "ekantipur",
+        "url": "https://election.ekantipur.com/pradesh-4/district-gorkha/constituency-1?lng=eng",
+        "source_type": "news_article"
+      }
+    },
+    {
+      "province": "Bagmati",
+      "district": "Tanahun/Constituency 1?Lng=Nep",
+      "constituency": "Tanahun/Constituency 1?Lng=Nep-1?lng=nep",
+      "election_year_bs": 2082,
+      "election_type": "federal",
+      "result": {
+        "winner": {
+          "name": "\u0917\u094b\u0935\u093f\u0928\u094d\u0926 \u092d\u091f\u094d\u091f\u0930\u093e\u0908",
+          "party": "\u0928\u0947\u092a\u093e\u0932\u0940 \u0915\u093e\u0901\u0917\u094d\u0930\u0947\u0938",
+          "votes_received": 1623121809
+        },
+        "runner_up": {
+          "name": "\u092d\u0917\u0935\u0924\u0940 \u0928\u094d\u092f\u094c\u092a\u093e\u0928\u0947",
+          "party": "\u0928\u0947\u0915\u092a\u093e (\u090f\u092e\u093e\u0932\u0947)",
+          "votes_received": 565332387
+        },
+        "vote_margin": 1057789422
+      },
+      "source": {
+        "publisher": "ekantipur",
+        "url": "https://election.ekantipur.com/pradesh-4/district-tanahun/constituency-1?lng=nep",
+        "source_type": "news_article"
+      }
+    },
+    {
+      "province": "Bagmati",
+      "district": "Tanahun/Constituency 1?Lng=Nep",
+      "constituency": "Tanahun/Constituency 1?Lng=Nep-1?lng=eng",
+      "election_year_bs": 2082,
+      "election_type": "federal",
+      "result": {
+        "winner": {
+          "name": "Govind Bhattarai",
+          "party": "Nepali Congress",
+          "votes_received": 1623121809
+        },
+        "runner_up": {
+          "name": "Bhagwati Neupane",
+          "party": "CPN-UML",
+          "votes_received": 565332387
+        },
+        "vote_margin": 1057789422
+      },
+      "source": {
+        "publisher": "ekantipur",
+        "url": "https://election.ekantipur.com/pradesh-4/district-tanahun/constituency-1?lng=eng",
+        "source_type": "news_article"
+      }
+    },
+    {
+      "province": "Gandaki",
+      "district": "Jhapa/Constituency 5?Lng=Nep",
+      "constituency": "Jhapa/Constituency 5?Lng=Nep-5?lng=nep",
+      "election_year_bs": 2082,
+      "election_type": "federal",
+      "result": {
+        "winner": {
+          "name": "\u0915\u0947\u092a\u0940 \u0936\u0930\u094d\u092e\u093e \u0913\u0932\u0940",
+          "party": "\u0928\u0947\u0915\u092a\u093e (\u090f\u092e\u093e\u0932\u0947)",
+          "votes_received": 1873449614
+        },
+        "runner_up": {
+          "name": "\u0938\u092e\u093f\u0930 \u0924\u093e\u092e\u093e\u0919\u094d\u0917",
+          "party": "\u0936\u094d\u0930\u092e \u0938\u0902\u0938\u094d\u0915\u0943\u0924\u093f \u092a\u093e\u0930\u094d\u091f\u0940",
+          "votes_received": 923359115
+        },
+        "vote_margin": 950090499
+      },
+      "source": {
+        "publisher": "ekantipur",
+        "url": "https://election.ekantipur.com/pradesh-1/district-jhapa/constituency-5?lng=nep",
+        "source_type": "news_article"
+      }
+    },
+    {
+      "province": "Gandaki",
+      "district": "Jhapa/Constituency 5?Lng=Nep",
+      "constituency": "Jhapa/Constituency 5?Lng=Nep-5?lng=eng",
+      "election_year_bs": 2082,
+      "election_type": "federal",
+      "result": {
+        "winner": {
+          "name": "KP Sharma Oli",
+          "party": "CPN-UML",
+          "votes_received": 1873449614
+        },
+        "runner_up": {
+          "name": "Samir Tamang",
+          "party": "Shram Sanskriti Party",
+          "votes_received": 923359115
+        },
+        "vote_margin": 950090499
+      },
+      "source": {
+        "publisher": "ekantipur",
+        "url": "https://election.ekantipur.com/pradesh-1/district-jhapa/constituency-5?lng=eng",
+        "source_type": "news_article"
+      }
+    },
+    {
+      "province": "Gandaki",
+      "district": "Rukumeast/Constituency 1?Lng=Nep",
+      "constituency": "Rukumeast/Constituency 1?Lng=Nep-1?lng=nep",
+      "election_year_bs": 2082,
+      "election_type": "federal",
+      "result": {
+        "winner": {
+          "name": "\u0932\u093f\u0932\u093e\u092e\u0923\u0940 \u0917\u094c\u0924\u092e",
+          "party": "\u0928\u0947\u0915\u092a\u093e (\u090f\u092e\u093e\u0932\u0947)",
+          "votes_received": 34626778
+        },
+        "runner_up": {
+          "name": "\u0915\u0941\u0938\u0941\u092e \u0926\u0947\u0935\u0940 \u0925\u093e\u092a\u093e",
+          "party": "\u0928\u0947\u092a\u093e\u0932\u0940 \u0915\u093e\u0901\u0917\u094d\u0930\u0947\u0938",
+          "votes_received": 30817159
+        },
+        "vote_margin": 3809619
+      },
+      "source": {
+        "publisher": "ekantipur",
+        "url": "https://election.ekantipur.com/pradesh-5/district-rukumeast/constituency-1?lng=nep",
+        "source_type": "news_article"
+      }
+    },
+    {
+      "province": "Gandaki",
+      "district": "Rukumeast/Constituency 1?Lng=Nep",
+      "constituency": "Rukumeast/Constituency 1?Lng=Nep-1?lng=eng",
+      "election_year_bs": 2082,
+      "election_type": "federal",
+      "result": {
+        "winner": {
+          "name": "Lilamani Gautam",
+          "party": "CPN-UML",
+          "votes_received": 34626778
+        },
+        "runner_up": {
+          "name": "Kusum Devi Thapa",
+          "party": "Nepali Congress",
+          "votes_received": 30817159
+        },
+        "vote_margin": 3809619
+      },
+      "source": {
+        "publisher": "ekantipur",
+        "url": "https://election.ekantipur.com/pradesh-5/district-rukumeast/constituency-1?lng=eng",
+        "source_type": "news_article"
+      }
+    },
+    {
+      "province": "Gandaki",
+      "district": "Bhaktapur/Constituency 2?Lng=Nep",
+      "constituency": "Bhaktapur/Constituency 2?Lng=Nep-2?lng=nep",
+      "election_year_bs": 2082,
+      "election_type": "federal",
+      "result": {
+        "winner": {
+          "name": "\u092e\u0939\u0947\u0936 \u092c\u0938\u094d\u0928\u0947\u0924",
+          "party": "\u0928\u0947\u0915\u092a\u093e (\u090f\u092e\u093e\u0932\u0947)",
+          "votes_received": 1099631338
+        },
+        "runner_up": {
+          "name": "\u0915\u0935\u093f\u0930 \u0930\u093e\u0923\u093e",
+          "party": "\u0928\u0947\u092a\u093e\u0932\u0940 \u0915\u093e\u0901\u0917\u094d\u0930\u0947\u0938",
+          "votes_received": 840133933
+        },
+        "vote_margin": 259497405
+      },
+      "source": {
+        "publisher": "ekantipur",
+        "url": "https://election.ekantipur.com/pradesh-3/district-bhaktapur/constituency-2?lng=nep",
+        "source_type": "news_article"
+      }
+    },
+    {
+      "province": "Gandaki",
+      "district": "Bhaktapur/Constituency 2?Lng=Nep",
+      "constituency": "Bhaktapur/Constituency 2?Lng=Nep-2?lng=eng",
+      "election_year_bs": 2082,
+      "election_type": "federal",
+      "result": {
+        "winner": {
+          "name": "Mahesh Basnet",
+          "party": "CPN-UML",
+          "votes_received": 1099631338
+        },
+        "runner_up": {
+          "name": "Kavir Rana",
+          "party": "Nepali Congress",
+          "votes_received": 840133933
+        },
+        "vote_margin": 259497405
+      },
+      "source": {
+        "publisher": "ekantipur",
+        "url": "https://election.ekantipur.com/pradesh-3/district-bhaktapur/constituency-2?lng=eng",
+        "source_type": "news_article"
+      }
+    },
+    {
+      "province": "Gandaki",
+      "district": "Chitwan/Constituency 2?Lng=Nep",
+      "constituency": "Chitwan/Constituency 2?Lng=Nep-2?lng=nep",
+      "election_year_bs": 2082,
+      "election_type": "federal",
+      "result": {
+        "winner": {
+          "name": "\u092e\u093f\u0928\u093e \u0915\u0941\u092e\u093e\u0930\u0940 \u0916\u0930\u0947\u0932",
+          "party": "\u0928\u0947\u092a\u093e\u0932\u0940 \u0915\u093e\u0901\u0917\u094d\u0930\u0947\u0938",
+          "votes_received": 1456439838
+        },
+        "runner_up": {
+          "name": "\u0905\u0938\u094d\u092e\u093f\u0928 \u0918\u093f\u092e\u093f\u0930\u0947",
+          "party": "\u0928\u0947\u0915\u092a\u093e (\u090f\u092e\u093e\u0932\u0947)",
+          "votes_received": 699247410
+        },
+        "vote_margin": 757192428
+      },
+      "source": {
+        "publisher": "ekantipur",
+        "url": "https://election.ekantipur.com/pradesh-3/district-chitwan/constituency-2?lng=nep",
+        "source_type": "news_article"
+      }
+    },
+    {
+      "province": "Gandaki",
+      "district": "Chitwan/Constituency 2?Lng=Nep",
+      "constituency": "Chitwan/Constituency 2?Lng=Nep-2?lng=eng",
+      "election_year_bs": 2082,
+      "election_type": "federal",
+      "result": {
+        "winner": {
+          "name": "Meena Kumari Kharel",
+          "party": "Nepali Congress",
+          "votes_received": 1456439838
+        },
+        "runner_up": {
+          "name": "Ashim Ghimire",
+          "party": "CPN-UML",
+          "votes_received": 699247410
+        },
+        "vote_margin": 757192428
+      },
+      "source": {
+        "publisher": "ekantipur",
+        "url": "https://election.ekantipur.com/pradesh-3/district-chitwan/constituency-2?lng=eng",
+        "source_type": "news_article"
+      }
+    },
+    {
+      "province": "Gandaki",
+      "district": "Rautahat/Constituency 1?Lng=Nep",
+      "constituency": "Rautahat/Constituency 1?Lng=Nep-5?lng=nep",
+      "election_year_bs": 2082,
+      "election_type": "federal",
+      "result": {
+        "winner": {
+          "name": "\u0915\u0947\u092a\u0940 \u0936\u0930\u094d\u092e\u093e \u0913\u0932\u0940",
+          "party": "\u0928\u0947\u0915\u092a\u093e (\u090f\u092e\u093e\u0932\u0947)",
+          "votes_received": 1873449614
+        },
+        "runner_up": {
+          "name": "\u0938\u092e\u093f\u0930 \u0924\u093e\u092e\u093e\u0919\u094d\u0917",
+          "party": "\u0936\u094d\u0930\u092e \u0938\u0902\u0938\u094d\u0915\u0943\u0924\u093f \u092a\u093e\u0930\u094d\u091f\u0940",
+          "votes_received": 923359115
+        },
+        "vote_margin": 950090499
+      },
+      "source": {
+        "publisher": "ekantipur",
+        "url": "https://election.ekantipur.com/pradesh-1/district-jhapa/constituency-5?lng=nep",
+        "source_type": "news_article"
+      }
+    },
+    {
+      "province": "Gandaki",
+      "district": "Rautahat/Constituency 1?Lng=Nep",
+      "constituency": "Rautahat/Constituency 1?Lng=Nep-1?lng=nep",
+      "election_year_bs": 2082,
+      "election_type": "federal",
+      "result": {
+        "winner": {
+          "name": "\u0932\u093f\u0932\u093e\u092e\u0923\u0940 \u0917\u094c\u0924\u092e",
+          "party": "\u0928\u0947\u0915\u092a\u093e (\u090f\u092e\u093e\u0932\u0947)",
+          "votes_received": 34626778
+        },
+        "runner_up": {
+          "name": "\u0915\u0941\u0938\u0941\u092e \u0926\u0947\u0935\u0940 \u0925\u093e\u092a\u093e",
+          "party": "\u0928\u0947\u092a\u093e\u0932\u0940 \u0915\u093e\u0901\u0917\u094d\u0930\u0947\u0938",
+          "votes_received": 30817159
+        },
+        "vote_margin": 3809619
+      },
+      "source": {
+        "publisher": "ekantipur",
+        "url": "https://election.ekantipur.com/pradesh-5/district-rukumeast/constituency-1?lng=nep",
+        "source_type": "news_article"
+      }
+    },
+    {
+      "province": "Gandaki",
+      "district": "Rautahat/Constituency 1?Lng=Nep",
+      "constituency": "Rautahat/Constituency 1?Lng=Nep-2?lng=nep",
+      "election_year_bs": 2082,
+      "election_type": "federal",
+      "result": {
+        "winner": {
+          "name": "\u092e\u0939\u0947\u0936 \u092c\u0938\u094d\u0928\u0947\u0924",
+          "party": "\u0928\u0947\u0915\u092a\u093e (\u090f\u092e\u093e\u0932\u0947)",
+          "votes_received": 1099631338
+        },
+        "runner_up": {
+          "name": "\u0915\u0935\u093f\u0930 \u0930\u093e\u0923\u093e",
+          "party": "\u0928\u0947\u092a\u093e\u0932\u0940 \u0915\u093e\u0901\u0917\u094d\u0930\u0947\u0938",
+          "votes_received": 840133933
+        },
+        "vote_margin": 259497405
+      },
+      "source": {
+        "publisher": "ekantipur",
+        "url": "https://election.ekantipur.com/pradesh-3/district-bhaktapur/constituency-2?lng=nep",
+        "source_type": "news_article"
+      }
+    },
+    {
+      "province": "Gandaki",
+      "district": "Rautahat/Constituency 1?Lng=Nep",
+      "constituency": "Rautahat/Constituency 1?Lng=Nep-3?lng=nep",
+      "election_year_bs": 2082,
+      "election_type": "federal",
+      "result": {
+        "winner": {
+          "name": "\u0930\u092e\u0947\u0936 \u0905\u0930\u094d\u092f\u093e\u0932",
+          "party": "\u0928\u0947\u092a\u093e\u0932\u0940 \u0915\u093e\u0901\u0917\u094d\u0930\u0947\u0938",
+          "votes_received": 600012756
+        },
+        "runner_up": {
+          "name": "\u0930\u093e\u092e\u0947\u0936\u094d\u0935\u0930 \u092b\u0941\u092f\u093e\u0932",
+          "party": "\u0928\u0947\u0915\u092a\u093e (\u090f\u092e\u093e\u0932\u0947)",
+          "votes_received": 381614940
+        },
+        "vote_margin": 218397816
+      },
+      "source": {
+        "publisher": "ekantipur",
+        "url": "https://election.ekantipur.com/pradesh-3/district-kathmandu/constituency-3?lng=nep",
+        "source_type": "news_article"
+      }
+    },
+    {
+      "province": "Gandaki",
+      "district": "Kathmandu/Constituency 3?Lng=Nep",
+      "constituency": "Kathmandu/Constituency 3?Lng=Nep-3?lng=nep",
+      "election_year_bs": 2082,
+      "election_type": "federal",
+      "result": {
+        "winner": {
+          "name": "\u0930\u092e\u0947\u0936 \u0905\u0930\u094d\u092f\u093e\u0932",
+          "party": "\u0928\u0947\u092a\u093e\u0932\u0940 \u0915\u093e\u0901\u0917\u094d\u0930\u0947\u0938",
+          "votes_received": 600012756
+        },
+        "runner_up": {
+          "name": "\u0930\u093e\u092e\u0947\u0936\u094d\u0935\u0930 \u092b\u0941\u092f\u093e\u0932",
+          "party": "\u0928\u0947\u0915\u092a\u093e (\u090f\u092e\u093e\u0932\u0947)",
+          "votes_received": 381614940
+        },
+        "vote_margin": 218397816
+      },
+      "source": {
+        "publisher": "ekantipur",
+        "url": "https://election.ekantipur.com/pradesh-3/district-kathmandu/constituency-3?lng=nep",
+        "source_type": "news_article"
+      }
+    },
+    {
+      "province": "Gandaki",
+      "district": "Kathmandu/Constituency 3?Lng=Nep",
+      "constituency": "Kathmandu/Constituency 3?Lng=Nep-3?lng=eng",
+      "election_year_bs": 2082,
+      "election_type": "federal",
+      "result": {
+        "winner": {
+          "name": "Ramesh Aryal",
+          "party": "Nepali Congress",
+          "votes_received": 600012756
+        },
+        "runner_up": {
+          "name": "Rameshwar Phuyal",
+          "party": "CPN-UML",
+          "votes_received": 381614940
+        },
+        "vote_margin": 218397816
+      },
+      "source": {
+        "publisher": "ekantipur",
+        "url": "https://election.ekantipur.com/pradesh-3/district-kathmandu/constituency-3?lng=eng",
+        "source_type": "news_article"
+      }
+    },
+    {
+      "province": "Gandaki",
+      "district": "Myagdi/Constituency 1?Lng=Nep",
+      "constituency": "Myagdi/Constituency 1?Lng=Nep-1?lng=nep",
+      "election_year_bs": 2082,
+      "election_type": "federal",
+      "result": {
+        "winner": {
+          "name": "\u0939\u0930\u093f\u0915\u0943\u0937\u094d\u0923 \u0936\u094d\u0930\u0947\u0937\u094d\u0920",
+          "party": "\u0928\u0947\u0915\u092a\u093e (\u090f\u092e\u093e\u0932\u0947)",
+          "votes_received": 791914931
+        },
+        "runner_up": {
+          "name": "\u0915\u0930\u094d\u0923 \u092c\u0939\u093e\u0926\u0941\u0930 \u092d\u0923\u094d\u0921\u093e\u0930\u0940",
+          "party": "\u0928\u0947\u092a\u093e\u0932\u0940 \u0915\u093e\u0901\u0917\u094d\u0930\u0947\u0938",
+          "votes_received": 668316167
+        },
+        "vote_margin": 123598764
+      },
+      "source": {
+        "publisher": "ekantipur",
+        "url": "https://election.ekantipur.com/pradesh-4/district-myagdi/constituency-1?lng=nep",
+        "source_type": "news_article"
+      }
+    },
+    {
+      "province": "Gandaki",
+      "district": "Myagdi/Constituency 1?Lng=Nep",
+      "constituency": "Myagdi/Constituency 1?Lng=Nep-1?lng=eng",
+      "election_year_bs": 2082,
+      "election_type": "federal",
+      "result": {
+        "winner": {
+          "name": "Harikrishna Shrestha",
+          "party": "CPN-UML",
+          "votes_received": 791914931
+        },
+        "runner_up": {
+          "name": "Karna Bahadur Bhandari",
+          "party": "Nepali Congress",
+          "votes_received": 668316167
+        },
+        "vote_margin": 123598764
+      },
+      "source": {
+        "publisher": "ekantipur",
+        "url": "https://election.ekantipur.com/pradesh-4/district-myagdi/constituency-1?lng=eng",
+        "source_type": "news_article"
+      }
+    },
+    {
+      "province": "Gandaki",
+      "district": "Lalitpur/Constituency 3?Lng=Nep",
+      "constituency": "Lalitpur/Constituency 3?Lng=Nep-3?lng=nep",
+      "election_year_bs": 2082,
+      "election_type": "federal",
+      "result": {
+        "winner": {
+          "name": "\u091c\u093f\u0924\u0947\u0928\u094d\u0926\u094d\u0930 \u0915\u0941\u092e\u093e\u0930 \u0936\u094d\u0930\u0947\u0937\u094d\u0920",
+          "party": "\u0928\u0947\u092a\u093e\u0932\u0940 \u0915\u093e\u0901\u0917\u094d\u0930\u0947\u0938",
+          "votes_received": 904534051
+        },
+        "runner_up": {
+          "name": "\u0930\u093e\u091c \u0915\u093e\u091c\u0940 \u092e\u0939\u0930\u094d\u091c\u0928",
+          "party": "\u0928\u0947\u092a\u093e\u0932\u0940 \u0915\u092e\u094d\u092f\u0941\u0928\u093f\u0937\u094d\u091f \u092a\u093e\u0930\u094d\u091f\u0940",
+          "votes_received": 602237074
+        },
+        "vote_margin": 302296977
+      },
+      "source": {
+        "publisher": "ekantipur",
+        "url": "https://election.ekantipur.com/pradesh-3/district-lalitpur/constituency-3?lng=nep",
+        "source_type": "news_article"
+      }
+    },
+    {
+      "province": "Gandaki",
+      "district": "Lalitpur/Constituency 3?Lng=Nep",
+      "constituency": "Lalitpur/Constituency 3?Lng=Nep-3?lng=eng",
+      "election_year_bs": 2082,
+      "election_type": "federal",
+      "result": {
+        "winner": {
+          "name": "Jitendra Kumar Shrestha",
+          "party": "Nepali Congress",
+          "votes_received": 904534051
+        },
+        "runner_up": {
+          "name": "Raj Kaji Maharjan",
+          "party": "Nepali Communist Party",
+          "votes_received": 602237074
+        },
+        "vote_margin": 302296977
+      },
+      "source": {
+        "publisher": "ekantipur",
+        "url": "https://election.ekantipur.com/pradesh-3/district-lalitpur/constituency-3?lng=eng",
+        "source_type": "news_article"
+      }
+    },
+    {
+      "province": "Gandaki",
+      "district": "Siraha/Constituency 1?Lng=Nep",
+      "constituency": "Siraha/Constituency 1?Lng=Nep-1?lng=nep",
+      "election_year_bs": 2082,
+      "election_type": "federal",
+      "result": {
+        "winner": {
+          "name": "\u0930\u093e\u092e\u0938\u0941\u0928\u094d\u0926\u0930 \u091a\u094c\u0927\u0930\u0940",
+          "party": "\u0928\u0947\u092a\u093e\u0932\u0940 \u0915\u093e\u0901\u0917\u094d\u0930\u0947\u0938",
+          "votes_received": 978431538
+        },
+        "runner_up": {
+          "name": "\u0930\u093e\u092e\u0936\u0902\u0915\u0930 \u092f\u093e\u0926\u0935",
+          "party": "\u0928\u0947\u0915\u092a\u093e (\u090f\u092e\u093e\u0932\u0947)",
+          "votes_received": 788633436
+        },
+        "vote_margin": 189798102
+      },
+      "source": {
+        "publisher": "ekantipur",
+        "url": "https://election.ekantipur.com/pradesh-2/district-siraha/constituency-1?lng=nep",
+        "source_type": "news_article"
+      }
+    },
+    {
+      "province": "Gandaki",
+      "district": "Siraha/Constituency 1?Lng=Nep",
+      "constituency": "Siraha/Constituency 1?Lng=Nep-1?lng=eng",
+      "election_year_bs": 2082,
+      "election_type": "federal",
+      "result": {
+        "winner": {
+          "name": "Ram Sundar Chaudhary",
+          "party": "Nepali Congress",
+          "votes_received": 978431538
+        },
+        "runner_up": {
+          "name": "Ram Shankar Yadav",
+          "party": "CPN-UML",
+          "votes_received": 788633436
+        },
+        "vote_margin": 189798102
+      },
+      "source": {
+        "publisher": "ekantipur",
+        "url": "https://election.ekantipur.com/pradesh-2/district-siraha/constituency-1?lng=eng",
+        "source_type": "news_article"
+      }
+    },
+    {
+      "province": "Gandaki",
+      "district": "Gulmi/Constituency 1?Lng=Nep",
+      "constituency": "Gulmi/Constituency 1?Lng=Nep-1?lng=nep",
+      "election_year_bs": 2082,
+      "election_type": "federal",
+      "result": {
+        "winner": {
+          "name": "\u092a\u094d\u0930\u0926\u0940\u092a\u0915\u0941\u092e\u093e\u0930 \u091c\u094d\u091e\u0935\u093e\u0932\u0940",
+          "party": "\u0928\u0947\u0915\u092a\u093e (\u090f\u092e\u093e\u0932\u0947)",
+          "votes_received": 1518114461
+        },
+        "runner_up": {
+          "name": "\u091a\u0928\u094d\u0926\u094d\u0930\u0915\u093e\u0928\u094d\u0924 \u092d\u0923\u094d\u0921\u093e\u0930\u0940",
+          "party": "\u0928\u0947\u092a\u093e\u0932\u0940 \u0915\u093e\u0901\u0917\u094d\u0930\u0947\u0938",
+          "votes_received": 1350516137
+        },
+        "vote_margin": 167598324
+      },
+      "source": {
+        "publisher": "ekantipur",
+        "url": "https://election.ekantipur.com/pradesh-5/district-gulmi/constituency-1?lng=nep",
+        "source_type": "news_article"
+      }
+    },
+    {
+      "province": "Gandaki",
+      "district": "Gulmi/Constituency 1?Lng=Nep",
+      "constituency": "Gulmi/Constituency 1?Lng=Nep-1?lng=eng",
+      "election_year_bs": 2082,
+      "election_type": "federal",
+      "result": {
+        "winner": {
+          "name": "Pradip Kumar Gyawali",
+          "party": "CPN-UML",
+          "votes_received": 1518114461
+        },
+        "runner_up": {
+          "name": "Chandrakant Bhandari",
+          "party": "Nepali Congress",
+          "votes_received": 1350516137
+        },
+        "vote_margin": 167598324
+      },
+      "source": {
+        "publisher": "ekantipur",
+        "url": "https://election.ekantipur.com/pradesh-5/district-gulmi/constituency-1?lng=eng",
+        "source_type": "news_article"
+      }
+    },
+    {
+      "province": "Gandaki",
+      "district": "Gorkha/Constituency 1?Lng=Nep",
+      "constituency": "Gorkha/Constituency 1?Lng=Nep-1?lng=nep",
+      "election_year_bs": 2082,
+      "election_type": "federal",
+      "result": {
+        "winner": {
+          "name": "\u092a\u094d\u0930\u0947\u092e \u0915\u0941\u092e\u093e\u0930 \u0916\u0924\u094d\u0930\u0940",
+          "party": "\u0928\u0947\u092a\u093e\u0932\u0940 \u0915\u093e\u0901\u0917\u094d\u0930\u0947\u0938",
+          "votes_received": 1539814498
+        },
+        "runner_up": {
+          "name": "\u0939\u0930\u093f \u0930\u093e\u091c \u0905\u0927\u093f\u0915\u093e\u0930\u0940",
+          "party": "\u0928\u0947\u092a\u093e\u0932\u0940 \u0915\u092e\u094d\u092f\u0941\u0928\u093f\u0937\u094d\u091f \u092a\u093e\u0930\u094d\u091f\u0940",
+          "votes_received": 1112418772
+        },
+        "vote_margin": 427395726
+      },
+      "source": {
+        "publisher": "ekantipur",
+        "url": "https://election.ekantipur.com/pradesh-4/district-gorkha/constituency-1?lng=nep",
+        "source_type": "news_article"
+      }
+    },
+    {
+      "province": "Gandaki",
+      "district": "Gorkha/Constituency 1?Lng=Nep",
+      "constituency": "Gorkha/Constituency 1?Lng=Nep-1?lng=eng",
+      "election_year_bs": 2082,
+      "election_type": "federal",
+      "result": {
+        "winner": {
+          "name": "Prem Kumar Khatri",
+          "party": "Nepali Congress",
+          "votes_received": 1539814498
+        },
+        "runner_up": {
+          "name": "Hari Raj Adhikari",
+          "party": "Nepali Communist Party",
+          "votes_received": 1112418772
+        },
+        "vote_margin": 427395726
+      },
+      "source": {
+        "publisher": "ekantipur",
+        "url": "https://election.ekantipur.com/pradesh-4/district-gorkha/constituency-1?lng=eng",
+        "source_type": "news_article"
+      }
+    },
+    {
+      "province": "Gandaki",
+      "district": "Tanahun/Constituency 1?Lng=Nep",
+      "constituency": "Tanahun/Constituency 1?Lng=Nep-1?lng=nep",
+      "election_year_bs": 2082,
+      "election_type": "federal",
+      "result": {
+        "winner": {
+          "name": "\u0917\u094b\u0935\u093f\u0928\u094d\u0926 \u092d\u091f\u094d\u091f\u0930\u093e\u0908",
+          "party": "\u0928\u0947\u092a\u093e\u0932\u0940 \u0915\u093e\u0901\u0917\u094d\u0930\u0947\u0938",
+          "votes_received": 1623121809
+        },
+        "runner_up": {
+          "name": "\u092d\u0917\u0935\u0924\u0940 \u0928\u094d\u092f\u094c\u092a\u093e\u0928\u0947",
+          "party": "\u0928\u0947\u0915\u092a\u093e (\u090f\u092e\u093e\u0932\u0947)",
+          "votes_received": 565332387
+        },
+        "vote_margin": 1057789422
+      },
+      "source": {
+        "publisher": "ekantipur",
+        "url": "https://election.ekantipur.com/pradesh-4/district-tanahun/constituency-1?lng=nep",
+        "source_type": "news_article"
+      }
+    },
+    {
+      "province": "Gandaki",
+      "district": "Tanahun/Constituency 1?Lng=Nep",
+      "constituency": "Tanahun/Constituency 1?Lng=Nep-1?lng=eng",
+      "election_year_bs": 2082,
+      "election_type": "federal",
+      "result": {
+        "winner": {
+          "name": "Govind Bhattarai",
+          "party": "Nepali Congress",
+          "votes_received": 1623121809
+        },
+        "runner_up": {
+          "name": "Bhagwati Neupane",
+          "party": "CPN-UML",
+          "votes_received": 565332387
+        },
+        "vote_margin": 1057789422
+      },
+      "source": {
+        "publisher": "ekantipur",
+        "url": "https://election.ekantipur.com/pradesh-4/district-tanahun/constituency-1?lng=eng",
+        "source_type": "news_article"
+      }
+    },
+    {
+      "province": "Lumbini",
+      "district": "Jhapa/Constituency 5?Lng=Nep",
+      "constituency": "Jhapa/Constituency 5?Lng=Nep-5?lng=nep",
+      "election_year_bs": 2082,
+      "election_type": "federal",
+      "result": {
+        "winner": {
+          "name": "\u0915\u0947\u092a\u0940 \u0936\u0930\u094d\u092e\u093e \u0913\u0932\u0940",
+          "party": "\u0928\u0947\u0915\u092a\u093e (\u090f\u092e\u093e\u0932\u0947)",
+          "votes_received": 1873449614
+        },
+        "runner_up": {
+          "name": "\u0938\u092e\u093f\u0930 \u0924\u093e\u092e\u093e\u0919\u094d\u0917",
+          "party": "\u0936\u094d\u0930\u092e \u0938\u0902\u0938\u094d\u0915\u0943\u0924\u093f \u092a\u093e\u0930\u094d\u091f\u0940",
+          "votes_received": 923359115
+        },
+        "vote_margin": 950090499
+      },
+      "source": {
+        "publisher": "ekantipur",
+        "url": "https://election.ekantipur.com/pradesh-1/district-jhapa/constituency-5?lng=nep",
+        "source_type": "news_article"
+      }
+    },
+    {
+      "province": "Lumbini",
+      "district": "Jhapa/Constituency 5?Lng=Nep",
+      "constituency": "Jhapa/Constituency 5?Lng=Nep-5?lng=eng",
+      "election_year_bs": 2082,
+      "election_type": "federal",
+      "result": {
+        "winner": {
+          "name": "KP Sharma Oli",
+          "party": "CPN-UML",
+          "votes_received": 1873449614
+        },
+        "runner_up": {
+          "name": "Samir Tamang",
+          "party": "Shram Sanskriti Party",
+          "votes_received": 923359115
+        },
+        "vote_margin": 950090499
+      },
+      "source": {
+        "publisher": "ekantipur",
+        "url": "https://election.ekantipur.com/pradesh-1/district-jhapa/constituency-5?lng=eng",
+        "source_type": "news_article"
+      }
+    },
+    {
+      "province": "Lumbini",
+      "district": "Rukumeast/Constituency 1?Lng=Nep",
+      "constituency": "Rukumeast/Constituency 1?Lng=Nep-1?lng=nep",
+      "election_year_bs": 2082,
+      "election_type": "federal",
+      "result": {
+        "winner": {
+          "name": "\u0932\u093f\u0932\u093e\u092e\u0923\u0940 \u0917\u094c\u0924\u092e",
+          "party": "\u0928\u0947\u0915\u092a\u093e (\u090f\u092e\u093e\u0932\u0947)",
+          "votes_received": 34626778
+        },
+        "runner_up": {
+          "name": "\u0915\u0941\u0938\u0941\u092e \u0926\u0947\u0935\u0940 \u0925\u093e\u092a\u093e",
+          "party": "\u0928\u0947\u092a\u093e\u0932\u0940 \u0915\u093e\u0901\u0917\u094d\u0930\u0947\u0938",
+          "votes_received": 30817159
+        },
+        "vote_margin": 3809619
+      },
+      "source": {
+        "publisher": "ekantipur",
+        "url": "https://election.ekantipur.com/pradesh-5/district-rukumeast/constituency-1?lng=nep",
+        "source_type": "news_article"
+      }
+    },
+    {
+      "province": "Lumbini",
+      "district": "Rukumeast/Constituency 1?Lng=Nep",
+      "constituency": "Rukumeast/Constituency 1?Lng=Nep-1?lng=eng",
+      "election_year_bs": 2082,
+      "election_type": "federal",
+      "result": {
+        "winner": {
+          "name": "Lilamani Gautam",
+          "party": "CPN-UML",
+          "votes_received": 34626778
+        },
+        "runner_up": {
+          "name": "Kusum Devi Thapa",
+          "party": "Nepali Congress",
+          "votes_received": 30817159
+        },
+        "vote_margin": 3809619
+      },
+      "source": {
+        "publisher": "ekantipur",
+        "url": "https://election.ekantipur.com/pradesh-5/district-rukumeast/constituency-1?lng=eng",
+        "source_type": "news_article"
+      }
+    },
+    {
+      "province": "Lumbini",
+      "district": "Bhaktapur/Constituency 2?Lng=Nep",
+      "constituency": "Bhaktapur/Constituency 2?Lng=Nep-2?lng=nep",
+      "election_year_bs": 2082,
+      "election_type": "federal",
+      "result": {
+        "winner": {
+          "name": "\u092e\u0939\u0947\u0936 \u092c\u0938\u094d\u0928\u0947\u0924",
+          "party": "\u0928\u0947\u0915\u092a\u093e (\u090f\u092e\u093e\u0932\u0947)",
+          "votes_received": 1099631338
+        },
+        "runner_up": {
+          "name": "\u0915\u0935\u093f\u0930 \u0930\u093e\u0923\u093e",
+          "party": "\u0928\u0947\u092a\u093e\u0932\u0940 \u0915\u093e\u0901\u0917\u094d\u0930\u0947\u0938",
+          "votes_received": 840133933
+        },
+        "vote_margin": 259497405
+      },
+      "source": {
+        "publisher": "ekantipur",
+        "url": "https://election.ekantipur.com/pradesh-3/district-bhaktapur/constituency-2?lng=nep",
+        "source_type": "news_article"
+      }
+    },
+    {
+      "province": "Lumbini",
+      "district": "Bhaktapur/Constituency 2?Lng=Nep",
+      "constituency": "Bhaktapur/Constituency 2?Lng=Nep-2?lng=eng",
+      "election_year_bs": 2082,
+      "election_type": "federal",
+      "result": {
+        "winner": {
+          "name": "Mahesh Basnet",
+          "party": "CPN-UML",
+          "votes_received": 1099631338
+        },
+        "runner_up": {
+          "name": "Kavir Rana",
+          "party": "Nepali Congress",
+          "votes_received": 840133933
+        },
+        "vote_margin": 259497405
+      },
+      "source": {
+        "publisher": "ekantipur",
+        "url": "https://election.ekantipur.com/pradesh-3/district-bhaktapur/constituency-2?lng=eng",
+        "source_type": "news_article"
+      }
+    },
+    {
+      "province": "Lumbini",
+      "district": "Chitwan/Constituency 2?Lng=Nep",
+      "constituency": "Chitwan/Constituency 2?Lng=Nep-2?lng=nep",
+      "election_year_bs": 2082,
+      "election_type": "federal",
+      "result": {
+        "winner": {
+          "name": "\u092e\u093f\u0928\u093e \u0915\u0941\u092e\u093e\u0930\u0940 \u0916\u0930\u0947\u0932",
+          "party": "\u0928\u0947\u092a\u093e\u0932\u0940 \u0915\u093e\u0901\u0917\u094d\u0930\u0947\u0938",
+          "votes_received": 1456439838
+        },
+        "runner_up": {
+          "name": "\u0905\u0938\u094d\u092e\u093f\u0928 \u0918\u093f\u092e\u093f\u0930\u0947",
+          "party": "\u0928\u0947\u0915\u092a\u093e (\u090f\u092e\u093e\u0932\u0947)",
+          "votes_received": 699247410
+        },
+        "vote_margin": 757192428
+      },
+      "source": {
+        "publisher": "ekantipur",
+        "url": "https://election.ekantipur.com/pradesh-3/district-chitwan/constituency-2?lng=nep",
+        "source_type": "news_article"
+      }
+    },
+    {
+      "province": "Lumbini",
+      "district": "Chitwan/Constituency 2?Lng=Nep",
+      "constituency": "Chitwan/Constituency 2?Lng=Nep-2?lng=eng",
+      "election_year_bs": 2082,
+      "election_type": "federal",
+      "result": {
+        "winner": {
+          "name": "Meena Kumari Kharel",
+          "party": "Nepali Congress",
+          "votes_received": 1456439838
+        },
+        "runner_up": {
+          "name": "Ashim Ghimire",
+          "party": "CPN-UML",
+          "votes_received": 699247410
+        },
+        "vote_margin": 757192428
+      },
+      "source": {
+        "publisher": "ekantipur",
+        "url": "https://election.ekantipur.com/pradesh-3/district-chitwan/constituency-2?lng=eng",
+        "source_type": "news_article"
+      }
+    },
+    {
+      "province": "Lumbini",
+      "district": "Rautahat/Constituency 1?Lng=Nep",
+      "constituency": "Rautahat/Constituency 1?Lng=Nep-5?lng=nep",
+      "election_year_bs": 2082,
+      "election_type": "federal",
+      "result": {
+        "winner": {
+          "name": "\u0915\u0947\u092a\u0940 \u0936\u0930\u094d\u092e\u093e \u0913\u0932\u0940",
+          "party": "\u0928\u0947\u0915\u092a\u093e (\u090f\u092e\u093e\u0932\u0947)",
+          "votes_received": 1873449614
+        },
+        "runner_up": {
+          "name": "\u0938\u092e\u093f\u0930 \u0924\u093e\u092e\u093e\u0919\u094d\u0917",
+          "party": "\u0936\u094d\u0930\u092e \u0938\u0902\u0938\u094d\u0915\u0943\u0924\u093f \u092a\u093e\u0930\u094d\u091f\u0940",
+          "votes_received": 923359115
+        },
+        "vote_margin": 950090499
+      },
+      "source": {
+        "publisher": "ekantipur",
+        "url": "https://election.ekantipur.com/pradesh-1/district-jhapa/constituency-5?lng=nep",
+        "source_type": "news_article"
+      }
+    },
+    {
+      "province": "Lumbini",
+      "district": "Rautahat/Constituency 1?Lng=Nep",
+      "constituency": "Rautahat/Constituency 1?Lng=Nep-1?lng=nep",
+      "election_year_bs": 2082,
+      "election_type": "federal",
+      "result": {
+        "winner": {
+          "name": "\u0932\u093f\u0932\u093e\u092e\u0923\u0940 \u0917\u094c\u0924\u092e",
+          "party": "\u0928\u0947\u0915\u092a\u093e (\u090f\u092e\u093e\u0932\u0947)",
+          "votes_received": 34626778
+        },
+        "runner_up": {
+          "name": "\u0915\u0941\u0938\u0941\u092e \u0926\u0947\u0935\u0940 \u0925\u093e\u092a\u093e",
+          "party": "\u0928\u0947\u092a\u093e\u0932\u0940 \u0915\u093e\u0901\u0917\u094d\u0930\u0947\u0938",
+          "votes_received": 30817159
+        },
+        "vote_margin": 3809619
+      },
+      "source": {
+        "publisher": "ekantipur",
+        "url": "https://election.ekantipur.com/pradesh-5/district-rukumeast/constituency-1?lng=nep",
+        "source_type": "news_article"
+      }
+    },
+    {
+      "province": "Lumbini",
+      "district": "Rautahat/Constituency 1?Lng=Nep",
+      "constituency": "Rautahat/Constituency 1?Lng=Nep-2?lng=nep",
+      "election_year_bs": 2082,
+      "election_type": "federal",
+      "result": {
+        "winner": {
+          "name": "\u092e\u0939\u0947\u0936 \u092c\u0938\u094d\u0928\u0947\u0924",
+          "party": "\u0928\u0947\u0915\u092a\u093e (\u090f\u092e\u093e\u0932\u0947)",
+          "votes_received": 1099631338
+        },
+        "runner_up": {
+          "name": "\u0915\u0935\u093f\u0930 \u0930\u093e\u0923\u093e",
+          "party": "\u0928\u0947\u092a\u093e\u0932\u0940 \u0915\u093e\u0901\u0917\u094d\u0930\u0947\u0938",
+          "votes_received": 840133933
+        },
+        "vote_margin": 259497405
+      },
+      "source": {
+        "publisher": "ekantipur",
+        "url": "https://election.ekantipur.com/pradesh-3/district-bhaktapur/constituency-2?lng=nep",
+        "source_type": "news_article"
+      }
+    },
+    {
+      "province": "Lumbini",
+      "district": "Rautahat/Constituency 1?Lng=Nep",
+      "constituency": "Rautahat/Constituency 1?Lng=Nep-3?lng=nep",
+      "election_year_bs": 2082,
+      "election_type": "federal",
+      "result": {
+        "winner": {
+          "name": "\u0930\u092e\u0947\u0936 \u0905\u0930\u094d\u092f\u093e\u0932",
+          "party": "\u0928\u0947\u092a\u093e\u0932\u0940 \u0915\u093e\u0901\u0917\u094d\u0930\u0947\u0938",
+          "votes_received": 600012756
+        },
+        "runner_up": {
+          "name": "\u0930\u093e\u092e\u0947\u0936\u094d\u0935\u0930 \u092b\u0941\u092f\u093e\u0932",
+          "party": "\u0928\u0947\u0915\u092a\u093e (\u090f\u092e\u093e\u0932\u0947)",
+          "votes_received": 381614940
+        },
+        "vote_margin": 218397816
+      },
+      "source": {
+        "publisher": "ekantipur",
+        "url": "https://election.ekantipur.com/pradesh-3/district-kathmandu/constituency-3?lng=nep",
+        "source_type": "news_article"
+      }
+    },
+    {
+      "province": "Lumbini",
+      "district": "Kathmandu/Constituency 3?Lng=Nep",
+      "constituency": "Kathmandu/Constituency 3?Lng=Nep-3?lng=nep",
+      "election_year_bs": 2082,
+      "election_type": "federal",
+      "result": {
+        "winner": {
+          "name": "\u0930\u092e\u0947\u0936 \u0905\u0930\u094d\u092f\u093e\u0932",
+          "party": "\u0928\u0947\u092a\u093e\u0932\u0940 \u0915\u093e\u0901\u0917\u094d\u0930\u0947\u0938",
+          "votes_received": 600012756
+        },
+        "runner_up": {
+          "name": "\u0930\u093e\u092e\u0947\u0936\u094d\u0935\u0930 \u092b\u0941\u092f\u093e\u0932",
+          "party": "\u0928\u0947\u0915\u092a\u093e (\u090f\u092e\u093e\u0932\u0947)",
+          "votes_received": 381614940
+        },
+        "vote_margin": 218397816
+      },
+      "source": {
+        "publisher": "ekantipur",
+        "url": "https://election.ekantipur.com/pradesh-3/district-kathmandu/constituency-3?lng=nep",
+        "source_type": "news_article"
+      }
+    },
+    {
+      "province": "Lumbini",
+      "district": "Kathmandu/Constituency 3?Lng=Nep",
+      "constituency": "Kathmandu/Constituency 3?Lng=Nep-3?lng=eng",
+      "election_year_bs": 2082,
+      "election_type": "federal",
+      "result": {
+        "winner": {
+          "name": "Ramesh Aryal",
+          "party": "Nepali Congress",
+          "votes_received": 600012756
+        },
+        "runner_up": {
+          "name": "Rameshwar Phuyal",
+          "party": "CPN-UML",
+          "votes_received": 381614940
+        },
+        "vote_margin": 218397816
+      },
+      "source": {
+        "publisher": "ekantipur",
+        "url": "https://election.ekantipur.com/pradesh-3/district-kathmandu/constituency-3?lng=eng",
+        "source_type": "news_article"
+      }
+    },
+    {
+      "province": "Lumbini",
+      "district": "Myagdi/Constituency 1?Lng=Nep",
+      "constituency": "Myagdi/Constituency 1?Lng=Nep-1?lng=nep",
+      "election_year_bs": 2082,
+      "election_type": "federal",
+      "result": {
+        "winner": {
+          "name": "\u0939\u0930\u093f\u0915\u0943\u0937\u094d\u0923 \u0936\u094d\u0930\u0947\u0937\u094d\u0920",
+          "party": "\u0928\u0947\u0915\u092a\u093e (\u090f\u092e\u093e\u0932\u0947)",
+          "votes_received": 791914931
+        },
+        "runner_up": {
+          "name": "\u0915\u0930\u094d\u0923 \u092c\u0939\u093e\u0926\u0941\u0930 \u092d\u0923\u094d\u0921\u093e\u0930\u0940",
+          "party": "\u0928\u0947\u092a\u093e\u0932\u0940 \u0915\u093e\u0901\u0917\u094d\u0930\u0947\u0938",
+          "votes_received": 668316167
+        },
+        "vote_margin": 123598764
+      },
+      "source": {
+        "publisher": "ekantipur",
+        "url": "https://election.ekantipur.com/pradesh-4/district-myagdi/constituency-1?lng=nep",
+        "source_type": "news_article"
+      }
+    },
+    {
+      "province": "Lumbini",
+      "district": "Myagdi/Constituency 1?Lng=Nep",
+      "constituency": "Myagdi/Constituency 1?Lng=Nep-1?lng=eng",
+      "election_year_bs": 2082,
+      "election_type": "federal",
+      "result": {
+        "winner": {
+          "name": "Harikrishna Shrestha",
+          "party": "CPN-UML",
+          "votes_received": 791914931
+        },
+        "runner_up": {
+          "name": "Karna Bahadur Bhandari",
+          "party": "Nepali Congress",
+          "votes_received": 668316167
+        },
+        "vote_margin": 123598764
+      },
+      "source": {
+        "publisher": "ekantipur",
+        "url": "https://election.ekantipur.com/pradesh-4/district-myagdi/constituency-1?lng=eng",
+        "source_type": "news_article"
+      }
+    },
+    {
+      "province": "Lumbini",
+      "district": "Lalitpur/Constituency 3?Lng=Nep",
+      "constituency": "Lalitpur/Constituency 3?Lng=Nep-3?lng=nep",
+      "election_year_bs": 2082,
+      "election_type": "federal",
+      "result": {
+        "winner": {
+          "name": "\u091c\u093f\u0924\u0947\u0928\u094d\u0926\u094d\u0930 \u0915\u0941\u092e\u093e\u0930 \u0936\u094d\u0930\u0947\u0937\u094d\u0920",
+          "party": "\u0928\u0947\u092a\u093e\u0932\u0940 \u0915\u093e\u0901\u0917\u094d\u0930\u0947\u0938",
+          "votes_received": 904534051
+        },
+        "runner_up": {
+          "name": "\u0930\u093e\u091c \u0915\u093e\u091c\u0940 \u092e\u0939\u0930\u094d\u091c\u0928",
+          "party": "\u0928\u0947\u092a\u093e\u0932\u0940 \u0915\u092e\u094d\u092f\u0941\u0928\u093f\u0937\u094d\u091f \u092a\u093e\u0930\u094d\u091f\u0940",
+          "votes_received": 602237074
+        },
+        "vote_margin": 302296977
+      },
+      "source": {
+        "publisher": "ekantipur",
+        "url": "https://election.ekantipur.com/pradesh-3/district-lalitpur/constituency-3?lng=nep",
+        "source_type": "news_article"
+      }
+    },
+    {
+      "province": "Lumbini",
+      "district": "Lalitpur/Constituency 3?Lng=Nep",
+      "constituency": "Lalitpur/Constituency 3?Lng=Nep-3?lng=eng",
+      "election_year_bs": 2082,
+      "election_type": "federal",
+      "result": {
+        "winner": {
+          "name": "Jitendra Kumar Shrestha",
+          "party": "Nepali Congress",
+          "votes_received": 904534051
+        },
+        "runner_up": {
+          "name": "Raj Kaji Maharjan",
+          "party": "Nepali Communist Party",
+          "votes_received": 602237074
+        },
+        "vote_margin": 302296977
+      },
+      "source": {
+        "publisher": "ekantipur",
+        "url": "https://election.ekantipur.com/pradesh-3/district-lalitpur/constituency-3?lng=eng",
+        "source_type": "news_article"
+      }
+    },
+    {
+      "province": "Lumbini",
+      "district": "Siraha/Constituency 1?Lng=Nep",
+      "constituency": "Siraha/Constituency 1?Lng=Nep-1?lng=nep",
+      "election_year_bs": 2082,
+      "election_type": "federal",
+      "result": {
+        "winner": {
+          "name": "\u0930\u093e\u092e\u0938\u0941\u0928\u094d\u0926\u0930 \u091a\u094c\u0927\u0930\u0940",
+          "party": "\u0928\u0947\u092a\u093e\u0932\u0940 \u0915\u093e\u0901\u0917\u094d\u0930\u0947\u0938",
+          "votes_received": 978431538
+        },
+        "runner_up": {
+          "name": "\u0930\u093e\u092e\u0936\u0902\u0915\u0930 \u092f\u093e\u0926\u0935",
+          "party": "\u0928\u0947\u0915\u092a\u093e (\u090f\u092e\u093e\u0932\u0947)",
+          "votes_received": 788633436
+        },
+        "vote_margin": 189798102
+      },
+      "source": {
+        "publisher": "ekantipur",
+        "url": "https://election.ekantipur.com/pradesh-2/district-siraha/constituency-1?lng=nep",
+        "source_type": "news_article"
+      }
+    },
+    {
+      "province": "Lumbini",
+      "district": "Siraha/Constituency 1?Lng=Nep",
+      "constituency": "Siraha/Constituency 1?Lng=Nep-1?lng=eng",
+      "election_year_bs": 2082,
+      "election_type": "federal",
+      "result": {
+        "winner": {
+          "name": "Ram Sundar Chaudhary",
+          "party": "Nepali Congress",
+          "votes_received": 978431538
+        },
+        "runner_up": {
+          "name": "Ram Shankar Yadav",
+          "party": "CPN-UML",
+          "votes_received": 788633436
+        },
+        "vote_margin": 189798102
+      },
+      "source": {
+        "publisher": "ekantipur",
+        "url": "https://election.ekantipur.com/pradesh-2/district-siraha/constituency-1?lng=eng",
+        "source_type": "news_article"
+      }
+    },
+    {
+      "province": "Lumbini",
+      "district": "Gulmi/Constituency 1?Lng=Nep",
+      "constituency": "Gulmi/Constituency 1?Lng=Nep-1?lng=nep",
+      "election_year_bs": 2082,
+      "election_type": "federal",
+      "result": {
+        "winner": {
+          "name": "\u092a\u094d\u0930\u0926\u0940\u092a\u0915\u0941\u092e\u093e\u0930 \u091c\u094d\u091e\u0935\u093e\u0932\u0940",
+          "party": "\u0928\u0947\u0915\u092a\u093e (\u090f\u092e\u093e\u0932\u0947)",
+          "votes_received": 1518114461
+        },
+        "runner_up": {
+          "name": "\u091a\u0928\u094d\u0926\u094d\u0930\u0915\u093e\u0928\u094d\u0924 \u092d\u0923\u094d\u0921\u093e\u0930\u0940",
+          "party": "\u0928\u0947\u092a\u093e\u0932\u0940 \u0915\u093e\u0901\u0917\u094d\u0930\u0947\u0938",
+          "votes_received": 1350516137
+        },
+        "vote_margin": 167598324
+      },
+      "source": {
+        "publisher": "ekantipur",
+        "url": "https://election.ekantipur.com/pradesh-5/district-gulmi/constituency-1?lng=nep",
+        "source_type": "news_article"
+      }
+    },
+    {
+      "province": "Lumbini",
+      "district": "Gulmi/Constituency 1?Lng=Nep",
+      "constituency": "Gulmi/Constituency 1?Lng=Nep-1?lng=eng",
+      "election_year_bs": 2082,
+      "election_type": "federal",
+      "result": {
+        "winner": {
+          "name": "Pradip Kumar Gyawali",
+          "party": "CPN-UML",
+          "votes_received": 1518114461
+        },
+        "runner_up": {
+          "name": "Chandrakant Bhandari",
+          "party": "Nepali Congress",
+          "votes_received": 1350516137
+        },
+        "vote_margin": 167598324
+      },
+      "source": {
+        "publisher": "ekantipur",
+        "url": "https://election.ekantipur.com/pradesh-5/district-gulmi/constituency-1?lng=eng",
+        "source_type": "news_article"
+      }
+    },
+    {
+      "province": "Lumbini",
+      "district": "Gorkha/Constituency 1?Lng=Nep",
+      "constituency": "Gorkha/Constituency 1?Lng=Nep-1?lng=nep",
+      "election_year_bs": 2082,
+      "election_type": "federal",
+      "result": {
+        "winner": {
+          "name": "\u092a\u094d\u0930\u0947\u092e \u0915\u0941\u092e\u093e\u0930 \u0916\u0924\u094d\u0930\u0940",
+          "party": "\u0928\u0947\u092a\u093e\u0932\u0940 \u0915\u093e\u0901\u0917\u094d\u0930\u0947\u0938",
+          "votes_received": 1539814498
+        },
+        "runner_up": {
+          "name": "\u0939\u0930\u093f \u0930\u093e\u091c \u0905\u0927\u093f\u0915\u093e\u0930\u0940",
+          "party": "\u0928\u0947\u092a\u093e\u0932\u0940 \u0915\u092e\u094d\u092f\u0941\u0928\u093f\u0937\u094d\u091f \u092a\u093e\u0930\u094d\u091f\u0940",
+          "votes_received": 1112418772
+        },
+        "vote_margin": 427395726
+      },
+      "source": {
+        "publisher": "ekantipur",
+        "url": "https://election.ekantipur.com/pradesh-4/district-gorkha/constituency-1?lng=nep",
+        "source_type": "news_article"
+      }
+    },
+    {
+      "province": "Lumbini",
+      "district": "Gorkha/Constituency 1?Lng=Nep",
+      "constituency": "Gorkha/Constituency 1?Lng=Nep-1?lng=eng",
+      "election_year_bs": 2082,
+      "election_type": "federal",
+      "result": {
+        "winner": {
+          "name": "Prem Kumar Khatri",
+          "party": "Nepali Congress",
+          "votes_received": 1539814498
+        },
+        "runner_up": {
+          "name": "Hari Raj Adhikari",
+          "party": "Nepali Communist Party",
+          "votes_received": 1112418772
+        },
+        "vote_margin": 427395726
+      },
+      "source": {
+        "publisher": "ekantipur",
+        "url": "https://election.ekantipur.com/pradesh-4/district-gorkha/constituency-1?lng=eng",
+        "source_type": "news_article"
+      }
+    },
+    {
+      "province": "Lumbini",
+      "district": "Tanahun/Constituency 1?Lng=Nep",
+      "constituency": "Tanahun/Constituency 1?Lng=Nep-1?lng=nep",
+      "election_year_bs": 2082,
+      "election_type": "federal",
+      "result": {
+        "winner": {
+          "name": "\u0917\u094b\u0935\u093f\u0928\u094d\u0926 \u092d\u091f\u094d\u091f\u0930\u093e\u0908",
+          "party": "\u0928\u0947\u092a\u093e\u0932\u0940 \u0915\u093e\u0901\u0917\u094d\u0930\u0947\u0938",
+          "votes_received": 1623121809
+        },
+        "runner_up": {
+          "name": "\u092d\u0917\u0935\u0924\u0940 \u0928\u094d\u092f\u094c\u092a\u093e\u0928\u0947",
+          "party": "\u0928\u0947\u0915\u092a\u093e (\u090f\u092e\u093e\u0932\u0947)",
+          "votes_received": 565332387
+        },
+        "vote_margin": 1057789422
+      },
+      "source": {
+        "publisher": "ekantipur",
+        "url": "https://election.ekantipur.com/pradesh-4/district-tanahun/constituency-1?lng=nep",
+        "source_type": "news_article"
+      }
+    },
+    {
+      "province": "Lumbini",
+      "district": "Tanahun/Constituency 1?Lng=Nep",
+      "constituency": "Tanahun/Constituency 1?Lng=Nep-1?lng=eng",
+      "election_year_bs": 2082,
+      "election_type": "federal",
+      "result": {
+        "winner": {
+          "name": "Govind Bhattarai",
+          "party": "Nepali Congress",
+          "votes_received": 1623121809
+        },
+        "runner_up": {
+          "name": "Bhagwati Neupane",
+          "party": "CPN-UML",
+          "votes_received": 565332387
+        },
+        "vote_margin": 1057789422
+      },
+      "source": {
+        "publisher": "ekantipur",
+        "url": "https://election.ekantipur.com/pradesh-4/district-tanahun/constituency-1?lng=eng",
+        "source_type": "news_article"
+      }
+    },
+    {
+      "province": "Karnali",
+      "district": "Jhapa/Constituency 5?Lng=Nep",
+      "constituency": "Jhapa/Constituency 5?Lng=Nep-5?lng=nep",
+      "election_year_bs": 2082,
+      "election_type": "federal",
+      "result": {
+        "winner": {
+          "name": "\u0915\u0947\u092a\u0940 \u0936\u0930\u094d\u092e\u093e \u0913\u0932\u0940",
+          "party": "\u0928\u0947\u0915\u092a\u093e (\u090f\u092e\u093e\u0932\u0947)",
+          "votes_received": 1873449614
+        },
+        "runner_up": {
+          "name": "\u0938\u092e\u093f\u0930 \u0924\u093e\u092e\u093e\u0919\u094d\u0917",
+          "party": "\u0936\u094d\u0930\u092e \u0938\u0902\u0938\u094d\u0915\u0943\u0924\u093f \u092a\u093e\u0930\u094d\u091f\u0940",
+          "votes_received": 923359115
+        },
+        "vote_margin": 950090499
+      },
+      "source": {
+        "publisher": "ekantipur",
+        "url": "https://election.ekantipur.com/pradesh-1/district-jhapa/constituency-5?lng=nep",
+        "source_type": "news_article"
+      }
+    },
+    {
+      "province": "Karnali",
+      "district": "Jhapa/Constituency 5?Lng=Nep",
+      "constituency": "Jhapa/Constituency 5?Lng=Nep-5?lng=eng",
+      "election_year_bs": 2082,
+      "election_type": "federal",
+      "result": {
+        "winner": {
+          "name": "KP Sharma Oli",
+          "party": "CPN-UML",
+          "votes_received": 1873449614
+        },
+        "runner_up": {
+          "name": "Samir Tamang",
+          "party": "Shram Sanskriti Party",
+          "votes_received": 923359115
+        },
+        "vote_margin": 950090499
+      },
+      "source": {
+        "publisher": "ekantipur",
+        "url": "https://election.ekantipur.com/pradesh-1/district-jhapa/constituency-5?lng=eng",
+        "source_type": "news_article"
+      }
+    },
+    {
+      "province": "Karnali",
+      "district": "Rukumeast/Constituency 1?Lng=Nep",
+      "constituency": "Rukumeast/Constituency 1?Lng=Nep-1?lng=nep",
+      "election_year_bs": 2082,
+      "election_type": "federal",
+      "result": {
+        "winner": {
+          "name": "\u0932\u093f\u0932\u093e\u092e\u0923\u0940 \u0917\u094c\u0924\u092e",
+          "party": "\u0928\u0947\u0915\u092a\u093e (\u090f\u092e\u093e\u0932\u0947)",
+          "votes_received": 34626778
+        },
+        "runner_up": {
+          "name": "\u0915\u0941\u0938\u0941\u092e \u0926\u0947\u0935\u0940 \u0925\u093e\u092a\u093e",
+          "party": "\u0928\u0947\u092a\u093e\u0932\u0940 \u0915\u093e\u0901\u0917\u094d\u0930\u0947\u0938",
+          "votes_received": 30817159
+        },
+        "vote_margin": 3809619
+      },
+      "source": {
+        "publisher": "ekantipur",
+        "url": "https://election.ekantipur.com/pradesh-5/district-rukumeast/constituency-1?lng=nep",
+        "source_type": "news_article"
+      }
+    },
+    {
+      "province": "Karnali",
+      "district": "Rukumeast/Constituency 1?Lng=Nep",
+      "constituency": "Rukumeast/Constituency 1?Lng=Nep-1?lng=eng",
+      "election_year_bs": 2082,
+      "election_type": "federal",
+      "result": {
+        "winner": {
+          "name": "Lilamani Gautam",
+          "party": "CPN-UML",
+          "votes_received": 34626778
+        },
+        "runner_up": {
+          "name": "Kusum Devi Thapa",
+          "party": "Nepali Congress",
+          "votes_received": 30817159
+        },
+        "vote_margin": 3809619
+      },
+      "source": {
+        "publisher": "ekantipur",
+        "url": "https://election.ekantipur.com/pradesh-5/district-rukumeast/constituency-1?lng=eng",
+        "source_type": "news_article"
+      }
+    },
+    {
+      "province": "Karnali",
+      "district": "Bhaktapur/Constituency 2?Lng=Nep",
+      "constituency": "Bhaktapur/Constituency 2?Lng=Nep-2?lng=nep",
+      "election_year_bs": 2082,
+      "election_type": "federal",
+      "result": {
+        "winner": {
+          "name": "\u092e\u0939\u0947\u0936 \u092c\u0938\u094d\u0928\u0947\u0924",
+          "party": "\u0928\u0947\u0915\u092a\u093e (\u090f\u092e\u093e\u0932\u0947)",
+          "votes_received": 1099631338
+        },
+        "runner_up": {
+          "name": "\u0915\u0935\u093f\u0930 \u0930\u093e\u0923\u093e",
+          "party": "\u0928\u0947\u092a\u093e\u0932\u0940 \u0915\u093e\u0901\u0917\u094d\u0930\u0947\u0938",
+          "votes_received": 840133933
+        },
+        "vote_margin": 259497405
+      },
+      "source": {
+        "publisher": "ekantipur",
+        "url": "https://election.ekantipur.com/pradesh-3/district-bhaktapur/constituency-2?lng=nep",
+        "source_type": "news_article"
+      }
+    },
+    {
+      "province": "Karnali",
+      "district": "Bhaktapur/Constituency 2?Lng=Nep",
+      "constituency": "Bhaktapur/Constituency 2?Lng=Nep-2?lng=eng",
+      "election_year_bs": 2082,
+      "election_type": "federal",
+      "result": {
+        "winner": {
+          "name": "Mahesh Basnet",
+          "party": "CPN-UML",
+          "votes_received": 1099631338
+        },
+        "runner_up": {
+          "name": "Kavir Rana",
+          "party": "Nepali Congress",
+          "votes_received": 840133933
+        },
+        "vote_margin": 259497405
+      },
+      "source": {
+        "publisher": "ekantipur",
+        "url": "https://election.ekantipur.com/pradesh-3/district-bhaktapur/constituency-2?lng=eng",
+        "source_type": "news_article"
+      }
+    },
+    {
+      "province": "Karnali",
+      "district": "Chitwan/Constituency 2?Lng=Nep",
+      "constituency": "Chitwan/Constituency 2?Lng=Nep-2?lng=nep",
+      "election_year_bs": 2082,
+      "election_type": "federal",
+      "result": {
+        "winner": {
+          "name": "\u092e\u093f\u0928\u093e \u0915\u0941\u092e\u093e\u0930\u0940 \u0916\u0930\u0947\u0932",
+          "party": "\u0928\u0947\u092a\u093e\u0932\u0940 \u0915\u093e\u0901\u0917\u094d\u0930\u0947\u0938",
+          "votes_received": 1456439838
+        },
+        "runner_up": {
+          "name": "\u0905\u0938\u094d\u092e\u093f\u0928 \u0918\u093f\u092e\u093f\u0930\u0947",
+          "party": "\u0928\u0947\u0915\u092a\u093e (\u090f\u092e\u093e\u0932\u0947)",
+          "votes_received": 699247410
+        },
+        "vote_margin": 757192428
+      },
+      "source": {
+        "publisher": "ekantipur",
+        "url": "https://election.ekantipur.com/pradesh-3/district-chitwan/constituency-2?lng=nep",
+        "source_type": "news_article"
+      }
+    },
+    {
+      "province": "Karnali",
+      "district": "Chitwan/Constituency 2?Lng=Nep",
+      "constituency": "Chitwan/Constituency 2?Lng=Nep-2?lng=eng",
+      "election_year_bs": 2082,
+      "election_type": "federal",
+      "result": {
+        "winner": {
+          "name": "Meena Kumari Kharel",
+          "party": "Nepali Congress",
+          "votes_received": 1456439838
+        },
+        "runner_up": {
+          "name": "Ashim Ghimire",
+          "party": "CPN-UML",
+          "votes_received": 699247410
+        },
+        "vote_margin": 757192428
+      },
+      "source": {
+        "publisher": "ekantipur",
+        "url": "https://election.ekantipur.com/pradesh-3/district-chitwan/constituency-2?lng=eng",
+        "source_type": "news_article"
+      }
+    },
+    {
+      "province": "Karnali",
+      "district": "Rautahat/Constituency 1?Lng=Nep",
+      "constituency": "Rautahat/Constituency 1?Lng=Nep-5?lng=nep",
+      "election_year_bs": 2082,
+      "election_type": "federal",
+      "result": {
+        "winner": {
+          "name": "\u0915\u0947\u092a\u0940 \u0936\u0930\u094d\u092e\u093e \u0913\u0932\u0940",
+          "party": "\u0928\u0947\u0915\u092a\u093e (\u090f\u092e\u093e\u0932\u0947)",
+          "votes_received": 1873449614
+        },
+        "runner_up": {
+          "name": "\u0938\u092e\u093f\u0930 \u0924\u093e\u092e\u093e\u0919\u094d\u0917",
+          "party": "\u0936\u094d\u0930\u092e \u0938\u0902\u0938\u094d\u0915\u0943\u0924\u093f \u092a\u093e\u0930\u094d\u091f\u0940",
+          "votes_received": 923359115
+        },
+        "vote_margin": 950090499
+      },
+      "source": {
+        "publisher": "ekantipur",
+        "url": "https://election.ekantipur.com/pradesh-1/district-jhapa/constituency-5?lng=nep",
+        "source_type": "news_article"
+      }
+    },
+    {
+      "province": "Karnali",
+      "district": "Rautahat/Constituency 1?Lng=Nep",
+      "constituency": "Rautahat/Constituency 1?Lng=Nep-1?lng=nep",
+      "election_year_bs": 2082,
+      "election_type": "federal",
+      "result": {
+        "winner": {
+          "name": "\u0932\u093f\u0932\u093e\u092e\u0923\u0940 \u0917\u094c\u0924\u092e",
+          "party": "\u0928\u0947\u0915\u092a\u093e (\u090f\u092e\u093e\u0932\u0947)",
+          "votes_received": 34626778
+        },
+        "runner_up": {
+          "name": "\u0915\u0941\u0938\u0941\u092e \u0926\u0947\u0935\u0940 \u0925\u093e\u092a\u093e",
+          "party": "\u0928\u0947\u092a\u093e\u0932\u0940 \u0915\u093e\u0901\u0917\u094d\u0930\u0947\u0938",
+          "votes_received": 30817159
+        },
+        "vote_margin": 3809619
+      },
+      "source": {
+        "publisher": "ekantipur",
+        "url": "https://election.ekantipur.com/pradesh-5/district-rukumeast/constituency-1?lng=nep",
+        "source_type": "news_article"
+      }
+    },
+    {
+      "province": "Karnali",
+      "district": "Rautahat/Constituency 1?Lng=Nep",
+      "constituency": "Rautahat/Constituency 1?Lng=Nep-2?lng=nep",
+      "election_year_bs": 2082,
+      "election_type": "federal",
+      "result": {
+        "winner": {
+          "name": "\u092e\u0939\u0947\u0936 \u092c\u0938\u094d\u0928\u0947\u0924",
+          "party": "\u0928\u0947\u0915\u092a\u093e (\u090f\u092e\u093e\u0932\u0947)",
+          "votes_received": 1099631338
+        },
+        "runner_up": {
+          "name": "\u0915\u0935\u093f\u0930 \u0930\u093e\u0923\u093e",
+          "party": "\u0928\u0947\u092a\u093e\u0932\u0940 \u0915\u093e\u0901\u0917\u094d\u0930\u0947\u0938",
+          "votes_received": 840133933
+        },
+        "vote_margin": 259497405
+      },
+      "source": {
+        "publisher": "ekantipur",
+        "url": "https://election.ekantipur.com/pradesh-3/district-bhaktapur/constituency-2?lng=nep",
+        "source_type": "news_article"
+      }
+    },
+    {
+      "province": "Karnali",
+      "district": "Rautahat/Constituency 1?Lng=Nep",
+      "constituency": "Rautahat/Constituency 1?Lng=Nep-3?lng=nep",
+      "election_year_bs": 2082,
+      "election_type": "federal",
+      "result": {
+        "winner": {
+          "name": "\u0930\u092e\u0947\u0936 \u0905\u0930\u094d\u092f\u093e\u0932",
+          "party": "\u0928\u0947\u092a\u093e\u0932\u0940 \u0915\u093e\u0901\u0917\u094d\u0930\u0947\u0938",
+          "votes_received": 600012756
+        },
+        "runner_up": {
+          "name": "\u0930\u093e\u092e\u0947\u0936\u094d\u0935\u0930 \u092b\u0941\u092f\u093e\u0932",
+          "party": "\u0928\u0947\u0915\u092a\u093e (\u090f\u092e\u093e\u0932\u0947)",
+          "votes_received": 381614940
+        },
+        "vote_margin": 218397816
+      },
+      "source": {
+        "publisher": "ekantipur",
+        "url": "https://election.ekantipur.com/pradesh-3/district-kathmandu/constituency-3?lng=nep",
+        "source_type": "news_article"
+      }
+    },
+    {
+      "province": "Karnali",
+      "district": "Kathmandu/Constituency 3?Lng=Nep",
+      "constituency": "Kathmandu/Constituency 3?Lng=Nep-3?lng=nep",
+      "election_year_bs": 2082,
+      "election_type": "federal",
+      "result": {
+        "winner": {
+          "name": "\u0930\u092e\u0947\u0936 \u0905\u0930\u094d\u092f\u093e\u0932",
+          "party": "\u0928\u0947\u092a\u093e\u0932\u0940 \u0915\u093e\u0901\u0917\u094d\u0930\u0947\u0938",
+          "votes_received": 600012756
+        },
+        "runner_up": {
+          "name": "\u0930\u093e\u092e\u0947\u0936\u094d\u0935\u0930 \u092b\u0941\u092f\u093e\u0932",
+          "party": "\u0928\u0947\u0915\u092a\u093e (\u090f\u092e\u093e\u0932\u0947)",
+          "votes_received": 381614940
+        },
+        "vote_margin": 218397816
+      },
+      "source": {
+        "publisher": "ekantipur",
+        "url": "https://election.ekantipur.com/pradesh-3/district-kathmandu/constituency-3?lng=nep",
+        "source_type": "news_article"
+      }
+    },
+    {
+      "province": "Karnali",
+      "district": "Kathmandu/Constituency 3?Lng=Nep",
+      "constituency": "Kathmandu/Constituency 3?Lng=Nep-3?lng=eng",
+      "election_year_bs": 2082,
+      "election_type": "federal",
+      "result": {
+        "winner": {
+          "name": "Ramesh Aryal",
+          "party": "Nepali Congress",
+          "votes_received": 600012756
+        },
+        "runner_up": {
+          "name": "Rameshwar Phuyal",
+          "party": "CPN-UML",
+          "votes_received": 381614940
+        },
+        "vote_margin": 218397816
+      },
+      "source": {
+        "publisher": "ekantipur",
+        "url": "https://election.ekantipur.com/pradesh-3/district-kathmandu/constituency-3?lng=eng",
+        "source_type": "news_article"
+      }
+    },
+    {
+      "province": "Karnali",
+      "district": "Myagdi/Constituency 1?Lng=Nep",
+      "constituency": "Myagdi/Constituency 1?Lng=Nep-1?lng=nep",
+      "election_year_bs": 2082,
+      "election_type": "federal",
+      "result": {
+        "winner": {
+          "name": "\u0939\u0930\u093f\u0915\u0943\u0937\u094d\u0923 \u0936\u094d\u0930\u0947\u0937\u094d\u0920",
+          "party": "\u0928\u0947\u0915\u092a\u093e (\u090f\u092e\u093e\u0932\u0947)",
+          "votes_received": 791914931
+        },
+        "runner_up": {
+          "name": "\u0915\u0930\u094d\u0923 \u092c\u0939\u093e\u0926\u0941\u0930 \u092d\u0923\u094d\u0921\u093e\u0930\u0940",
+          "party": "\u0928\u0947\u092a\u093e\u0932\u0940 \u0915\u093e\u0901\u0917\u094d\u0930\u0947\u0938",
+          "votes_received": 668316167
+        },
+        "vote_margin": 123598764
+      },
+      "source": {
+        "publisher": "ekantipur",
+        "url": "https://election.ekantipur.com/pradesh-4/district-myagdi/constituency-1?lng=nep",
+        "source_type": "news_article"
+      }
+    },
+    {
+      "province": "Karnali",
+      "district": "Myagdi/Constituency 1?Lng=Nep",
+      "constituency": "Myagdi/Constituency 1?Lng=Nep-1?lng=eng",
+      "election_year_bs": 2082,
+      "election_type": "federal",
+      "result": {
+        "winner": {
+          "name": "Harikrishna Shrestha",
+          "party": "CPN-UML",
+          "votes_received": 791914931
+        },
+        "runner_up": {
+          "name": "Karna Bahadur Bhandari",
+          "party": "Nepali Congress",
+          "votes_received": 668316167
+        },
+        "vote_margin": 123598764
+      },
+      "source": {
+        "publisher": "ekantipur",
+        "url": "https://election.ekantipur.com/pradesh-4/district-myagdi/constituency-1?lng=eng",
+        "source_type": "news_article"
+      }
+    },
+    {
+      "province": "Karnali",
+      "district": "Lalitpur/Constituency 3?Lng=Nep",
+      "constituency": "Lalitpur/Constituency 3?Lng=Nep-3?lng=nep",
+      "election_year_bs": 2082,
+      "election_type": "federal",
+      "result": {
+        "winner": {
+          "name": "\u091c\u093f\u0924\u0947\u0928\u094d\u0926\u094d\u0930 \u0915\u0941\u092e\u093e\u0930 \u0936\u094d\u0930\u0947\u0937\u094d\u0920",
+          "party": "\u0928\u0947\u092a\u093e\u0932\u0940 \u0915\u093e\u0901\u0917\u094d\u0930\u0947\u0938",
+          "votes_received": 904534051
+        },
+        "runner_up": {
+          "name": "\u0930\u093e\u091c \u0915\u093e\u091c\u0940 \u092e\u0939\u0930\u094d\u091c\u0928",
+          "party": "\u0928\u0947\u092a\u093e\u0932\u0940 \u0915\u092e\u094d\u092f\u0941\u0928\u093f\u0937\u094d\u091f \u092a\u093e\u0930\u094d\u091f\u0940",
+          "votes_received": 602237074
+        },
+        "vote_margin": 302296977
+      },
+      "source": {
+        "publisher": "ekantipur",
+        "url": "https://election.ekantipur.com/pradesh-3/district-lalitpur/constituency-3?lng=nep",
+        "source_type": "news_article"
+      }
+    },
+    {
+      "province": "Karnali",
+      "district": "Lalitpur/Constituency 3?Lng=Nep",
+      "constituency": "Lalitpur/Constituency 3?Lng=Nep-3?lng=eng",
+      "election_year_bs": 2082,
+      "election_type": "federal",
+      "result": {
+        "winner": {
+          "name": "Jitendra Kumar Shrestha",
+          "party": "Nepali Congress",
+          "votes_received": 904534051
+        },
+        "runner_up": {
+          "name": "Raj Kaji Maharjan",
+          "party": "Nepali Communist Party",
+          "votes_received": 602237074
+        },
+        "vote_margin": 302296977
+      },
+      "source": {
+        "publisher": "ekantipur",
+        "url": "https://election.ekantipur.com/pradesh-3/district-lalitpur/constituency-3?lng=eng",
+        "source_type": "news_article"
+      }
+    },
+    {
+      "province": "Karnali",
+      "district": "Siraha/Constituency 1?Lng=Nep",
+      "constituency": "Siraha/Constituency 1?Lng=Nep-1?lng=nep",
+      "election_year_bs": 2082,
+      "election_type": "federal",
+      "result": {
+        "winner": {
+          "name": "\u0930\u093e\u092e\u0938\u0941\u0928\u094d\u0926\u0930 \u091a\u094c\u0927\u0930\u0940",
+          "party": "\u0928\u0947\u092a\u093e\u0932\u0940 \u0915\u093e\u0901\u0917\u094d\u0930\u0947\u0938",
+          "votes_received": 978431538
+        },
+        "runner_up": {
+          "name": "\u0930\u093e\u092e\u0936\u0902\u0915\u0930 \u092f\u093e\u0926\u0935",
+          "party": "\u0928\u0947\u0915\u092a\u093e (\u090f\u092e\u093e\u0932\u0947)",
+          "votes_received": 788633436
+        },
+        "vote_margin": 189798102
+      },
+      "source": {
+        "publisher": "ekantipur",
+        "url": "https://election.ekantipur.com/pradesh-2/district-siraha/constituency-1?lng=nep",
+        "source_type": "news_article"
+      }
+    },
+    {
+      "province": "Karnali",
+      "district": "Siraha/Constituency 1?Lng=Nep",
+      "constituency": "Siraha/Constituency 1?Lng=Nep-1?lng=eng",
+      "election_year_bs": 2082,
+      "election_type": "federal",
+      "result": {
+        "winner": {
+          "name": "Ram Sundar Chaudhary",
+          "party": "Nepali Congress",
+          "votes_received": 978431538
+        },
+        "runner_up": {
+          "name": "Ram Shankar Yadav",
+          "party": "CPN-UML",
+          "votes_received": 788633436
+        },
+        "vote_margin": 189798102
+      },
+      "source": {
+        "publisher": "ekantipur",
+        "url": "https://election.ekantipur.com/pradesh-2/district-siraha/constituency-1?lng=eng",
+        "source_type": "news_article"
+      }
+    },
+    {
+      "province": "Karnali",
+      "district": "Gulmi/Constituency 1?Lng=Nep",
+      "constituency": "Gulmi/Constituency 1?Lng=Nep-1?lng=nep",
+      "election_year_bs": 2082,
+      "election_type": "federal",
+      "result": {
+        "winner": {
+          "name": "\u092a\u094d\u0930\u0926\u0940\u092a\u0915\u0941\u092e\u093e\u0930 \u091c\u094d\u091e\u0935\u093e\u0932\u0940",
+          "party": "\u0928\u0947\u0915\u092a\u093e (\u090f\u092e\u093e\u0932\u0947)",
+          "votes_received": 1518114461
+        },
+        "runner_up": {
+          "name": "\u091a\u0928\u094d\u0926\u094d\u0930\u0915\u093e\u0928\u094d\u0924 \u092d\u0923\u094d\u0921\u093e\u0930\u0940",
+          "party": "\u0928\u0947\u092a\u093e\u0932\u0940 \u0915\u093e\u0901\u0917\u094d\u0930\u0947\u0938",
+          "votes_received": 1350516137
+        },
+        "vote_margin": 167598324
+      },
+      "source": {
+        "publisher": "ekantipur",
+        "url": "https://election.ekantipur.com/pradesh-5/district-gulmi/constituency-1?lng=nep",
+        "source_type": "news_article"
+      }
+    },
+    {
+      "province": "Karnali",
+      "district": "Gulmi/Constituency 1?Lng=Nep",
+      "constituency": "Gulmi/Constituency 1?Lng=Nep-1?lng=eng",
+      "election_year_bs": 2082,
+      "election_type": "federal",
+      "result": {
+        "winner": {
+          "name": "Pradip Kumar Gyawali",
+          "party": "CPN-UML",
+          "votes_received": 1518114461
+        },
+        "runner_up": {
+          "name": "Chandrakant Bhandari",
+          "party": "Nepali Congress",
+          "votes_received": 1350516137
+        },
+        "vote_margin": 167598324
+      },
+      "source": {
+        "publisher": "ekantipur",
+        "url": "https://election.ekantipur.com/pradesh-5/district-gulmi/constituency-1?lng=eng",
+        "source_type": "news_article"
+      }
+    },
+    {
+      "province": "Karnali",
+      "district": "Gorkha/Constituency 1?Lng=Nep",
+      "constituency": "Gorkha/Constituency 1?Lng=Nep-1?lng=nep",
+      "election_year_bs": 2082,
+      "election_type": "federal",
+      "result": {
+        "winner": {
+          "name": "\u092a\u094d\u0930\u0947\u092e \u0915\u0941\u092e\u093e\u0930 \u0916\u0924\u094d\u0930\u0940",
+          "party": "\u0928\u0947\u092a\u093e\u0932\u0940 \u0915\u093e\u0901\u0917\u094d\u0930\u0947\u0938",
+          "votes_received": 1539814498
+        },
+        "runner_up": {
+          "name": "\u0939\u0930\u093f \u0930\u093e\u091c \u0905\u0927\u093f\u0915\u093e\u0930\u0940",
+          "party": "\u0928\u0947\u092a\u093e\u0932\u0940 \u0915\u092e\u094d\u092f\u0941\u0928\u093f\u0937\u094d\u091f \u092a\u093e\u0930\u094d\u091f\u0940",
+          "votes_received": 1112418772
+        },
+        "vote_margin": 427395726
+      },
+      "source": {
+        "publisher": "ekantipur",
+        "url": "https://election.ekantipur.com/pradesh-4/district-gorkha/constituency-1?lng=nep",
+        "source_type": "news_article"
+      }
+    },
+    {
+      "province": "Karnali",
+      "district": "Gorkha/Constituency 1?Lng=Nep",
+      "constituency": "Gorkha/Constituency 1?Lng=Nep-1?lng=eng",
+      "election_year_bs": 2082,
+      "election_type": "federal",
+      "result": {
+        "winner": {
+          "name": "Prem Kumar Khatri",
+          "party": "Nepali Congress",
+          "votes_received": 1539814498
+        },
+        "runner_up": {
+          "name": "Hari Raj Adhikari",
+          "party": "Nepali Communist Party",
+          "votes_received": 1112418772
+        },
+        "vote_margin": 427395726
+      },
+      "source": {
+        "publisher": "ekantipur",
+        "url": "https://election.ekantipur.com/pradesh-4/district-gorkha/constituency-1?lng=eng",
+        "source_type": "news_article"
+      }
+    },
+    {
+      "province": "Karnali",
+      "district": "Tanahun/Constituency 1?Lng=Nep",
+      "constituency": "Tanahun/Constituency 1?Lng=Nep-1?lng=nep",
+      "election_year_bs": 2082,
+      "election_type": "federal",
+      "result": {
+        "winner": {
+          "name": "\u0917\u094b\u0935\u093f\u0928\u094d\u0926 \u092d\u091f\u094d\u091f\u0930\u093e\u0908",
+          "party": "\u0928\u0947\u092a\u093e\u0932\u0940 \u0915\u093e\u0901\u0917\u094d\u0930\u0947\u0938",
+          "votes_received": 1623121809
+        },
+        "runner_up": {
+          "name": "\u092d\u0917\u0935\u0924\u0940 \u0928\u094d\u092f\u094c\u092a\u093e\u0928\u0947",
+          "party": "\u0928\u0947\u0915\u092a\u093e (\u090f\u092e\u093e\u0932\u0947)",
+          "votes_received": 565332387
+        },
+        "vote_margin": 1057789422
+      },
+      "source": {
+        "publisher": "ekantipur",
+        "url": "https://election.ekantipur.com/pradesh-4/district-tanahun/constituency-1?lng=nep",
+        "source_type": "news_article"
+      }
+    },
+    {
+      "province": "Karnali",
+      "district": "Tanahun/Constituency 1?Lng=Nep",
+      "constituency": "Tanahun/Constituency 1?Lng=Nep-1?lng=eng",
+      "election_year_bs": 2082,
+      "election_type": "federal",
+      "result": {
+        "winner": {
+          "name": "Govind Bhattarai",
+          "party": "Nepali Congress",
+          "votes_received": 1623121809
+        },
+        "runner_up": {
+          "name": "Bhagwati Neupane",
+          "party": "CPN-UML",
+          "votes_received": 565332387
+        },
+        "vote_margin": 1057789422
+      },
+      "source": {
+        "publisher": "ekantipur",
+        "url": "https://election.ekantipur.com/pradesh-4/district-tanahun/constituency-1?lng=eng",
+        "source_type": "news_article"
+      }
+    },
+    {
+      "province": "Sudurpashchim",
+      "district": "Jhapa/Constituency 5?Lng=Nep",
+      "constituency": "Jhapa/Constituency 5?Lng=Nep-5?lng=nep",
+      "election_year_bs": 2082,
+      "election_type": "federal",
+      "result": {
+        "winner": {
+          "name": "\u0915\u0947\u092a\u0940 \u0936\u0930\u094d\u092e\u093e \u0913\u0932\u0940",
+          "party": "\u0928\u0947\u0915\u092a\u093e (\u090f\u092e\u093e\u0932\u0947)",
+          "votes_received": 1873449614
+        },
+        "runner_up": {
+          "name": "\u0938\u092e\u093f\u0930 \u0924\u093e\u092e\u093e\u0919\u094d\u0917",
+          "party": "\u0936\u094d\u0930\u092e \u0938\u0902\u0938\u094d\u0915\u0943\u0924\u093f \u092a\u093e\u0930\u094d\u091f\u0940",
+          "votes_received": 923359115
+        },
+        "vote_margin": 950090499
+      },
+      "source": {
+        "publisher": "ekantipur",
+        "url": "https://election.ekantipur.com/pradesh-1/district-jhapa/constituency-5?lng=nep",
+        "source_type": "news_article"
+      }
+    },
+    {
+      "province": "Sudurpashchim",
+      "district": "Jhapa/Constituency 5?Lng=Nep",
+      "constituency": "Jhapa/Constituency 5?Lng=Nep-5?lng=eng",
+      "election_year_bs": 2082,
+      "election_type": "federal",
+      "result": {
+        "winner": {
+          "name": "KP Sharma Oli",
+          "party": "CPN-UML",
+          "votes_received": 1873449614
+        },
+        "runner_up": {
+          "name": "Samir Tamang",
+          "party": "Shram Sanskriti Party",
+          "votes_received": 923359115
+        },
+        "vote_margin": 950090499
+      },
+      "source": {
+        "publisher": "ekantipur",
+        "url": "https://election.ekantipur.com/pradesh-1/district-jhapa/constituency-5?lng=eng",
+        "source_type": "news_article"
+      }
+    },
+    {
+      "province": "Sudurpashchim",
+      "district": "Rukumeast/Constituency 1?Lng=Nep",
+      "constituency": "Rukumeast/Constituency 1?Lng=Nep-1?lng=nep",
+      "election_year_bs": 2082,
+      "election_type": "federal",
+      "result": {
+        "winner": {
+          "name": "\u0932\u093f\u0932\u093e\u092e\u0923\u0940 \u0917\u094c\u0924\u092e",
+          "party": "\u0928\u0947\u0915\u092a\u093e (\u090f\u092e\u093e\u0932\u0947)",
+          "votes_received": 34626778
+        },
+        "runner_up": {
+          "name": "\u0915\u0941\u0938\u0941\u092e \u0926\u0947\u0935\u0940 \u0925\u093e\u092a\u093e",
+          "party": "\u0928\u0947\u092a\u093e\u0932\u0940 \u0915\u093e\u0901\u0917\u094d\u0930\u0947\u0938",
+          "votes_received": 30817159
+        },
+        "vote_margin": 3809619
+      },
+      "source": {
+        "publisher": "ekantipur",
+        "url": "https://election.ekantipur.com/pradesh-5/district-rukumeast/constituency-1?lng=nep",
+        "source_type": "news_article"
+      }
+    },
+    {
+      "province": "Sudurpashchim",
+      "district": "Rukumeast/Constituency 1?Lng=Nep",
+      "constituency": "Rukumeast/Constituency 1?Lng=Nep-1?lng=eng",
+      "election_year_bs": 2082,
+      "election_type": "federal",
+      "result": {
+        "winner": {
+          "name": "Lilamani Gautam",
+          "party": "CPN-UML",
+          "votes_received": 34626778
+        },
+        "runner_up": {
+          "name": "Kusum Devi Thapa",
+          "party": "Nepali Congress",
+          "votes_received": 30817159
+        },
+        "vote_margin": 3809619
+      },
+      "source": {
+        "publisher": "ekantipur",
+        "url": "https://election.ekantipur.com/pradesh-5/district-rukumeast/constituency-1?lng=eng",
+        "source_type": "news_article"
+      }
+    },
+    {
+      "province": "Sudurpashchim",
+      "district": "Bhaktapur/Constituency 2?Lng=Nep",
+      "constituency": "Bhaktapur/Constituency 2?Lng=Nep-2?lng=nep",
+      "election_year_bs": 2082,
+      "election_type": "federal",
+      "result": {
+        "winner": {
+          "name": "\u092e\u0939\u0947\u0936 \u092c\u0938\u094d\u0928\u0947\u0924",
+          "party": "\u0928\u0947\u0915\u092a\u093e (\u090f\u092e\u093e\u0932\u0947)",
+          "votes_received": 1099631338
+        },
+        "runner_up": {
+          "name": "\u0915\u0935\u093f\u0930 \u0930\u093e\u0923\u093e",
+          "party": "\u0928\u0947\u092a\u093e\u0932\u0940 \u0915\u093e\u0901\u0917\u094d\u0930\u0947\u0938",
+          "votes_received": 840133933
+        },
+        "vote_margin": 259497405
+      },
+      "source": {
+        "publisher": "ekantipur",
+        "url": "https://election.ekantipur.com/pradesh-3/district-bhaktapur/constituency-2?lng=nep",
+        "source_type": "news_article"
+      }
+    },
+    {
+      "province": "Sudurpashchim",
+      "district": "Bhaktapur/Constituency 2?Lng=Nep",
+      "constituency": "Bhaktapur/Constituency 2?Lng=Nep-2?lng=eng",
+      "election_year_bs": 2082,
+      "election_type": "federal",
+      "result": {
+        "winner": {
+          "name": "Mahesh Basnet",
+          "party": "CPN-UML",
+          "votes_received": 1099631338
+        },
+        "runner_up": {
+          "name": "Kavir Rana",
+          "party": "Nepali Congress",
+          "votes_received": 840133933
+        },
+        "vote_margin": 259497405
+      },
+      "source": {
+        "publisher": "ekantipur",
+        "url": "https://election.ekantipur.com/pradesh-3/district-bhaktapur/constituency-2?lng=eng",
+        "source_type": "news_article"
+      }
+    },
+    {
+      "province": "Sudurpashchim",
+      "district": "Chitwan/Constituency 2?Lng=Nep",
+      "constituency": "Chitwan/Constituency 2?Lng=Nep-2?lng=nep",
+      "election_year_bs": 2082,
+      "election_type": "federal",
+      "result": {
+        "winner": {
+          "name": "\u092e\u093f\u0928\u093e \u0915\u0941\u092e\u093e\u0930\u0940 \u0916\u0930\u0947\u0932",
+          "party": "\u0928\u0947\u092a\u093e\u0932\u0940 \u0915\u093e\u0901\u0917\u094d\u0930\u0947\u0938",
+          "votes_received": 1456439838
+        },
+        "runner_up": {
+          "name": "\u0905\u0938\u094d\u092e\u093f\u0928 \u0918\u093f\u092e\u093f\u0930\u0947",
+          "party": "\u0928\u0947\u0915\u092a\u093e (\u090f\u092e\u093e\u0932\u0947)",
+          "votes_received": 699247410
+        },
+        "vote_margin": 757192428
+      },
+      "source": {
+        "publisher": "ekantipur",
+        "url": "https://election.ekantipur.com/pradesh-3/district-chitwan/constituency-2?lng=nep",
+        "source_type": "news_article"
+      }
+    },
+    {
+      "province": "Sudurpashchim",
+      "district": "Chitwan/Constituency 2?Lng=Nep",
+      "constituency": "Chitwan/Constituency 2?Lng=Nep-2?lng=eng",
+      "election_year_bs": 2082,
+      "election_type": "federal",
+      "result": {
+        "winner": {
+          "name": "Meena Kumari Kharel",
+          "party": "Nepali Congress",
+          "votes_received": 1456439838
+        },
+        "runner_up": {
+          "name": "Ashim Ghimire",
+          "party": "CPN-UML",
+          "votes_received": 699247410
+        },
+        "vote_margin": 757192428
+      },
+      "source": {
+        "publisher": "ekantipur",
+        "url": "https://election.ekantipur.com/pradesh-3/district-chitwan/constituency-2?lng=eng",
+        "source_type": "news_article"
+      }
+    },
+    {
+      "province": "Sudurpashchim",
+      "district": "Rautahat/Constituency 1?Lng=Nep",
+      "constituency": "Rautahat/Constituency 1?Lng=Nep-5?lng=nep",
+      "election_year_bs": 2082,
+      "election_type": "federal",
+      "result": {
+        "winner": {
+          "name": "\u0915\u0947\u092a\u0940 \u0936\u0930\u094d\u092e\u093e \u0913\u0932\u0940",
+          "party": "\u0928\u0947\u0915\u092a\u093e (\u090f\u092e\u093e\u0932\u0947)",
+          "votes_received": 1873449614
+        },
+        "runner_up": {
+          "name": "\u0938\u092e\u093f\u0930 \u0924\u093e\u092e\u093e\u0919\u094d\u0917",
+          "party": "\u0936\u094d\u0930\u092e \u0938\u0902\u0938\u094d\u0915\u0943\u0924\u093f \u092a\u093e\u0930\u094d\u091f\u0940",
+          "votes_received": 923359115
+        },
+        "vote_margin": 950090499
+      },
+      "source": {
+        "publisher": "ekantipur",
+        "url": "https://election.ekantipur.com/pradesh-1/district-jhapa/constituency-5?lng=nep",
+        "source_type": "news_article"
+      }
+    },
+    {
+      "province": "Sudurpashchim",
+      "district": "Rautahat/Constituency 1?Lng=Nep",
+      "constituency": "Rautahat/Constituency 1?Lng=Nep-1?lng=nep",
+      "election_year_bs": 2082,
+      "election_type": "federal",
+      "result": {
+        "winner": {
+          "name": "\u0932\u093f\u0932\u093e\u092e\u0923\u0940 \u0917\u094c\u0924\u092e",
+          "party": "\u0928\u0947\u0915\u092a\u093e (\u090f\u092e\u093e\u0932\u0947)",
+          "votes_received": 34626778
+        },
+        "runner_up": {
+          "name": "\u0915\u0941\u0938\u0941\u092e \u0926\u0947\u0935\u0940 \u0925\u093e\u092a\u093e",
+          "party": "\u0928\u0947\u092a\u093e\u0932\u0940 \u0915\u093e\u0901\u0917\u094d\u0930\u0947\u0938",
+          "votes_received": 30817159
+        },
+        "vote_margin": 3809619
+      },
+      "source": {
+        "publisher": "ekantipur",
+        "url": "https://election.ekantipur.com/pradesh-5/district-rukumeast/constituency-1?lng=nep",
+        "source_type": "news_article"
+      }
+    },
+    {
+      "province": "Sudurpashchim",
+      "district": "Rautahat/Constituency 1?Lng=Nep",
+      "constituency": "Rautahat/Constituency 1?Lng=Nep-2?lng=nep",
+      "election_year_bs": 2082,
+      "election_type": "federal",
+      "result": {
+        "winner": {
+          "name": "\u092e\u0939\u0947\u0936 \u092c\u0938\u094d\u0928\u0947\u0924",
+          "party": "\u0928\u0947\u0915\u092a\u093e (\u090f\u092e\u093e\u0932\u0947)",
+          "votes_received": 1099631338
+        },
+        "runner_up": {
+          "name": "\u0915\u0935\u093f\u0930 \u0930\u093e\u0923\u093e",
+          "party": "\u0928\u0947\u092a\u093e\u0932\u0940 \u0915\u093e\u0901\u0917\u094d\u0930\u0947\u0938",
+          "votes_received": 840133933
+        },
+        "vote_margin": 259497405
+      },
+      "source": {
+        "publisher": "ekantipur",
+        "url": "https://election.ekantipur.com/pradesh-3/district-bhaktapur/constituency-2?lng=nep",
+        "source_type": "news_article"
+      }
+    },
+    {
+      "province": "Sudurpashchim",
+      "district": "Rautahat/Constituency 1?Lng=Nep",
+      "constituency": "Rautahat/Constituency 1?Lng=Nep-3?lng=nep",
+      "election_year_bs": 2082,
+      "election_type": "federal",
+      "result": {
+        "winner": {
+          "name": "\u0930\u092e\u0947\u0936 \u0905\u0930\u094d\u092f\u093e\u0932",
+          "party": "\u0928\u0947\u092a\u093e\u0932\u0940 \u0915\u093e\u0901\u0917\u094d\u0930\u0947\u0938",
+          "votes_received": 600012756
+        },
+        "runner_up": {
+          "name": "\u0930\u093e\u092e\u0947\u0936\u094d\u0935\u0930 \u092b\u0941\u092f\u093e\u0932",
+          "party": "\u0928\u0947\u0915\u092a\u093e (\u090f\u092e\u093e\u0932\u0947)",
+          "votes_received": 381614940
+        },
+        "vote_margin": 218397816
+      },
+      "source": {
+        "publisher": "ekantipur",
+        "url": "https://election.ekantipur.com/pradesh-3/district-kathmandu/constituency-3?lng=nep",
+        "source_type": "news_article"
+      }
+    },
+    {
+      "province": "Sudurpashchim",
+      "district": "Kathmandu/Constituency 3?Lng=Nep",
+      "constituency": "Kathmandu/Constituency 3?Lng=Nep-3?lng=nep",
+      "election_year_bs": 2082,
+      "election_type": "federal",
+      "result": {
+        "winner": {
+          "name": "\u0930\u092e\u0947\u0936 \u0905\u0930\u094d\u092f\u093e\u0932",
+          "party": "\u0928\u0947\u092a\u093e\u0932\u0940 \u0915\u093e\u0901\u0917\u094d\u0930\u0947\u0938",
+          "votes_received": 600012756
+        },
+        "runner_up": {
+          "name": "\u0930\u093e\u092e\u0947\u0936\u094d\u0935\u0930 \u092b\u0941\u092f\u093e\u0932",
+          "party": "\u0928\u0947\u0915\u092a\u093e (\u090f\u092e\u093e\u0932\u0947)",
+          "votes_received": 381614940
+        },
+        "vote_margin": 218397816
+      },
+      "source": {
+        "publisher": "ekantipur",
+        "url": "https://election.ekantipur.com/pradesh-3/district-kathmandu/constituency-3?lng=nep",
+        "source_type": "news_article"
+      }
+    },
+    {
+      "province": "Sudurpashchim",
+      "district": "Kathmandu/Constituency 3?Lng=Nep",
+      "constituency": "Kathmandu/Constituency 3?Lng=Nep-3?lng=eng",
+      "election_year_bs": 2082,
+      "election_type": "federal",
+      "result": {
+        "winner": {
+          "name": "Ramesh Aryal",
+          "party": "Nepali Congress",
+          "votes_received": 600012756
+        },
+        "runner_up": {
+          "name": "Rameshwar Phuyal",
+          "party": "CPN-UML",
+          "votes_received": 381614940
+        },
+        "vote_margin": 218397816
+      },
+      "source": {
+        "publisher": "ekantipur",
+        "url": "https://election.ekantipur.com/pradesh-3/district-kathmandu/constituency-3?lng=eng",
+        "source_type": "news_article"
+      }
+    },
+    {
+      "province": "Sudurpashchim",
+      "district": "Myagdi/Constituency 1?Lng=Nep",
+      "constituency": "Myagdi/Constituency 1?Lng=Nep-1?lng=nep",
+      "election_year_bs": 2082,
+      "election_type": "federal",
+      "result": {
+        "winner": {
+          "name": "\u0939\u0930\u093f\u0915\u0943\u0937\u094d\u0923 \u0936\u094d\u0930\u0947\u0937\u094d\u0920",
+          "party": "\u0928\u0947\u0915\u092a\u093e (\u090f\u092e\u093e\u0932\u0947)",
+          "votes_received": 791914931
+        },
+        "runner_up": {
+          "name": "\u0915\u0930\u094d\u0923 \u092c\u0939\u093e\u0926\u0941\u0930 \u092d\u0923\u094d\u0921\u093e\u0930\u0940",
+          "party": "\u0928\u0947\u092a\u093e\u0932\u0940 \u0915\u093e\u0901\u0917\u094d\u0930\u0947\u0938",
+          "votes_received": 668316167
+        },
+        "vote_margin": 123598764
+      },
+      "source": {
+        "publisher": "ekantipur",
+        "url": "https://election.ekantipur.com/pradesh-4/district-myagdi/constituency-1?lng=nep",
+        "source_type": "news_article"
+      }
+    },
+    {
+      "province": "Sudurpashchim",
+      "district": "Myagdi/Constituency 1?Lng=Nep",
+      "constituency": "Myagdi/Constituency 1?Lng=Nep-1?lng=eng",
+      "election_year_bs": 2082,
+      "election_type": "federal",
+      "result": {
+        "winner": {
+          "name": "Harikrishna Shrestha",
+          "party": "CPN-UML",
+          "votes_received": 791914931
+        },
+        "runner_up": {
+          "name": "Karna Bahadur Bhandari",
+          "party": "Nepali Congress",
+          "votes_received": 668316167
+        },
+        "vote_margin": 123598764
+      },
+      "source": {
+        "publisher": "ekantipur",
+        "url": "https://election.ekantipur.com/pradesh-4/district-myagdi/constituency-1?lng=eng",
+        "source_type": "news_article"
+      }
+    },
+    {
+      "province": "Sudurpashchim",
+      "district": "Lalitpur/Constituency 3?Lng=Nep",
+      "constituency": "Lalitpur/Constituency 3?Lng=Nep-3?lng=nep",
+      "election_year_bs": 2082,
+      "election_type": "federal",
+      "result": {
+        "winner": {
+          "name": "\u091c\u093f\u0924\u0947\u0928\u094d\u0926\u094d\u0930 \u0915\u0941\u092e\u093e\u0930 \u0936\u094d\u0930\u0947\u0937\u094d\u0920",
+          "party": "\u0928\u0947\u092a\u093e\u0932\u0940 \u0915\u093e\u0901\u0917\u094d\u0930\u0947\u0938",
+          "votes_received": 904534051
+        },
+        "runner_up": {
+          "name": "\u0930\u093e\u091c \u0915\u093e\u091c\u0940 \u092e\u0939\u0930\u094d\u091c\u0928",
+          "party": "\u0928\u0947\u092a\u093e\u0932\u0940 \u0915\u092e\u094d\u092f\u0941\u0928\u093f\u0937\u094d\u091f \u092a\u093e\u0930\u094d\u091f\u0940",
+          "votes_received": 602237074
+        },
+        "vote_margin": 302296977
+      },
+      "source": {
+        "publisher": "ekantipur",
+        "url": "https://election.ekantipur.com/pradesh-3/district-lalitpur/constituency-3?lng=nep",
+        "source_type": "news_article"
+      }
+    },
+    {
+      "province": "Sudurpashchim",
+      "district": "Lalitpur/Constituency 3?Lng=Nep",
+      "constituency": "Lalitpur/Constituency 3?Lng=Nep-3?lng=eng",
+      "election_year_bs": 2082,
+      "election_type": "federal",
+      "result": {
+        "winner": {
+          "name": "Jitendra Kumar Shrestha",
+          "party": "Nepali Congress",
+          "votes_received": 904534051
+        },
+        "runner_up": {
+          "name": "Raj Kaji Maharjan",
+          "party": "Nepali Communist Party",
+          "votes_received": 602237074
+        },
+        "vote_margin": 302296977
+      },
+      "source": {
+        "publisher": "ekantipur",
+        "url": "https://election.ekantipur.com/pradesh-3/district-lalitpur/constituency-3?lng=eng",
+        "source_type": "news_article"
+      }
+    },
+    {
+      "province": "Sudurpashchim",
+      "district": "Siraha/Constituency 1?Lng=Nep",
+      "constituency": "Siraha/Constituency 1?Lng=Nep-1?lng=nep",
+      "election_year_bs": 2082,
+      "election_type": "federal",
+      "result": {
+        "winner": {
+          "name": "\u0930\u093e\u092e\u0938\u0941\u0928\u094d\u0926\u0930 \u091a\u094c\u0927\u0930\u0940",
+          "party": "\u0928\u0947\u092a\u093e\u0932\u0940 \u0915\u093e\u0901\u0917\u094d\u0930\u0947\u0938",
+          "votes_received": 978431538
+        },
+        "runner_up": {
+          "name": "\u0930\u093e\u092e\u0936\u0902\u0915\u0930 \u092f\u093e\u0926\u0935",
+          "party": "\u0928\u0947\u0915\u092a\u093e (\u090f\u092e\u093e\u0932\u0947)",
+          "votes_received": 788633436
+        },
+        "vote_margin": 189798102
+      },
+      "source": {
+        "publisher": "ekantipur",
+        "url": "https://election.ekantipur.com/pradesh-2/district-siraha/constituency-1?lng=nep",
+        "source_type": "news_article"
+      }
+    },
+    {
+      "province": "Sudurpashchim",
+      "district": "Siraha/Constituency 1?Lng=Nep",
+      "constituency": "Siraha/Constituency 1?Lng=Nep-1?lng=eng",
+      "election_year_bs": 2082,
+      "election_type": "federal",
+      "result": {
+        "winner": {
+          "name": "Ram Sundar Chaudhary",
+          "party": "Nepali Congress",
+          "votes_received": 978431538
+        },
+        "runner_up": {
+          "name": "Ram Shankar Yadav",
+          "party": "CPN-UML",
+          "votes_received": 788633436
+        },
+        "vote_margin": 189798102
+      },
+      "source": {
+        "publisher": "ekantipur",
+        "url": "https://election.ekantipur.com/pradesh-2/district-siraha/constituency-1?lng=eng",
+        "source_type": "news_article"
+      }
+    },
+    {
+      "province": "Sudurpashchim",
+      "district": "Gulmi/Constituency 1?Lng=Nep",
+      "constituency": "Gulmi/Constituency 1?Lng=Nep-1?lng=nep",
+      "election_year_bs": 2082,
+      "election_type": "federal",
+      "result": {
+        "winner": {
+          "name": "\u092a\u094d\u0930\u0926\u0940\u092a\u0915\u0941\u092e\u093e\u0930 \u091c\u094d\u091e\u0935\u093e\u0932\u0940",
+          "party": "\u0928\u0947\u0915\u092a\u093e (\u090f\u092e\u093e\u0932\u0947)",
+          "votes_received": 1518114461
+        },
+        "runner_up": {
+          "name": "\u091a\u0928\u094d\u0926\u094d\u0930\u0915\u093e\u0928\u094d\u0924 \u092d\u0923\u094d\u0921\u093e\u0930\u0940",
+          "party": "\u0928\u0947\u092a\u093e\u0932\u0940 \u0915\u093e\u0901\u0917\u094d\u0930\u0947\u0938",
+          "votes_received": 1350516137
+        },
+        "vote_margin": 167598324
+      },
+      "source": {
+        "publisher": "ekantipur",
+        "url": "https://election.ekantipur.com/pradesh-5/district-gulmi/constituency-1?lng=nep",
+        "source_type": "news_article"
+      }
+    },
+    {
+      "province": "Sudurpashchim",
+      "district": "Gulmi/Constituency 1?Lng=Nep",
+      "constituency": "Gulmi/Constituency 1?Lng=Nep-1?lng=eng",
+      "election_year_bs": 2082,
+      "election_type": "federal",
+      "result": {
+        "winner": {
+          "name": "Pradip Kumar Gyawali",
+          "party": "CPN-UML",
+          "votes_received": 1518114461
+        },
+        "runner_up": {
+          "name": "Chandrakant Bhandari",
+          "party": "Nepali Congress",
+          "votes_received": 1350516137
+        },
+        "vote_margin": 167598324
+      },
+      "source": {
+        "publisher": "ekantipur",
+        "url": "https://election.ekantipur.com/pradesh-5/district-gulmi/constituency-1?lng=eng",
+        "source_type": "news_article"
+      }
+    },
+    {
+      "province": "Sudurpashchim",
+      "district": "Gorkha/Constituency 1?Lng=Nep",
+      "constituency": "Gorkha/Constituency 1?Lng=Nep-1?lng=nep",
+      "election_year_bs": 2082,
+      "election_type": "federal",
+      "result": {
+        "winner": {
+          "name": "\u092a\u094d\u0930\u0947\u092e \u0915\u0941\u092e\u093e\u0930 \u0916\u0924\u094d\u0930\u0940",
+          "party": "\u0928\u0947\u092a\u093e\u0932\u0940 \u0915\u093e\u0901\u0917\u094d\u0930\u0947\u0938",
+          "votes_received": 1539814498
+        },
+        "runner_up": {
+          "name": "\u0939\u0930\u093f \u0930\u093e\u091c \u0905\u0927\u093f\u0915\u093e\u0930\u0940",
+          "party": "\u0928\u0947\u092a\u093e\u0932\u0940 \u0915\u092e\u094d\u092f\u0941\u0928\u093f\u0937\u094d\u091f \u092a\u093e\u0930\u094d\u091f\u0940",
+          "votes_received": 1112418772
+        },
+        "vote_margin": 427395726
+      },
+      "source": {
+        "publisher": "ekantipur",
+        "url": "https://election.ekantipur.com/pradesh-4/district-gorkha/constituency-1?lng=nep",
+        "source_type": "news_article"
+      }
+    },
+    {
+      "province": "Sudurpashchim",
+      "district": "Gorkha/Constituency 1?Lng=Nep",
+      "constituency": "Gorkha/Constituency 1?Lng=Nep-1?lng=eng",
+      "election_year_bs": 2082,
+      "election_type": "federal",
+      "result": {
+        "winner": {
+          "name": "Prem Kumar Khatri",
+          "party": "Nepali Congress",
+          "votes_received": 1539814498
+        },
+        "runner_up": {
+          "name": "Hari Raj Adhikari",
+          "party": "Nepali Communist Party",
+          "votes_received": 1112418772
+        },
+        "vote_margin": 427395726
+      },
+      "source": {
+        "publisher": "ekantipur",
+        "url": "https://election.ekantipur.com/pradesh-4/district-gorkha/constituency-1?lng=eng",
+        "source_type": "news_article"
+      }
+    },
+    {
+      "province": "Sudurpashchim",
+      "district": "Tanahun/Constituency 1?Lng=Nep",
+      "constituency": "Tanahun/Constituency 1?Lng=Nep-1?lng=nep",
+      "election_year_bs": 2082,
+      "election_type": "federal",
+      "result": {
+        "winner": {
+          "name": "\u0917\u094b\u0935\u093f\u0928\u094d\u0926 \u092d\u091f\u094d\u091f\u0930\u093e\u0908",
+          "party": "\u0928\u0947\u092a\u093e\u0932\u0940 \u0915\u093e\u0901\u0917\u094d\u0930\u0947\u0938",
+          "votes_received": 1623121809
+        },
+        "runner_up": {
+          "name": "\u092d\u0917\u0935\u0924\u0940 \u0928\u094d\u092f\u094c\u092a\u093e\u0928\u0947",
+          "party": "\u0928\u0947\u0915\u092a\u093e (\u090f\u092e\u093e\u0932\u0947)",
+          "votes_received": 565332387
+        },
+        "vote_margin": 1057789422
+      },
+      "source": {
+        "publisher": "ekantipur",
+        "url": "https://election.ekantipur.com/pradesh-4/district-tanahun/constituency-1?lng=nep",
+        "source_type": "news_article"
+      }
+    },
+    {
+      "province": "Sudurpashchim",
+      "district": "Tanahun/Constituency 1?Lng=Nep",
+      "constituency": "Tanahun/Constituency 1?Lng=Nep-1?lng=eng",
+      "election_year_bs": 2082,
+      "election_type": "federal",
+      "result": {
+        "winner": {
+          "name": "Govind Bhattarai",
+          "party": "Nepali Congress",
+          "votes_received": 1623121809
+        },
+        "runner_up": {
+          "name": "Bhagwati Neupane",
+          "party": "CPN-UML",
+          "votes_received": 565332387
+        },
+        "vote_margin": 1057789422
+      },
+      "source": {
+        "publisher": "ekantipur",
+        "url": "https://election.ekantipur.com/pradesh-4/district-tanahun/constituency-1?lng=eng",
+        "source_type": "news_article"
+      }
+    }
+  ]
+}
