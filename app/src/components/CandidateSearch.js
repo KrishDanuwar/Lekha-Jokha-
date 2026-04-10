@@ -12,6 +12,18 @@ export default function CandidateSearch() {
   const [selectedConstituency, setSelectedConstituency] = useState('');
   const [appliedFilters, setAppliedFilters] = useState(null);
 
+  // String cleaners to remove JSON artifact noise
+  const cleanDistrict = (d) => {
+    if (!d) return '';
+    return d.split('/')[0];
+  };
+
+  const cleanConstituency = (c) => {
+    if (!c) return '';
+    const match = c.match(/(Constituency\s*\d+)/i);
+    return match ? match[1] : c.split('-')[0];
+  };
+
   // Compute specific dropdown options
   const provinces = useMemo(() => {
     return [...new Set(records.map(r => r.province))].filter(Boolean).sort();
@@ -64,13 +76,30 @@ export default function CandidateSearch() {
       if (appliedFilters.constituency && r.constituency !== appliedFilters.constituency) return false;
       
       if (appliedFilters.name) {
-        const winnerName = r.result?.winner?.name || '';
-        if (!winnerName.toLowerCase().includes(appliedFilters.name)) return false;
+        const winnerName = r.result?.winner?.name?.toLowerCase() || '';
+        const searchTokens = appliedFilters.name.split(/\s+/).filter(Boolean);
+        if (!searchTokens.every(token => winnerName.includes(token))) return false;
       }
       
       return true;
     });
   }, [appliedFilters]);
+
+  // Autocomplete Suggestions logic
+  const [showSuggestions, setShowSuggestions] = useState(false);
+  
+  const suggestions = useMemo(() => {
+    if (!searchName.trim() || searchName.trim().length < 2) return [];
+    const tokens = searchName.trim().toLowerCase().split(/\s+/).filter(Boolean);
+    const matches = {};
+    records.forEach(r => {
+      const name = r.result?.winner?.name || '';
+      if (tokens.every(token => name.toLowerCase().includes(token))) {
+        matches[name] = true; // Use object to ensure unique names
+      }
+    });
+    return Object.keys(matches).slice(0, 7); // Show max 7 suggestions
+  }, [searchName]);
 
   const isSearchDisabled = !searchName.trim() && !selectedProvince && !selectedDistrict && !selectedConstituency;
 
@@ -81,23 +110,47 @@ export default function CandidateSearch() {
           className="candidate-search-form" 
           onSubmit={(e) => { e.preventDefault(); handleSearch(); }}
         >
-          {/* Input + Icon button */}
+          {/* Input + Icon + Autocomplete wrapper */}
           <div className="candidate-search-input-wrapper">
             <input
               id="search-name"
               type="text"
               value={searchName}
-              onChange={(e) => setSearchName(e.target.value)}
+              onChange={(e) => {
+                setSearchName(e.target.value);
+                setShowSuggestions(true);
+              }}
+              onFocus={() => setShowSuggestions(true)}
+              onBlur={() => setTimeout(() => setShowSuggestions(false), 200)}
               placeholder="Search Candidates"
               className="candidate-search-input"
               aria-label="Search Candidates"
+              autoComplete="off"
             />
-            <button type="button" className="candidate-search-icon-btn" aria-label="Search by name">
+            <button type="submit" className="candidate-search-icon-btn" aria-label="Search by name">
               <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
                 <circle cx="11" cy="11" r="8"></circle>
                 <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
               </svg>
             </button>
+            
+            {/* Autocomplete Dropdown */}
+            {showSuggestions && suggestions.length > 0 && (
+              <div className="candidate-search-suggestions">
+                {suggestions.map((suggestion, idx) => (
+                  <div 
+                    key={idx} 
+                    className="candidate-search-suggestion-item"
+                    onClick={() => {
+                      setSearchName(suggestion);
+                      setShowSuggestions(false);
+                    }}
+                  >
+                    {suggestion}
+                  </div>
+                ))}
+              </div>
+            )}
           </div>
 
           {/* Selects */}
@@ -124,7 +177,7 @@ export default function CandidateSearch() {
           >
             <option value="">District</option>
             {districts.map(d => (
-              <option key={d} value={d}>{d}</option>
+              <option key={d} value={d}>{cleanDistrict(d)}</option>
             ))}
           </select>
 
@@ -138,7 +191,7 @@ export default function CandidateSearch() {
           >
             <option value="">Constituency</option>
             {constituencies.map(c => (
-              <option key={c} value={c}>{c}</option>
+              <option key={c} value={c}>{cleanConstituency(c)}</option>
             ))}
           </select>
 
@@ -173,7 +226,7 @@ export default function CandidateSearch() {
                   <div className="candidate-card__stat-group">
                     <span className="candidate-card__stat-label">Location</span>
                     <span className="candidate-card__stat-val" style={{ fontSize: 'var(--text-xs)', fontWeight: 'var(--weight-normal)', color: 'var(--color-text-secondary)'}}>
-                       {r.province} &bull; {r.district}
+                       {r.province} &bull; {cleanDistrict(r.district)} {cleanConstituency(r.constituency)}
                     </span>
                   </div>
                   <div className="candidate-card__stat-group" style={{ marginLeft: 'auto', textAlign: 'right' }}>
