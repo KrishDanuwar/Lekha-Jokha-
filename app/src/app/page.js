@@ -7,6 +7,7 @@ import { getPromiseStatuses, getElectionInfo } from '@/lib/queries';
 import StatsOverview from '@/components/StatsOverview';
 import PromiseCard from '@/components/PromiseCard';
 import CandidateSearch from '@/components/CandidateSearch';
+import heroBg from '../hero section.jpeg';
 
 export default function HomePage() {
   const { locale, t } = useI18n();
@@ -56,7 +57,15 @@ export default function HomePage() {
   return (
     <div className="container">
       {/* Hero Section */}
-      <section className="hero">
+      <section 
+        className="hero"
+        style={{
+          backgroundImage: `linear-gradient(rgba(0, 0, 0, 0.65), rgba(0, 0, 0, 0.65)), url(${heroBg.src})`,
+          backgroundSize: 'cover',
+          backgroundPosition: 'center',
+          borderRadius: 'var(--radius-lg)'
+        }}
+      >
         <div className="hero__badge">
           <span className="hero__badge-dot" aria-hidden="true" />
           {t('site.tagline')}
