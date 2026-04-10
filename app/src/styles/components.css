@@ -514,7 +514,7 @@
 .promise-card__view {
   font-size: var(--text-sm);
   font-weight: var(--weight-medium);
-  color: var(--color-primary);
+  color: var(--color-nepal-red);
   display: flex;
   align-items: center;
   gap: var(--space-1);
@@ -721,15 +721,15 @@
   gap: var(--space-2);
   padding: var(--space-1) var(--space-3);
   font-size: var(--text-sm);
-  color: var(--color-primary);
-  background: var(--color-primary-lighter);
+  color: var(--color-nepal-red);
+  background: var(--color-nepal-red-light);
   border-radius: var(--radius-sm);
   transition: all var(--duration-fast) var(--ease-out);
   text-decoration: none;
 }
 
 .evidence-link:hover {
-  background: var(--color-primary);
+  background: var(--color-nepal-red);
   color: var(--color-text-inverse);
 }
 
@@ -776,13 +776,13 @@
 }
 
 .feedback-form__option:hover {
-  border-color: var(--color-primary);
-  background: var(--color-primary-lighter);
+  border-color: var(--color-nepal-red);
+  background: var(--color-nepal-red-light);
 }
 
 .feedback-form__option--selected {
-  border-color: var(--color-primary);
-  background: var(--color-primary-lighter);
+  border-color: var(--color-nepal-red);
+  background: var(--color-nepal-red-light);
 }
 
 .feedback-form__radio {
@@ -798,14 +798,14 @@
 }
 
 .feedback-form__option--selected .feedback-form__radio {
-  border-color: var(--color-primary);
+  border-color: var(--color-nepal-red);
 }
 
 .feedback-form__radio-dot {
   width: 8px;
   height: 8px;
   border-radius: var(--radius-full);
-  background: var(--color-primary);
+  background: var(--color-nepal-red);
   transform: scale(0);
   transition: transform var(--duration-fast) var(--ease-out);
 }
@@ -823,7 +823,7 @@
 .feedback-form__submit {
   width: 100%;
   padding: var(--space-3) var(--space-6);
-  background: var(--color-primary);
+  background: var(--color-nepal-red);
   color: var(--color-text-inverse);
   font-weight: var(--weight-semibold);
   border-radius: var(--radius-sm);
@@ -831,7 +831,7 @@
 }
 
 .feedback-form__submit:hover:not(:disabled) {
-  background: var(--color-primary-light);
+  background: var(--color-nepal-red-hover);
 }
 
 .feedback-form__submit:disabled {
@@ -994,8 +994,8 @@
 
 .context-bar__value {
   font-size: var(--text-sm);
-  font-weight: var(--weight-medium);
-  color: var(--color-text);
+  font-weight: var(--weight-semibold);
+  color: var(--color-nepal-red);
 }
 
 /* ============== LOADING STATE ============== */
