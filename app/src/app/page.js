@@ -6,6 +6,7 @@ import { useI18n, localize } from '@/lib/i18n';
 import { getPromiseStatuses, getElectionInfo } from '@/lib/queries';
 import StatsOverview from '@/components/StatsOverview';
 import PromiseCard from '@/components/PromiseCard';
+import CandidateSearch from '@/components/CandidateSearch';
 
 export default function HomePage() {
   const { locale, t } = useI18n();
@@ -68,6 +69,11 @@ export default function HomePage() {
             <path d="M3 8H13M9 4L13 8L9 12" />
           </svg>
         </Link>
+      </section>
+
+      {/* Candidate Search Section */}
+      <section className="section" style={{ paddingTop: 0 }}>
+        <CandidateSearch />
       </section>
 
       {/* Context Bar */}

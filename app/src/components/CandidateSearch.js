@@ -76,13 +76,13 @@ export default function CandidateSearch() {
 
   return (
     <div>
-      <div className="candidate-search-container">
+      <div className="candidate-search-bar" role="search" aria-label="Search Candidates">
         <form 
-          className="candidate-search-controls" 
+          className="candidate-search-form" 
           onSubmit={(e) => { e.preventDefault(); handleSearch(); }}
         >
-          <div className="candidate-search-group">
-            <label htmlFor="search-name" className="candidate-search-label">Candidate Name</label>
+          {/* Input + Icon button */}
+          <div className="candidate-search-input-wrapper">
             <input
               id="search-name"
               type="text"
@@ -90,56 +90,59 @@ export default function CandidateSearch() {
               onChange={(e) => setSearchName(e.target.value)}
               placeholder="Search Candidates"
               className="candidate-search-input"
+              aria-label="Search Candidates"
             />
+            <button type="button" className="candidate-search-icon-btn" aria-label="Search by name">
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+                <circle cx="11" cy="11" r="8"></circle>
+                <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+              </svg>
+            </button>
           </div>
 
-          <div className="candidate-search-group">
-            <label htmlFor="search-province" className="candidate-search-label">Province</label>
-            <select
-              id="search-province"
-              value={selectedProvince}
-              onChange={handleProvinceChange}
-              className="candidate-search-select"
-            >
-              <option value="">All Provinces</option>
-              {provinces.map(p => (
-                <option key={p} value={p}>{p}</option>
-              ))}
-            </select>
-          </div>
+          {/* Selects */}
+          <select
+            id="search-province"
+            value={selectedProvince}
+            onChange={handleProvinceChange}
+            className="candidate-search-select"
+            aria-label="Province"
+          >
+            <option value="">Province</option>
+            {provinces.map(p => (
+              <option key={p} value={p}>{p}</option>
+            ))}
+          </select>
 
-          <div className="candidate-search-group">
-            <label htmlFor="search-district" className="candidate-search-label">District</label>
-            <select
-              id="search-district"
-              value={selectedDistrict}
-              onChange={handleDistrictChange}
-              disabled={!selectedProvince}
-              className="candidate-search-select"
-            >
-              <option value="">All Districts</option>
-              {districts.map(d => (
-                <option key={d} value={d}>{d}</option>
-              ))}
-            </select>
-          </div>
+          <select
+            id="search-district"
+            value={selectedDistrict}
+            onChange={handleDistrictChange}
+            disabled={!selectedProvince}
+            className="candidate-search-select"
+            aria-label="District"
+          >
+            <option value="">District</option>
+            {districts.map(d => (
+              <option key={d} value={d}>{d}</option>
+            ))}
+          </select>
 
-          <div className="candidate-search-group">
-            <label htmlFor="search-constituency" className="candidate-search-label">Constituency</label>
-            <select
-              id="search-constituency"
-              value={selectedConstituency}
-              onChange={(e) => setSelectedConstituency(e.target.value)}
-              disabled={!selectedDistrict}
-              className="candidate-search-select"
-            >
-              <option value="">All Constituencies</option>
-              {constituencies.map(c => (
-                <option key={c} value={c}>{c}</option>
-              ))}
-            </select>
-          </div>
+          <select
+            id="search-constituency"
+            value={selectedConstituency}
+            onChange={(e) => setSelectedConstituency(e.target.value)}
+            disabled={!selectedDistrict}
+            className="candidate-search-select"
+            aria-label="Constituency"
+          >
+            <option value="">Constituency</option>
+            {constituencies.map(c => (
+              <option key={c} value={c}>{c}</option>
+            ))}
+          </select>
 
+          {/* Main Search Button */}
           <button 
             type="submit" 
             className="candidate-search-button" 
