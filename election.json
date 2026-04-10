@@ -1,0 +1,1159 @@
+```json
+[
+  {
+    "id": 1,
+    "name": "Nisha Dangi",
+    "district": "Jhapa-1",
+    "votes": 45680,
+    "party": "Rastriya Swatantra Party (RSP)"
+  },
+  {
+    "id": 2,
+    "name": "Indira Rana Magar",
+    "district": "Jhapa-2",
+    "votes": 60110,
+    "party": "Rastriya Swatantra Party (RSP)"
+  },
+  {
+    "id": 3,
+    "name": "Prakash Pathak",
+    "district": "Jhapa-3",
+    "votes": 38674,
+    "party": "Rastriya Swatantra Party (RSP)"
+  },
+  {
+    "id": 4,
+    "name": "Shambhu Prasad Dhakal",
+    "district": "Jhapa-4",
+    "votes": 43631,
+    "party": "Rastriya Swatantra Party (RSP)"
+  },
+  {
+    "id": 5,
+    "name": "Balen Shah",
+    "district": "Jhapa-5",
+    "votes": 68348,
+    "party": "Rastriya Swatantra Party (RSP)"
+  },
+  {
+    "id": 6,
+    "name": "Yagyamani Neupane",
+    "district": "Morang-1",
+    "votes": 27367,
+    "party": "Rastriya Swatantra Party (RSP)"
+  },
+  {
+    "id": 7,
+    "name": "Krishna Kumar Karki",
+    "district": "Morang-2",
+    "votes": 40924,
+    "party": "Rastriya Swatantra Party (RSP)"
+  },
+  {
+    "id": 8,
+    "name": "Ganesh Karki",
+    "district": "Morang-3",
+    "votes": 36924,
+    "party": "Rastriya Swatantra Party (RSP)"
+  },
+  {
+    "id": 9,
+    "name": "Santosh Rajbanshi",
+    "district": "Morang-4",
+    "votes": 40833,
+    "party": "Rastriya Swatantra Party (RSP)"
+  },
+  {
+    "id": 10,
+    "name": "Asha Jha",
+    "district": "Morang-5",
+    "votes": 30434,
+    "party": "Rastriya Swatantra Party (RSP)"
+  },
+  {
+    "id": 11,
+    "name": "Rubina Acharya",
+    "district": "Morang-6",
+    "votes": 55513,
+    "party": "Rastriya Swatantra Party (RSP)"
+  },
+  {
+    "id": 12,
+    "name": "Lal Bikram Thapa",
+    "district": "Sunsari-2",
+    "votes": 57348,
+    "party": "Rastriya Swatantra Party (RSP)"
+  },
+  {
+    "id": 13,
+    "name": "Ashok Kumar Chaudhary",
+    "district": "Sunsari-3",
+    "votes": 47421,
+    "party": "Rastriya Swatantra Party (RSP)"
+  },
+  {
+    "id": 14,
+    "name": "Deepak Kumar Sah",
+    "district": "Sunsari-4",
+    "votes": 42771,
+    "party": "Rastriya Swatantra Party (RSP)"
+  },
+  {
+    "id": 15,
+    "name": "Parash Mani Gelal",
+    "district": "Udayapur-1",
+    "votes": 30590,
+    "party": "Rastriya Swatantra Party (RSP)"
+  },
+  {
+    "id": 16,
+    "name": "Surya Bahadur Tamang",
+    "district": "Udayapur-2",
+    "votes": 14802,
+    "party": "Rastriya Swatantra Party (RSP)"
+  },
+  {
+    "id": 17,
+    "name": "Bishworaj Pokharel",
+    "district": "Okhaldhunga-1",
+    "votes": 13953,
+    "party": "Rastriya Swatantra Party (RSP)"
+  },
+  {
+    "id": 18,
+    "name": "Ram Binod Yadav",
+    "district": "Dhanusha-2",
+    "votes": 41637,
+    "party": "Rastriya Swatantra Party (RSP)"
+  },
+  {
+    "id": 19,
+    "name": "Manish Jha",
+    "district": "Dhanusha-3",
+    "votes": 43988,
+    "party": "Rastriya Swatantra Party (RSP)"
+  },
+  {
+    "id": 20,
+    "name": "Rajkishor Mahato",
+    "district": "Dhanusha-4",
+    "votes": 48270,
+    "party": "Rastriya Swatantra Party (RSP)"
+  },
+  {
+    "id": 21,
+    "name": "Nitima Bhandari (Karki)",
+    "district": "Sarlahi-1",
+    "votes": 44181,
+    "party": "Rastriya Swatantra Party (RSP)"
+  },
+  {
+    "id": 22,
+    "name": "Rabin Mahato",
+    "district": "Sarlahi-2",
+    "votes": 42512,
+    "party": "Rastriya Swatantra Party (RSP)"
+  },
+  {
+    "id": 23,
+    "name": "Narendra Sah Kalwar",
+    "district": "Sarlahi-3",
+    "votes": 46890,
+    "party": "Rastriya Swatantra Party (RSP)"
+  },
+  {
+    "id": 24,
+    "name": "Amaresh Kumar Singh",
+    "district": "Sarlahi-4",
+    "votes": 35688,
+    "party": "Rastriya Swatantra Party (RSP)"
+  },
+  {
+    "id": 25,
+    "name": "Bablu Gupta",
+    "district": "Siraha-1",
+    "votes": 41322,
+    "party": "Rastriya Swatantra Party (RSP)"
+  },
+  {
+    "id": 26,
+    "name": "Shiv Shankar Yadav",
+    "district": "Siraha-2",
+    "votes": 39561,
+    "party": "Rastriya Swatantra Party (RSP)"
+  },
+  {
+    "id": 27,
+    "name": "Shambhu Kumar Yadav",
+    "district": "Siraha-3",
+    "votes": 32249,
+    "party": "Rastriya Swatantra Party (RSP)"
+  },
+  {
+    "id": 28,
+    "name": "Tapeshwar Yadav",
+    "district": "Siraha-4",
+    "votes": 36210,
+    "party": "Rastriya Swatantra Party (RSP)"
+  },
+  {
+    "id": 29,
+    "name": "Ganesh Dhimal",
+    "district": "Bara-1",
+    "votes": 39998,
+    "party": "Rastriya Swatantra Party (RSP)"
+  },
+  {
+    "id": 30,
+    "name": "Chandan Kumar Singh",
+    "district": "Bara-2",
+    "votes": 35590,
+    "party": "Rastriya Swatantra Party (RSP)"
+  },
+  {
+    "id": 31,
+    "name": "Arbind Sah",
+    "district": "Bara-3",
+    "votes": 40697,
+    "party": "Rastriya Swatantra Party (RSP)"
+  },
+  {
+    "id": 32,
+    "name": "Rahbar Ansari",
+    "district": "Bara-4",
+    "votes": 41200,
+    "party": "Rastriya Swatantra Party (RSP)"
+  },
+  {
+    "id": 33,
+    "name": "Pushpa Kumari Chaudhary",
+    "district": "Saptari-1",
+    "votes": 38195,
+    "party": "Rastriya Swatantra Party (RSP)"
+  },
+  {
+    "id": 34,
+    "name": "Ramji Yadav",
+    "district": "Saptari-2",
+    "votes": 28404,
+    "party": "Rastriya Swatantra Party (RSP)"
+  },
+  {
+    "id": 35,
+    "name": "Amar Kant Chaudhary",
+    "district": "Saptari-3",
+    "votes": 32875,
+    "party": "Rastriya Swatantra Party (RSP)"
+  },
+  {
+    "id": 36,
+    "name": "Sitaram Sah",
+    "district": "Saptari-4",
+    "votes": 36412,
+    "party": "Rastriya Swatantra Party (RSP)"
+  },
+  {
+    "id": 37,
+    "name": "Pramod Kumar Mahato",
+    "district": "Mahottari-1",
+    "votes": 34636,
+    "party": "Rastriya Swatantra Party (RSP)"
+  },
+  {
+    "id": 38,
+    "name": "Deepak Kumar Sah",
+    "district": "Mahottari-2",
+    "votes": 32722,
+    "party": "Rastriya Swatantra Party (RSP)"
+  },
+  {
+    "id": 39,
+    "name": "Ujjwal Kumar Jha",
+    "district": "Mahottari-3",
+    "votes": 32451,
+    "party": "Rastriya Swatantra Party (RSP)"
+  },
+  {
+    "id": 40,
+    "name": "Gauri Kumari",
+    "district": "Mahottari-4",
+    "votes": 30132,
+    "party": "Rastriya Swatantra Party (RSP)"
+  },
+  {
+    "id": 41,
+    "name": "Buddhi Prasad Pant (Hari)",
+    "district": "Parsa-1",
+    "votes": 27274,
+    "party": "Rastriya Swatantra Party (RSP)"
+  },
+  {
+    "id": 42,
+    "name": "Sushil Kumar Kanu",
+    "district": "Parsa-2",
+    "votes": 30740,
+    "party": "Rastriya Swatantra Party (RSP)"
+  },
+  {
+    "id": 43,
+    "name": "Ramakant Prasad Chaurasiya",
+    "district": "Parsa-3",
+    "votes": 29679,
+    "party": "Rastriya Swatantra Party (RSP)"
+  },
+  {
+    "id": 44,
+    "name": "Tek Bahadur Shakya",
+    "district": "Parsa-4",
+    "votes": 28006,
+    "party": "Rastriya Swatantra Party (RSP)"
+  },
+  {
+    "id": 45,
+    "name": "Rajesh Kumar Chaudhary",
+    "district": "Rautahat-1",
+    "votes": 28946,
+    "party": "Rastriya Swatantra Party (RSP)"
+  },
+  {
+    "id": 46,
+    "name": "Rabindra Patel",
+    "district": "Rautahat-3",
+    "votes": 27318,
+    "party": "Rastriya Swatantra Party (RSP)"
+  },
+  {
+    "id": 47,
+    "name": "Ganesh Paudel",
+    "district": "Rautahat-4",
+    "votes": 36876,
+    "party": "Rastriya Swatantra Party (RSP)"
+  },
+  {
+    "id": 48,
+    "name": "Hari Dhakal",
+    "district": "Chitwan-1",
+    "votes": 58208,
+    "party": "Rastriya Swatantra Party (RSP)"
+  },
+  {
+    "id": 49,
+    "name": "Rabi Lamichhane",
+    "district": "Chitwan-2",
+    "votes": 54402,
+    "party": "Rastriya Swatantra Party (RSP)"
+  },
+  {
+    "id": 50,
+    "name": "Sobita Gautam",
+    "district": "Chitwan-3",
+    "votes": 59277,
+    "party": "Rastriya Swatantra Party (RSP)"
+  },
+  {
+    "id": 51,
+    "name": "Buddha Ratna Maharjan",
+    "district": "Lalitpur-1",
+    "votes": 23373,
+    "party": "Rastriya Swatantra Party (RSP)"
+  },
+  {
+    "id": 52,
+    "name": "Jagdish Kharel",
+    "district": "Lalitpur-2",
+    "votes": 39491,
+    "party": "Rastriya Swatantra Party (RSP)"
+  },
+  {
+    "id": 53,
+    "name": "Tosima Karki",
+    "district": "Lalitpur-3",
+    "votes": 43096,
+    "party": "Rastriya Swatantra Party (RSP)"
+  },
+  {
+    "id": 54,
+    "name": "Rukesh Ranjit",
+    "district": "Bhaktapur-1",
+    "votes": 33436,
+    "party": "Rastriya Swatantra Party (RSP)"
+  },
+  {
+    "id": 55,
+    "name": "Rajiv Khatri",
+    "district": "Bhaktapur-2",
+    "votes": 42334,
+    "party": "Rastriya Swatantra Party (RSP)"
+  },
+  {
+    "id": 56,
+    "name": "Ranju Neupane (Darsana)",
+    "district": "Kathmandu-1",
+    "votes": 15455,
+    "party": "Rastriya Swatantra Party (RSP)"
+  },
+  {
+    "id": 57,
+    "name": "Sunil K.C.",
+    "district": "Kathmandu-2",
+    "votes": 34238,
+    "party": "Rastriya Swatantra Party (RSP)"
+  },
+  {
+    "id": 58,
+    "name": "Raju Nath Pandey",
+    "district": "Kathmandu-3",
+    "votes": 18757,
+    "party": "Rastriya Swatantra Party (RSP)"
+  },
+  {
+    "id": 59,
+    "name": "Pukar Bam",
+    "district": "Kathmandu-4",
+    "votes": 29142,
+    "party": "Rastriya Swatantra Party (RSP)"
+  },
+  {
+    "id": 60,
+    "name": "Sasmita Pokharel",
+    "district": "Kathmandu-5",
+    "votes": 30737,
+    "party": "Rastriya Swatantra Party (RSP)"
+  },
+  {
+    "id": 61,
+    "name": "Shishir Khanal",
+    "district": "Kathmandu-6",
+    "votes": 27711,
+    "party": "Rastriya Swatantra Party (RSP)"
+  },
+  {
+    "id": 62,
+    "name": "Ganesh Parajuli",
+    "district": "Kathmandu-7",
+    "votes": 27805,
+    "party": "Rastriya Swatantra Party (RSP)"
+  },
+  {
+    "id": 63,
+    "name": "Biraj Bhakta Shrestha",
+    "district": "Kathmandu-8",
+    "votes": 24592,
+    "party": "Rastriya Swatantra Party (RSP)"
+  },
+  {
+    "id": 64,
+    "name": "Dol Prasad Aryal",
+    "district": "Kathmandu-9",
+    "votes": 35093,
+    "party": "Rastriya Swatantra Party (RSP)"
+  },
+  {
+    "id": 65,
+    "name": "Pradeep Bista",
+    "district": "Kathmandu-10",
+    "votes": 37469,
+    "party": "Rastriya Swatantra Party (RSP)"
+  },
+  {
+    "id": 66,
+    "name": "Madhu Kumar Chaulagai",
+    "district": "Kavre-1",
+    "votes": 29618,
+    "party": "Rastriya Swatantra Party (RSP)"
+  },
+  {
+    "id": 67,
+    "name": "Badan Kumar Bhandari",
+    "district": "Kavre-2",
+    "votes": 53344,
+    "party": "Rastriya Swatantra Party (RSP)"
+  },
+  {
+    "id": 68,
+    "name": "Prakash Gautam",
+    "district": "Makwanpur-1",
+    "votes": 36033,
+    "party": "Rastriya Swatantra Party (RSP)"
+  },
+  {
+    "id": 69,
+    "name": "Prashant Upreti",
+    "district": "Makwanpur-2",
+    "votes": 30050,
+    "party": "Rastriya Swatantra Party (RSP)"
+  },
+  {
+    "id": 70,
+    "name": "Ashika Tamang",
+    "district": "Dhading-1",
+    "votes": 39128,
+    "party": "Rastriya Swatantra Party (RSP)"
+  },
+  {
+    "id": 71,
+    "name": "Bodhanarayan Shrestha",
+    "district": "Dhading-2",
+    "votes": 26145,
+    "party": "Rastriya Swatantra Party (RSP)"
+  },
+  {
+    "id": 72,
+    "name": "Bikram Timilsina",
+    "district": "Nuwakot-1",
+    "votes": 22609,
+    "party": "Rastriya Swatantra Party (RSP)"
+  },
+  {
+    "id": 73,
+    "name": "Achyut Lamichhane",
+    "district": "Nuwakot-2",
+    "votes": 32054,
+    "party": "Rastriya Swatantra Party (RSP)"
+  },
+  {
+    "id": 74,
+    "name": "Bharat Prasad Parajuli",
+    "district": "Sindhupalchok-1",
+    "votes": 24412,
+    "party": "Rastriya Swatantra Party (RSP)"
+  },
+  {
+    "id": 75,
+    "name": "Krishna Hari Budhathoki",
+    "district": "Ramechhap-1",
+    "votes": 24808,
+    "party": "Rastriya Swatantra Party (RSP)"
+  },
+  {
+    "id": 76,
+    "name": "Dhanendra Karki",
+    "district": "Sindhuli-1",
+    "votes": 16659,
+    "party": "Rastriya Swatantra Party (RSP)"
+  },
+  {
+    "id": 77,
+    "name": "Ashish Gajurel",
+    "district": "Sindhuli-2",
+    "votes": 17940,
+    "party": "Rastriya Swatantra Party (RSP)"
+  },
+  {
+    "id": 78,
+    "name": "Jagdish Kharel",
+    "district": "Dolakha-1",
+    "votes": 32376,
+    "party": "Rastriya Swatantra Party (RSP)"
+  },
+  {
+    "id": 79,
+    "name": "Rajan Gautam",
+    "district": "Nawalpur-1",
+    "votes": 50945,
+    "party": "Rastriya Swatantra Party (RSP)"
+  },
+  {
+    "id": 80,
+    "name": "Manish Khanal",
+    "district": "Nawalpur-2",
+    "votes": 41347,
+    "party": "Rastriya Swatantra Party (RSP)"
+  },
+  {
+    "id": 81,
+    "name": "Khadka Raj Paudel",
+    "district": "Kaski-1",
+    "votes": 39883,
+    "party": "Rastriya Swatantra Party (RSP)"
+  },
+  {
+    "id": 82,
+    "name": "Uttam Prasad Paudel",
+    "district": "Kaski-2",
+    "votes": 31911,
+    "party": "Rastriya Swatantra Party (RSP)"
+  },
+  {
+    "id": 83,
+    "name": "Bina Gurung",
+    "district": "Kaski-3",
+    "votes": 37750,
+    "party": "Rastriya Swatantra Party (RSP)"
+  },
+  {
+    "id": 84,
+    "name": "Swarnim Wagle",
+    "district": "Tanahun-1",
+    "votes": 38040,
+    "party": "Rastriya Swatantra Party (RSP)"
+  },
+  {
+    "id": 85,
+    "name": "Shriram Neupane",
+    "district": "Tanahun-2",
+    "votes": 32687,
+    "party": "Rastriya Swatantra Party (RSP)"
+  },
+  {
+    "id": 86,
+    "name": "Dharma Raj KC",
+    "district": "Lamjung-1",
+    "votes": 33898,
+    "party": "Rastriya Swatantra Party (RSP)"
+  },
+  {
+    "id": 87,
+    "name": "Sudhan Gurung",
+    "district": "Gorkha-1",
+    "votes": 29896,
+    "party": "Rastriya Swatantra Party (RSP)"
+  },
+  {
+    "id": 88,
+    "name": "Kavindra Burlakoti",
+    "district": "Gorkha-2",
+    "votes": 26660,
+    "party": "Rastriya Swatantra Party (RSP)"
+  },
+  {
+    "id": 89,
+    "name": "Dhananjay Regmi",
+    "district": "Syangja-1",
+    "votes": 29071,
+    "party": "Rastriya Swatantra Party (RSP)"
+  },
+  {
+    "id": 90,
+    "name": "Jhabilal Dumre",
+    "district": "Syangja-2",
+    "votes": 25354,
+    "party": "Rastriya Swatantra Party (RSP)"
+  },
+  {
+    "id": 91,
+    "name": "Sagar Bhusal",
+    "district": "Parbat-1",
+    "votes": 26561,
+    "party": "Rastriya Swatantra Party (RSP)"
+  },
+  {
+    "id": 92,
+    "name": "Sushil Khadka",
+    "district": "Baglung-1",
+    "votes": 20927,
+    "party": "Rastriya Swatantra Party (RSP)"
+  },
+  {
+    "id": 93,
+    "name": "Som Sharma",
+    "district": "Baglung-2",
+    "votes": 12647,
+    "party": "Rastriya Swatantra Party (RSP)"
+  },
+  {
+    "id": 94,
+    "name": "Madhav Bahadur Thapa",
+    "district": "Palpa-2",
+    "votes": 26736,
+    "party": "Rastriya Swatantra Party (RSP)"
+  },
+  {
+    "id": 95,
+    "name": "Sunil Lamsal",
+    "district": "Rupandehi-1",
+    "votes": 54845,
+    "party": "Rastriya Swatantra Party (RSP)"
+  },
+  {
+    "id": 96,
+    "name": "Sulav Kharel",
+    "district": "Rupandehi-2",
+    "votes": 56550,
+    "party": "Rastriya Swatantra Party (RSP)"
+  },
+  {
+    "id": 97,
+    "name": "Dr. Lekh Jung Thapa",
+    "district": "Rupandehi-3",
+    "votes": 58814,
+    "party": "Rastriya Swatantra Party (RSP)"
+  },
+  {
+    "id": 98,
+    "name": "Kanhaiya Baniya",
+    "district": "Rupandehi-4",
+    "votes": 28066,
+    "party": "Rastriya Swatantra Party (RSP)"
+  },
+  {
+    "id": 99,
+    "name": "Taufiq Ahmad Khan",
+    "district": "Rupandehi-5",
+    "votes": 38806,
+    "party": "Rastriya Swatantra Party (RSP)"
+  },
+  {
+    "id": 100,
+    "name": "Vikram Khanal",
+    "district": "Nawalparasi-1",
+    "votes": 45241,
+    "party": "Rastriya Swatantra Party (RSP)"
+  },
+  {
+    "id": 101,
+    "name": "Narendra Kumar Gupta",
+    "district": "Nawalparasi-2",
+    "votes": 45241,
+    "party": "Rastriya Swatantra Party (RSP)"
+  },
+  {
+    "id": 102,
+    "name": "Devraj Pathak",
+    "district": "Dang-1",
+    "votes": 42602,
+    "party": "Rastriya Swatantra Party (RSP)"
+  },
+  {
+    "id": 103,
+    "name": "Bipin Kumar Acharya",
+    "district": "Dang-2",
+    "votes": 43822,
+    "party": "Rastriya Swatantra Party (RSP)"
+  },
+  {
+    "id": 104,
+    "name": "Kamal Subedi",
+    "district": "Dang-3",
+    "votes": 44248,
+    "party": "Rastriya Swatantra Party (RSP)"
+  },
+  {
+    "id": 105,
+    "name": "Thakur Singh Tharu",
+    "district": "Bardiya-1",
+    "votes": 49630,
+    "party": "Rastriya Swatantra Party (RSP)"
+  },
+  {
+    "id": 106,
+    "name": "Shridhar Pokhrel",
+    "district": "Bardiya-2",
+    "votes": 29678,
+    "party": "Rastriya Swatantra Party (RSP)"
+  },
+  {
+    "id": 107,
+    "name": "Mohanlal Acharya",
+    "district": "Kapilvastu-1",
+    "votes": 34148,
+    "party": "Rastriya Swatantra Party (RSP)"
+  },
+  {
+    "id": 108,
+    "name": "Vikram Thapa",
+    "district": "Kapilvastu-2",
+    "votes": 27635,
+    "party": "Rastriya Swatantra Party (RSP)"
+  },
+  {
+    "id": 109,
+    "name": "Suresh Kumar Chaudhary",
+    "district": "Banke-1",
+    "votes": 32792,
+    "party": "Rastriya Swatantra Party (RSP)"
+  },
+  {
+    "id": 110,
+    "name": "Khagendra Sunar",
+    "district": "Banke-3",
+    "votes": 29551,
+    "party": "Rastriya Swatantra Party (RSP)"
+  },
+  {
+    "id": 111,
+    "name": "Sagar Dhakal",
+    "district": "Gulmi-1",
+    "votes": 29642,
+    "party": "Rastriya Swatantra Party (RSP)"
+  },
+  {
+    "id": 112,
+    "name": "Govinda Panthi",
+    "district": "Gulmi-2",
+    "votes": 16967,
+    "party": "Rastriya Swatantra Party (RSP)"
+  },
+  {
+    "id": 113,
+    "name": "Sushant Vaidik",
+    "district": "Pyuthan-1",
+    "votes": 27469,
+    "party": "Rastriya Swatantra Party (RSP)"
+  },
+  {
+    "id": 114,
+    "name": "Hari Prasad Bhusal",
+    "district": "Arghakhanchi-1",
+    "votes": 35023,
+    "party": "Rastriya Swatantra Party (RSP)"
+  },
+  {
+    "id": 115,
+    "name": "Ramesh Kumar Sapkota",
+    "district": "Surkhet-2",
+    "votes": 30378,
+    "party": "Rastriya Swatantra Party (RSP)"
+  },
+  {
+    "id": 116,
+    "name": "Dipak Raj Bohara",
+    "district": "Kanchanpur-2",
+    "votes": 33952,
+    "party": "Rastriya Swatantra Party (RSP)"
+  },
+  {
+    "id": 117,
+    "name": "Gyanendra Singh Mahata",
+    "district": "Kanchanpur-3",
+    "votes": 27118,
+    "party": "Rastriya Swatantra Party (RSP)"
+  },
+  {
+    "id": 118,
+    "name": "Janak Singh Dhami",
+    "district": "Kanchanpur-1",
+    "votes": 24332,
+    "party": "Rastriya Swatantra Party (RSP)"
+  },
+  {
+    "id": 119,
+    "name": "Komal Gnyawali",
+    "district": "Kailali-1",
+    "votes": 17826,
+    "party": "Rastriya Swatantra Party (RSP)"
+  },
+  {
+    "id": 120,
+    "name": "KP Khanal",
+    "district": "Kailali-2",
+    "votes": 19057,
+    "party": "Rastriya Swatantra Party (RSP)"
+  },
+  {
+    "id": 121,
+    "name": "Jagat Prasad Joshi",
+    "district": "Kailali-3",
+    "votes": 20359,
+    "party": "Rastriya Swatantra Party (RSP)"
+  },
+  {
+    "id": 122,
+    "name": "Khemraj Koirala",
+    "district": "Kailali-4",
+    "votes": 28556,
+    "party": "Rastriya Swatantra Party (RSP)"
+  },
+  {
+    "id": 123,
+    "name": "Ananda Bahadur Chand",
+    "district": "Kailali-5",
+    "votes": 31953,
+    "party": "Rastriya Swatantra Party (RSP)"
+  },
+  {
+    "id": 124,
+    "name": "Tara Prasad Joshi",
+    "district": "Dadeldhura-1",
+    "votes": 19131,
+    "party": "Rastriya Swatantra Party (RSP)"
+  },
+  {
+    "id": 125,
+    "name": "Hari Mohan Bhandari",
+    "district": "Baitadi-1",
+    "votes": 22134,
+    "party": "Rastriya Swatantra Party (RSP)"
+  },
+  {
+    "id": 126,
+    "name": "Narendra Kumar Kerung",
+    "district": "Panchthar-1",
+    "votes": 17233,
+    "party": "Nepali Congress"
+  },
+  {
+    "id": 127,
+    "name": "Nishkal Rai",
+    "district": "Illam-1",
+    "votes": 14543,
+    "party": "Nepali Congress"
+  },
+  {
+    "id": 128,
+    "name": "Santosh Subba",
+    "district": "Terhathum-1",
+    "votes": 11561,
+    "party": "Nepali Congress"
+  },
+  {
+    "id": 129,
+    "name": "Prakash Singh Karki",
+    "district": "Solukhumbu-1",
+    "votes": 13166,
+    "party": "Nepali Congress"
+  },
+  {
+    "id": 130,
+    "name": "Md. Firdosh Alam",
+    "district": "Rautahat-2",
+    "votes": 29528,
+    "party": "Nepali Congress"
+  },
+  {
+    "id": 131,
+    "name": "Mohan Acharya",
+    "district": "Rasuwa-1",
+    "votes": 10656,
+    "party": "Nepali Congress"
+  },
+  {
+    "id": 132,
+    "name": "Tek Bahadur Gurung",
+    "district": "Manang-1",
+    "votes": 2415,
+    "party": "Nepali Congress"
+  },
+  {
+    "id": 133,
+    "name": "Yogesh Gauchan Thakali",
+    "district": "Mustang-1",
+    "votes": 3307,
+    "party": "Nepali Congress"
+  },
+  {
+    "id": 134,
+    "name": "Sandip Rana",
+    "district": "Palpa-1",
+    "votes": 18336,
+    "party": "Nepali Congress"
+  },
+  {
+    "id": 135,
+    "name": "Abhishek Pratap Shah",
+    "district": "Kapilvastu-3",
+    "votes": 23535,
+    "party": "Nepali Congress"
+  },
+  {
+    "id": 136,
+    "name": "Bishnu Bahadur Khadka",
+    "district": "Surkhet-1",
+    "votes": 26897,
+    "party": "Nepali Congress"
+  },
+  {
+    "id": 137,
+    "name": "Basana Thapa",
+    "district": "Dailekh-1",
+    "votes": 12372,
+    "party": "Nepali Congress"
+  },
+  {
+    "id": 138,
+    "name": "Khadak Bahadur Budha",
+    "district": "Jajarkot-1",
+    "votes": 20142,
+    "party": "Nepali Congress"
+  },
+  {
+    "id": 139,
+    "name": "Jaya Pati Rokaya",
+    "district": "Humla-1",
+    "votes": 8797,
+    "party": "Nepali Congress"
+  },
+  {
+    "id": 140,
+    "name": "Khadga Shahi",
+    "district": "Mugu-1",
+    "votes": 7914,
+    "party": "Nepali Congress"
+  },
+  {
+    "id": 141,
+    "name": "Janak Raj Giri",
+    "district": "Bajura-1",
+    "votes": 17173,
+    "party": "Nepali Congress"
+  },
+  {
+    "id": 142,
+    "name": "Bharat Kumar Swar",
+    "district": "Achham-1",
+    "votes": 10759,
+    "party": "Nepali Congress"
+  },
+  {
+    "id": 143,
+    "name": "Bharat Bahadur Khadka",
+    "district": "Doti-1",
+    "votes": 14897,
+    "party": "Nepali Congress"
+  },
+  {
+    "id": 144,
+    "name": "Khitiz Thebe",
+    "district": "Taplejung-1",
+    "votes": 13962,
+    "party": "CPN (UML)"
+  },
+  {
+    "id": 145,
+    "name": "Suhang Nembang",
+    "district": "Illam-2",
+    "votes": 22426,
+    "party": "CPN (UML)"
+  },
+  {
+    "id": 146,
+    "name": "Rajendra Kumar Rai",
+    "district": "Dhankuta-1",
+    "votes": 18132,
+    "party": "CPN (UML)"
+  },
+  {
+    "id": 147,
+    "name": "Arjun Kumar Karki",
+    "district": "Sankhuwasabha-1",
+    "votes": 15636,
+    "party": "CPN (UML)"
+  },
+  {
+    "id": 148,
+    "name": "Mohammad Ishtiyak Rai",
+    "district": "Banke-2",
+    "votes": 24628,
+    "party": "CPN (UML)"
+  },
+  {
+    "id": 149,
+    "name": "Laxmi Prasad Pokharel",
+    "district": "Dailekh-2",
+    "votes": 13889,
+    "party": "CPN (UML)"
+  },
+  {
+    "id": 150,
+    "name": "Ain Bahadur Mahar",
+    "district": "Bajhang-1",
+    "votes": 18543,
+    "party": "CPN (UML)"
+  },
+  {
+    "id": 151,
+    "name": "Yagya Bahadur Bogati",
+    "district": "Achham-2",
+    "votes": 9518,
+    "party": "CPN (UML)"
+  },
+  {
+    "id": 152,
+    "name": "Ganesh Singh Thagunna",
+    "district": "Darchula-1",
+    "votes": 18891,
+    "party": "CPN (UML)"
+  },
+  {
+    "id": 153,
+    "name": "Matrika Prasad Yadav",
+    "district": "Dhanusha-1",
+    "votes": 10428,
+    "party": "CPN (Maoist Centre)"
+  },
+  {
+    "id": 154,
+    "name": "Yubraj Dulal",
+    "district": "Sindhupalchok-2",
+    "votes": 21699,
+    "party": "CPN (Maoist Centre)"
+  },
+  {
+    "id": 155,
+    "name": "Barshman Pun",
+    "district": "Rolpa-1",
+    "votes": 27460,
+    "party": "CPN (Maoist Centre)"
+  },
+  {
+    "id": 156,
+    "name": "Pushpa Kamal Dahal",
+    "district": "Rukum East-1",
+    "votes": 10240,
+    "party": "CPN (Maoist Centre)"
+  },
+  {
+    "id": 157,
+    "name": "Gopal Sharma",
+    "district": "Rukum West-1",
+    "votes": 21609,
+    "party": "CPN (Maoist Centre)"
+  },
+  {
+    "id": 158,
+    "name": "Ramesh Kumar Malla",
+    "district": "Salyan-1",
+    "votes": 23189,
+    "party": "CPN (Maoist Centre)"
+  },
+  {
+    "id": 159,
+    "name": "Dhan Bahadur Budha",
+    "district": "Dolpa-1",
+    "votes": 6802,
+    "party": "CPN (Maoist Centre)"
+  },
+  {
+    "id": 160,
+    "name": "Mahendra Bahadur Shahi",
+    "district": "Kalikot-1",
+    "votes": 11338,
+    "party": "CPN (Maoist Centre)"
+  },
+  {
+    "id": 161,
+    "name": "Harka Raj Rai",
+    "district": "Sunsari-1",
+    "votes": 35741,
+    "party": "Saramsaritpi Party"
+  },
+  {
+    "id": 162,
+    "name": "Dhurbaraj Rai",
+    "district": "Bhojpur-1",
+    "votes": 16663,
+    "party": "Saramsaritpi Party"
+  },
+  {
+    "id": 163,
+    "name": "Aren Rai",
+    "district": "Khotang-1",
+    "votes": 16612,
+    "party": "Saramsaritpi Party"
+  },
+  {
+    "id": 164,
+    "name": "Gyan Bahadur Shahi",
+    "district": "Jumla-1",
+    "votes": 14816,
+    "party": "Rastriya Prajatantra Party (RPP)"
+  },
+  {
+    "id": 165,
+    "name": "Mahabir Pun",
+    "district": "Independent",
+    "votes": 22850,
+    "party": "Independent"
+  }
+]
+```
